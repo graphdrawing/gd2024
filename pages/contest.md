@@ -3,9 +3,9 @@
 layout: single
 title: "GD Contest"
 header:
-  image: /assets/images/teaser/sakura.png
-  caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
-last_modified_at: 2021-10-28
+  image: /assets/images/teaser/nature.png
+  caption: "Image credit: [**Lukas Baumann**](https://unsplash.com/photos/3HfojmWqSBc)"
+last_modified_at: 2023-07-24
 toc: true
 ---
 

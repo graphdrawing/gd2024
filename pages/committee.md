@@ -3,9 +3,9 @@
 layout: single
 title: "Committee"
 header:
-  image: /assets/images/teaser/snow.png
-  caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
-last_modified_at: 2021-10-26
+  image: /assets/images/teaser/night.png
+  caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
+last_modified_at: 2024-07-24
 toc: true
 ---
 

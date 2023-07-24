@@ -5,9 +5,9 @@ classes: wide
   - landing
 #  - dark-theme
 header:
-  image: /assets/images/teaser/sakura.png
-  caption: "Image credit: [**Tokyo Tech**](https://www.titech.ac.jp/english)"
-last_modified_at: 2024-07-17
+  image: /assets/images/teaser/stephansdom.png
+  caption: "Image credit: [**Dan V.**](https://unsplash.com/photos/S5x5rrsDixk)"
+last_modified_at: 2023-07-24
 ---
 
 
