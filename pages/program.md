@@ -8,7 +8,7 @@ header:
 last_modified_at: 2023-07-24
 toc: true
 ---
-
+<!-- 
 | WEDNESDAY&nbsp;                                                 |
 |---------------|----------------|-----|------------|-------|
 | TIME (JST)    | ACTIVITY       | MIN | AUTHORS    |       |
@@ -262,4 +262,4 @@ His main interests are in network analysis and visualization, with application t
 
 - Giuseppe Liotta, Maarten Loffler, Fabrizio Montecchiani, Alessandra Tappini and Soeren Terziadis. The Witness Unit Disk Representability Problem <span style="color:red">[Best Poster Award]</span>
 
-- David Trye, Mark Apperley and David Bainbridge. Aggregating Hypergraphs by Node Attributes
+- David Trye, Mark Apperley and David Bainbridge. Aggregating Hypergraphs by Node Attributes -->

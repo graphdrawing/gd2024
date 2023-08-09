@@ -11,7 +11,7 @@ toc: true
 
 ## Visiting the Venue
 
-You can find the instruction on the website of [Tokyo Institute of Technology](https://www.titech.ac.jp/english/0/maps)
+<!-- You can find the instruction on the website of [Tokyo Institute of Technology](https://www.titech.ac.jp/english/0/maps)
 {: style="text-align: justify;"}
 
 ## Access
@@ -28,4 +28,4 @@ Take the Ikegami Line (a small train with only three cars) from Gotanda Station 
 
 ### From the main gate to the symposium site (West Bldg. 9)
 
-The main gate of the campus is conveniently located in front of the Ookayama station.  From the main gate of the university, take a right and walk down the winding road beside the seemingly unstable triangular building (the university library), and you will soon see West Building No. 9 on your left.  The Digital Multipurpose Hall is to the right of the entrance.
+The main gate of the campus is conveniently located in front of the Ookayama station.  From the main gate of the university, take a right and walk down the winding road beside the seemingly unstable triangular building (the university library), and you will soon see West Building No. 9 on your left.  The Digital Multipurpose Hall is to the right of the entrance. -->

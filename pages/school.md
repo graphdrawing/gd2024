@@ -10,7 +10,7 @@ toc: true
 ---
 
 # Program
-
+<!-- 
 | Event (JST)                 | Speaker                               |
 |-----------------------------|---------------------------------------|
 | Sep. 12, 01:00PM - 03:00PM	| Yoshio Okamoto                        |
@@ -65,4 +65,4 @@ Quality metrics are important for evaluation of graph drawing algorithms, howeve
 <p> <strong> Title: </strong> </p>
 <p> Crossing layout for non-planar graph drawing </p>
 <p> <strong> Abstract: </strong> </p>
-<p> Edge crossings are typically undesired in graph drawings as they negatively affect readability. Yet non-planar graphs are abundant in applications and hence we need techniques for better graph layouts in the presence of some edge crossings. We discuss different approaches to improve the geometric representation of crossings and take a look at their corresponding algorithmic problems. </p>
+<p> Edge crossings are typically undesired in graph drawings as they negatively affect readability. Yet non-planar graphs are abundant in applications and hence we need techniques for better graph layouts in the presence of some edge crossings. We discuss different approaches to improve the geometric representation of crossings and take a look at their corresponding algorithmic problems. </p> -->

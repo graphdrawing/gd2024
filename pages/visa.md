@@ -10,7 +10,7 @@ toc: true
 ---
 
 ## Visa Acquisition Procedure
-
+<!-- 
 Due to the strict immigration policy of the Japanese government, every foreign participant is required to acquire a visa by submitting the following materials to the participants' local Japanese embassy:
 
 1. Valid passport and visa
@@ -23,4 +23,4 @@ Regarding the certificate for ERFS registration, the organizer requires all onsi
 Also, participants from specific countries (at least China) require extra documents including an invitation letter, itinerary in Japan, certificate of residence, letter of guarantee, documents summarizing the symposium, and certificate of employment of the general chair. Please submit this [form](https://docs.google.com/forms/d/e/1FAIpQLSfHAVug6Akqp8m10xFRG69RW16vfKmLQkhSHwwU38LJSbTFKQ/viewform?usp=sf_link) if you need these documents. Remark that we charge the document posting fee as explained on the registration page because we must send the documents via postal mail. We will start the document preparation when the transaction for the document posting fee is completed.
 
 Each country of the Japanese embassy has a different immigration policy as described on the following [page](https://www.mofa.go.jp/j_info/visit/visa/index.html).
-Meanwhile, the Japanese embassy strongly suggests participants contacting their local Japanese embassy and clarify what materials they need to submit to acquire the visa by participants themselves.  Also, the immigration policy of each country of the Japanese embassy occasionally changes. It is important to clarify by participants themselves.
+Meanwhile, the Japanese embassy strongly suggests participants contacting their local Japanese embassy and clarify what materials they need to submit to acquire the visa by participants themselves.  Also, the immigration policy of each country of the Japanese embassy occasionally changes. It is important to clarify by participants themselves. -->

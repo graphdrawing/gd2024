@@ -15,11 +15,11 @@ The purpose of the Graph Drawing Contest is to monitor and challenge the current
 {: style="text-align: justify;"}
 
 ## Important Dates
-
+<!-- 
 
 | Events                      | Dates                                 |
 |-----------------------------|---------------------------------------|
-| Contest deadline	 	        | Tuesday, 6 September 2022             |
+| Contest deadline	 	        | Tuesday, 6 September 2022             | -->
 
 ## Contest Committee
 

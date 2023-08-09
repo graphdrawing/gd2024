@@ -9,7 +9,7 @@ last_modified_at: 2023-07-24
 toc: true
 ---
 
-[Download the call for papers as PDF](https://graphdrawing.github.io/gd2022/assets/pdfs/CallforPapers2022.pdf)
+[Download the call for papers as PDF](https://graphdrawing.github.io/gd2024/assets/pdfs/CallforPapers2024.pdf)
 
 ## Full Papers
 
@@ -74,7 +74,7 @@ A TVCG papers session at the Graph Drawing conference will also feature regular 
 For each of the two tracks, the Program Committee of GD 2022 will bestow a **Best Paper Award**. In addition, to recognize the effort of participants to present their work and to prepare their posters in a clear and elegant way, there will be a **Best Presentation Award** and a **Best Poster Award** voted on by the GD 2022 attendees.
 
 ## Important Dates
-
+<!-- 
 | Events                      | Dates                                 |
 |-----------------------------|---------------------------------------|
 | Abstract submission	        | Wednesday, 1 June 2022 (23:59 PDT)                |
@@ -83,4 +83,4 @@ For each of the two tracks, the Program Committee of GD 2022 will bestow a **Bes
 | Poster deadline		          | Wednesday, 10 August 2022 (23:59 PDT)             |
 | Poster notification		      | Friday, 19 August 2022                |
 | Final versions due		      | Monday, 5 September 2022 (23:59 PDT)              |
-| Invitations to special issues   | Frinday, 30 September 2022             |
+| Invitations to special issues   | Frinday, 30 September 2022             | -->

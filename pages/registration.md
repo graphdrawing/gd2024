@@ -10,7 +10,7 @@ toc: true
 ---
 
 ## Symposium Registration
-
+<!-- 
 Graph Drawing 2022 registration fee covers:
 - Attendance of conference delegates to all sessions of the conference
 - Download information for the symposium proceedings
@@ -56,9 +56,8 @@ Please buy tickets for the symposium at the following Web site:
 
 Remarks:
 
-<!-- - On-line registration will be closed on 24:00 on September 5. -->
 - On-site registration will be available. Please register via the registration Web page and pay using your credit card. Please remark credit card is only available for registration.
-<!-- - Please remark credit cards or other digital payments are not available at the conference venue. -->
+
 - Any requests (e.g., dietary restrictions) are expected to be described on the "Dietary requests and other message" column of the registration form.
 - Invitation letter request is available until August 25. 
 
@@ -76,4 +75,4 @@ Every foreign visitor is required to submit a certificate issued by the symposiu
 In addition to the certificate described above, the Japanese embassy in some countries requires additional documents.  Requests for the documents are only applicable for participants who completed the registration and payment of the registration fee and invitation letter issue fee (additional 3,000 Japanese yen PER PARTICIPANT).  Please see the [visa page](/gd2022/pages/visa) that describes the details.
 
 Contact: Graph Drawing 2022 Organization Committee
-gd22-organizer(at)graphdrawing.org
+gd22-organizer(at)graphdrawing.org -->

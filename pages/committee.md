@@ -32,7 +32,7 @@ toc: true
 {% endfor %}
 
 ## Program Committee
-
+<!-- 
 * Patrizio Angelini (co-chair), John Cabot University, Italy
 * Therese Biedl, University of Waterloo, Canada
 * Sabine Cornelsen, Universität Konstanz, Germany
@@ -62,7 +62,7 @@ toc: true
 * Alessandra Tappini, University of Perugia, Italy
 * Meirav Zehavi, Ben-Gurion University, Israel
 * Reinhard von Hanxleden (co-chair), Christian-Albrechts-Universität zu Kiel, Germany
-* Tatiana von Landesberger, Universität Köln, Germany
+* Tatiana von Landesberger, Universität Köln, Germany -->
 
 ## Steering Committee
 
