@@ -1,68 +1,28 @@
 {
   "OC-Members": [
     {
-      "Role": "General Conference Chair",
-      "First": "Takayuki",
-      "Given": "Itoh",
-      "Affiliation": "Ochanomizu University, Japan",
+      "Role": "General Conference Co-Chair",
+      "First": "Martin",
+      "Given": "Nöllenburg",
+      "Affiliation": "Technische Universität Wien, Austria",
       "Photo": "yes",
-      "Website": "http://itolab.is.ocha.ac.jp/~itot/"
+      "Website": "https://www.ac.tuwien.ac.at/people/noellenburg/"
     },
     {
-      "Role": "Program Co-chairs",
-      "First": "Patrizio",
-      "Given": "Angelini",
-      "Affiliation": "John Cabot Universityi, Italy",
+      "Role": "General Conference Co-Chair",
+      "First": "Robert",
+      "Given": "Ganian",
+      "Affiliation": "Technische Universität Wien, Austria",
       "Photo": "yes",
-      "Website": "https://www.johncabot.edu/faculty/patrizio-angelini"
-    },
-    {
-      "Role": "Program Co-chairs",
-      "First": "Reinhard",
-      "Given": "von Hanxleden",
-      "Affiliation": "Kiel University, Germany",
-      "Photo": "yes",
-      "Website": "https://www.rtsys.informatik.uni-kiel.de/en/team/rvh"
-    },
-    {
-      "Role": "Local Co-organizer (Local Arrangement)",
-      "First": "Ken",
-      "Given": "Wakita",
-      "Affiliation": "Tokyo Institute of Technology, Japan",
-      "Photo": "yes",
-      "Website": "https://kwakita.blog"
-    },
-    {
-      "Role": "Local Co-organizer (Online)",
-      "First": "Masahiko",
-      "Given": "Itoh",
-      "Affiliation": "Hokkaido Information University, Japan",
-      "Photo": "yes",
-      "Website": "http://masahiko-itoh.blogspot.com/p/profile.html"
+      "Website": "https://www.ac.tuwien.ac.at/people/rganian/"
     },
     {
       "Role": "Local Co-organizer (Publicity)",
       "First": "Hsiang-Yun",
       "Given": "Wu",
-      "Affiliation": "St. PÃ¶lten University of Applied Sciences, Austria",
+      "Affiliation": "St. Pölten University of Applied Sciences, Austria",
       "Photo": "yes",
       "Website": "http://yun-vis.net"
-    },
-    {
-      "Role": "Local Co-organizer (Administration)",
-      "First": "Rina",
-      "Given": "Nakazawa",
-      "Affiliation": "IBM Research, Japan",
-      "Photo": "yes",
-      "Website": "https://researcher.watson.ibm.com/researcher/view.php?person=jp-RINA"
-    },
-    {
-      "Role": "Local Co-organizer (Registration)",
-      "First": "Yuri",
-      "Given": "Miyagi",
-      "Affiliation": "National Institute of Advanced Industrial Science and Technology (AIST), Japan",
-      "Photo": "yes",
-      "Website": ""
     }
   ],
   "PC-Memers": [
@@ -70,7 +30,7 @@
       "Role": "PC members",
       "First": "Hsiang-Yun",
       "Given": "Wu",
-      "Affiliation": "St. PÃ¶lten University of Applied Sciences, Austria"
+      "Affiliation": "St. Pölten University of Applied Sciences, Austria"
     }
   ],
   "ImportantDates": [

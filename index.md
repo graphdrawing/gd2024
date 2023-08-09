@@ -7,7 +7,7 @@ classes: wide
 header:
   image: /assets/images/teaser/stephansdom.png
   caption: "Image credit: [**Dan V.**](https://unsplash.com/photos/S5x5rrsDixk)"
-last_modified_at: 2023-07-24
+last_modified_at: 2023-08-09
 ---
 
 
@@ -34,8 +34,8 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 | Poster notification		      | Friday, xx August 2024                |
 | Final versions due		      | Monday, xx September 2024              |
 | Contest deadline	 	        | Tuesday, xx September 2024             |
-| PhD School		              | xx (Mon)-xx (Tue) September 2024      |
-| Symposium		                | xx (Wed)-xx (Fri) September 2024      |
+| PhD School		              | 16 (Mon)-17 (Tue) September 2024      |
+| Symposium		                | 18 (Wed)-20 (Fri) September 2024      |
 
 <!-- {% assign data = site.data.publicity %}
 {% for date in data.ImportantDates %}
