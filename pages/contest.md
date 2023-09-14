@@ -11,7 +11,7 @@ toc: true
 
 ## GD Contest 2024
 
-The purpose of the Graph Drawing Contest is to monitor and challenge the current state of the graph-drawing technology and to stimulate new research directions for graph layout algorithm. Information about past and current contests can be found on this [website](http://mozart.diei.unipg.it/gdcontest/).
+The purpose of the Graph Drawing Contest is to monitor and challenge the current state of the graph-drawing technology and to stimulate new research directions for graph layout algorithms. Information about past and current contests can be found on this [website](http://mozart.diei.unipg.it/gdcontest/).
 {: style="text-align: justify;"}
 
 
