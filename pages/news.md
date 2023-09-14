@@ -9,9 +9,9 @@ last_modified_at: 2023-07-24
 toc: true
 ---
 
-The GD2024 organization committee is currently preparing the on-site symposium. However, please understand that this may change to an online-only event depending on the future status of the COVID19 infection.
+The GD2024 organization committee is currently preparing the on-site symposium. More information will be provided as soon as it becomes available.
 
-<!-- The discount registration fee for online participants will be applied only to the audience. At least one presenter for each paper or poster is required to register as an on-site participant. -->
+<!-- However, please understand that this may change to an online-only event depending on the future status of the COVID19 infection. 
 
 We will suppose three types of registrations:
 
