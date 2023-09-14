@@ -16,13 +16,15 @@ last_modified_at: 2023-08-09
 Graph Drawing is concerned with the geometric representation of graphs and constitutes the algorithmic core of Network Visualization. Graph Drawing and Network Visualization are motivated by applications where it is crucial to visually analyze and interact with relational datasets. Examples of such application areas include data science, social sciences, Web computing, information systems, biology, geography, business intelligence, information security and software engineering.
 {: style="text-align: justify;"}
 
-The symposium on Graph Drawing and Network Visualization has been the main annual event in this area for more than 25 years. Its focus is on combinatorial and algorithmic aspects of graph drawing as well as the design of network visualization systems and interfaces.
+The symposium on Graph Drawing and Network Visualization has been the main annual event in this area for more than 30 years. Its focus is on combinatorial and algorithmic aspects of graph drawing as well as the design of network visualization systems and interfaces.
 {: style="text-align: justify;"}
 
 
 ---
 
-## Important Dates
+## More information about the symposium will be announced later.
+
+<!--## Important Dates
 
 
 | Events                      | Dates                                 |
@@ -40,7 +42,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 <!-- {% assign data = site.data.publicity %}
 {% for date in data.ImportantDates %}
 |{{ date.Event }} | {{ date.Date }}|
-{% endfor %} -->
+{% endfor %} 
 
 
 ## Reasons to attend GD2022
@@ -64,3 +66,4 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 <a href="https://www.springer.com" target="_blank"><img src="../gd2022/assets/images/sponsor/springer.png" width="180" /></a><br /><br />
 <a href="https://www.springer.com" target="_blank"><strong>Springer</strong><br /></a>
+-->
