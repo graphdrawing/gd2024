@@ -13,6 +13,8 @@ toc: true
 
 ## Full Papers
 
+More information about GD 2024 will be made available later.
+
 We invite authors to submit papers describing original research of theoretical or practical significance to graph drawing and network visualization. To promote a balanced coverage of the field, GD has two distinct tracks, and papers submitted to one track will not compete with papers submitted to the other track. Regular papers must be submitted explicitly to one of the two tracks. However, all program committee members may review papers from either track.
 
 ### Track 1: Combinatorial and algorithmic aspects
