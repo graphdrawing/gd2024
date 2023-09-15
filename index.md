@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The 32th International Symposium on Graph Drawing and Network Visualization"
+title: "The 32nd International Symposium on Graph Drawing and Network Visualization"
 classes: wide
   - landing
 #  - dark-theme
