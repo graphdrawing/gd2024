@@ -64,6 +64,8 @@ toc: true
 * Reinhard von Hanxleden (co-chair), Christian-Albrechts-Universität zu Kiel, Germany
 * Tatiana von Landesberger, Universität Köln, Germany -->
 
+## Contest Committee
+
 ## Steering Committee
 
 Please refer to [graphdrawing.org](http://graphdrawing.org/sc.html)
