@@ -1,23 +1,23 @@
 # main links
 main:
-  - title: "Important News"
+  - title: "News"
     url: /pages/news
-  - title: "Call for Papers"
-    url: /pages/cfp
-  - title: "Committee"
+  # - title: "Call for Papers"
+  #  url: /pages/cfp
+  - title: "Committees"
     url: /pages/committee
-  - title: "Program"
-    url: /pages/program
+  # - title: "Program"
+  #  url: /pages/program
   - title: "Venue"
     url: /pages/venue
-  - title: "Registration"
-    url: /pages/registration
-  - title: "Visa"
-    url: /pages/visa
-  - title: "PhD School"
-    url: /pages/school
-  - title: "Contest"
-    url: /pages/contest
+  # - title: "Registration"
+  #  url: /pages/registration
+  # - title: "Visa"
+  #  url: /pages/visa
+  # - title: "PhD School"
+  #  url: /pages/school
+  # - title: "Contest"
+  #  url: /pages/contest
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
