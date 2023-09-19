@@ -32,6 +32,10 @@ toc: true
 {% endfor %}
 
 ## Program Committee
+
+* Stefan Felsner, TU Berlin, Germany
+* Karsten Klein, Universität Konstanz, Germany
+
 <!-- 
 * Patrizio Angelini (co-chair), John Cabot University, Italy
 * Therese Biedl, University of Waterloo, Canada
