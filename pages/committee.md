@@ -33,8 +33,8 @@ toc: true
 
 ## Program Committee
 
-* Stefan Felsner, TU Berlin, Germany
-* Karsten Klein, Universität Konstanz, Germany
+* Stefan Felsner (co-chair), TU Berlin, Germany
+* Karsten Klein (co-chair), Universität Konstanz, Germany
 
 <!-- 
 * Patrizio Angelini (co-chair), John Cabot University, Italy
