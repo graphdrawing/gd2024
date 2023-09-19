@@ -12,7 +12,7 @@ last_modified_at: 2023-08-09
 
 ## Dates
 
-September 18--20, 2024
+September 18-20, 2024
 
 ## About Graph Drawing 2024
 
