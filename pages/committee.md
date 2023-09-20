@@ -70,9 +70,7 @@ toc: true
 
 ## Contest Committee
 
-* Philipp Kindermann, Universität Trier, Germany
 * Fabian Klute, Polytechnic University of Catalonia, Barcelona, Spain
-* Tamara Mchedlidze, Utrecht University, the Netherlands
 * Wouter Meulemans (chair), TU Eindhoven, the Netherlands
 * Debajyoti Mondal, University of Saskatchewan, Canada
 
