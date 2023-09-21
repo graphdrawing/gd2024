@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "The 32nd International Symposium on Graph Drawing and Network Visualization\n September 18-20, 2024 - Vienna, Austria"
-subtitle: "September 18-20, 2024 - Vienna, Austria"
+title: "The 32nd International Symposium on Graph Drawing and Network Visualization"
+subtitle: "September 18-20, 2024 · Vienna, Austria"
 classes: wide
   - landing
 #  - dark-theme
@@ -11,9 +11,7 @@ header:
 last_modified_at: 2023-08-09
 ---
 
-## Dates
-
-September 18-20, 2024
+## September 18-20, 2024 · Vienna, Austria
 
 ## About Graph Drawing 2024
 
