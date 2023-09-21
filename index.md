@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The 32nd International Symposium on Graph Drawing and Network Visualization"
-subtitle: "September 18-20, 2024 ● Vienna, Austria"
+subtitle: "September 18-20, 2024 - Vienna, Austria"
 classes: wide
   - landing
 #  - dark-theme
