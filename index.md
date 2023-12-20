@@ -69,16 +69,16 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ### Gold Sponsor
 
-<a href=" https://yworks.com/?mtm_campaign=events&mtm_kwd=gd24" target="_blank"><img src="../gd2024/assets/images/sponsor/yWorks.png" width="180" /></a><br /><br />
+<a href=" https://yworks.com/?mtm_campaign=events&mtm_kwd=gd24" target="_blank"><img src="../gd2024/assets/images/sponsor/yWorks.png" width="200" /></a><br /><br />
 <a href="https://yworks.com/?mtm_campaign=events&mtm_kwd=gd24" target="_blank"><strong>yWorks</strong></a>
 
 ### Bronze Sponsor
 
-<a href="https://neo4j.com/" target="_blank"><img src="../gd2024/assets/images/sponsor/neo4j.png" width="180" /></a><br /><br />
+<a href="https://neo4j.com/" target="_blank"><img src="../gd2024/assets/images/sponsor/neo4j.png" width="170" /></a><br /><br />
 <a href="https://neo4j.com/" target="_blank"><strong>neo4j</strong></a>
 
 ### Contributor
 
-<a href="https://www.vrvis.at/" target="_blank"><img src="../gd2024/assets/images/sponsor/vrvis.png" width="180" /></a><br /><br />
+<a href="https://www.vrvis.at/" target="_blank"><img src="../gd2024/assets/images/sponsor/vrvis.png" width="140" /></a><br /><br />
 <a href="https://www.vrvis.at/" target="_blank"><strong>vrvis</strong></a>
 
