@@ -69,10 +69,10 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"><a href=" https://yworks.com/?mtm_campaign=events&mtm_kwd=gd24" target="_blank"><img src="../gd2024/assets/images/sponsor/yWorks.png" height="77" /></a><br />
+    <td style="border: none;"><a href=" https://yworks.com/?mtm_campaign=events&mtm_kwd=gd24" target="_blank"><img src="../gd2024/assets/images/sponsor/yWorks.png" width="200" /></a><br />
 <a href="https://yworks.com/?mtm_campaign=events&mtm_kwd=gd24" target="_blank"><strong>yWorks</strong></a></td>
     <td style="border: none;"></td>
-    <td style="border: none;"><a href="https://www.tomsawyer.com" target="_blank"><img src="../gd2024/assets/images/sponsor/Tom_Sawyer_Software.png" height="77" /></a><br />
+    <td style="border: none;"><a href="https://www.tomsawyer.com" target="_blank"><img src="../gd2024/assets/images/sponsor/Tom_Sawyer_Software.png" width="264" /></a><br />
 <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong></a>
 </td>
   </tr>
