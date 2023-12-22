@@ -63,9 +63,9 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 <a href="https://www.springer.com" target="_blank"><strong>Springer</strong><br /></a>
 -->
 
-## Sponsor
+## Sponsors
 
-### Gold Sponsor
+### Gold Sponsors
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
