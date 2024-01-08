@@ -70,9 +70,10 @@ toc: true
 
 ## Contest Committee
 
-* Fabian Klute, Polytechnic University of Catalonia, Barcelona, Spain
-* Wouter Meulemans (chair), TU Eindhoven, the Netherlands
+* Sara Di Bartolomeo, University of Konstanz, Germany
+* Fabian Klute (chair), Polytechnic University of Catalonia, Barcelona, Spain
 * Debajyoti Mondal, University of Saskatchewan, Canada
+* Jules Wulms, TU Eindhoven, Netherlands
 
 ## Steering Committee
 
