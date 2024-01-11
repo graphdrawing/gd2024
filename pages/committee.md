@@ -72,6 +72,7 @@ toc: true
 
 * Sara Di Bartolomeo, University of Konstanz, Germany
 * Fabian Klute (chair), Polytechnic University of Catalonia, Barcelona, Spain
+* Wouter Meulemans, TU Eindhoven, Netherlands
 * Debajyoti Mondal, University of Saskatchewan, Canada
 * Jules Wulms, TU Eindhoven, Netherlands
 
