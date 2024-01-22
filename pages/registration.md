@@ -5,7 +5,7 @@ title: "Registration"
 header:
   image: /assets/images/teaser/schoenbrunn.png
   caption: "Image credit: [**Arthur V.**](https://unsplash.com/photos/b5zOkA3swe8)"
-last_modified_at: 2023-07-24
+# last_modified_at: 2023-07-24
 toc: true
 ---
 

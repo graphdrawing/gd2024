@@ -5,7 +5,7 @@ title: "Venue"
 header:
   image: /assets/images/teaser/night.png
   caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
-last_modified_at: 2023-07-24
+# last_modified_at: 2023-07-24
 toc: true
 ---
 

@@ -5,7 +5,7 @@ title: "GD Contest"
 header:
   image: /assets/images/teaser/nature.png
   caption: "Image credit: [**Lukas Baumann**](https://unsplash.com/photos/3HfojmWqSBc)"
-last_modified_at: 2023-07-24
+# last_modified_at: 2023-07-24
 toc: true
 ---
 
