@@ -8,7 +8,7 @@ classes: wide
 header:
   image: /assets/images/teaser/stephansdom.png
   caption: "Image credit: [**Dan V.**](https://unsplash.com/photos/S5x5rrsDixk)"
-last_modified_at: 2023-08-09
+# last_modified_at: 2023-08-09
 ---
 
 ## September 18-20, 2024 · Vienna, Austria

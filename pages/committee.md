@@ -5,7 +5,7 @@ title: "Committee"
 header:
   image: /assets/images/teaser/night.png
   caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
-last_modified_at: 2024-01-22
+# last_modified_at: 2024-01-22
 toc: true
 ---
 
