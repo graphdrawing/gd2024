@@ -13,6 +13,21 @@ toc: true
 
 ## Organization Committee
 
+### General Conference Co-Chairs
+
+* Martin Nöllenburg, TU Wien, Austria
+* Robert Ganian, TU Wien, Austria
+
+### Local Co-organizers
+
+* Doris Brazda, TU Wien, Austria
+* Thomas Depian, TU Wien, Austria 
+* Alexander Dobler, TU Wien, Austria 
+* Simon Dominik Fink, TU Wien, Austria 
+* Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria
+
+
+<!--
 {% assign role = "" %}
 {% for member in data.OC-Members %}
   {% if role != member.Role %}
@@ -30,6 +45,7 @@ toc: true
 {{ member.Affiliation }}<br /><br />
 </div>
 {% endfor %}
+-->
 
 ## Program Committee
 
