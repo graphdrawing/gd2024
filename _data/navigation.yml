@@ -16,8 +16,8 @@ main:
   #  url: /pages/visa
   # - title: "PhD School"
   #  url: /pages/school
-  # - title: "Contest"
-  #  url: /pages/contest
+  - title: "Contest"
+   url: /pages/contest
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
