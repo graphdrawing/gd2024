@@ -9,6 +9,20 @@ header:
 toc: true
 ---
 
+## Important Dates
+
+| Events                           | Dates                                 |
+|----------------------------------|---------------------------------------|
+| Abstract submission	deadline     | Friday, May 31, 2024                  |
+| Paper submission deadline		     | Friday, June 7, 2024                  |
+| Notification of paper acceptance | Saturday, July 20, 2024               |
+| Poster submission deadline		   | Friday, August 16, 2024               |
+| Notification of poster acceptance| Saturday, August 31, 2024             |
+| Final versions due		           | Friday, September 6, 2024             |
+| Symposium		                     | Wednesday-Friday, September 18-20, 2024          |
+
+(all deadlines are understood to be 23:59 AoE)
+
 [Download the call for papers as PDF](https://graphdrawing.github.io/gd2024/assets/pdfs/Call_for_Papers-2024.pdf)
 
 **Graph Drawing** is concerned with the geometric representation of graphs and constitutes the algorithmic core of **Network Visualization**. Graph Drawing and Network Visualization are motivated by applications where it is crucial to visually analyze
@@ -128,16 +142,3 @@ For each of the two tracks, the Program Committee of GD 2024 will bestow a **Bes
 effort of participants to present their work and to prepare their posters in a clear and elegant way, there will be a **Best Presentation Award** and a **Best Poster Award** voted on by the GD 2024 attendees.
 
 
-## Important Dates
-
-| Events                           | Dates                                 |
-|----------------------------------|---------------------------------------|
-| Abstract submission	deadline     | Friday, May 31, 2024                  |
-| Paper submission deadline		     | Friday, June 7, 2024                  |
-| Notification of paper acceptance | Saturday, July 20, 2024               |
-| Poster submission deadline		   | Friday, August 16, 2024               |
-| Notification of poster acceptance| Saturday, August 31, 2024             |
-| Final versions due		           | Friday, September 6, 2024             |
-| Symposium		                     | Wednesday-Friday, September 18-20, 2024          |
-
-(all deadlines are understood to be 23:59 AoE)

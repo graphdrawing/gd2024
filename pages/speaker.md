@@ -10,7 +10,7 @@ toc: true
 ---
 
 
-## Otfried Cheong (SCALGO, Denmark)
+## [Otfried Cheong (SCALGO, Denmark)](https://otfried.org/)
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>
@@ -20,7 +20,7 @@ toc: true
 <p> <strong> Biography: </strong> </p>
 <p> TBA </p>
 
-## Monika Henzinger (Institute of Science and Technology Austria, Austria)
+## [Monika Henzinger (Institute of Science and Technology Austria, Austria)](https://ist.ac.at/en/research/henzinger_monika-group/)
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>

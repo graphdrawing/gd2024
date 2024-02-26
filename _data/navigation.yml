@@ -10,8 +10,8 @@ main:
     url: /pages/speaker
   # - title: "Program"
   #  url: /pages/program
-  - title: "Venue"
-    url: /pages/venue
+  #- title: "Venue"
+  #  url: /pages/venue
   # - title: "Registration"
   #  url: /pages/registration
   - title: "Practical Information"
