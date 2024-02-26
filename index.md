@@ -24,44 +24,17 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ---
 
-## More information about the symposium will be announced later.
+## Important Dates
 
-<!--## Important Dates
-
-
-| Events                      | Dates                                 |
-|-----------------------------|---------------------------------------|
-| Abstract submission	        | Wednesday, xx June 2024                |
-| Paper deadline		          | Wednesday, xx June 2024                |
-| Paper notification		      | Monday, xx July 2024                  |
-| Poster deadline		          | Wednesday, xx August 2024             |
-| Poster notification		      | Friday, xx August 2024                |
-| Final versions due		      | Monday, xx September 2024              |
-| Contest deadline	 	        | Tuesday, xx September 2024             |
-| PhD School		              | 16 (Mon)-17 (Tue) September 2024      |
-| Symposium		                | 18 (Wed)-20 (Fri) September 2024      |
-
-<!-- {% assign data = site.data.publicity %}
-{% for date in data.ImportantDates %}
-|{{ date.Event }} | {{ date.Date }}|
-{% endfor %} 
-
-
-## Reasons to attend GD2022
-
-- invited speakers as experts in the field
-- pre-conference PhD school
-- traditional graph drawing contest
-- free online Proceedings in LNCS
-- papers available online before the conference
-- journal invitation for selected papers (JGAA, TVCG)
-- low conference fee - especially for students
-- Tokyo is a wonderful city to visit
-
-
-<a href="https://www.springer.com" target="_blank"><img src="../gd2024/assets/images/sponsor/springer.png" width="180" /></a><br /><br />
-<a href="https://www.springer.com" target="_blank"><strong>Springer</strong><br /></a>
--->
+| Events                           | Dates                                 |
+|----------------------------------|---------------------------------------|
+| Abstract submission	deadline     | Friday, May 31, 2024                  |
+| Paper submission deadline		     | Friday, June 7, 2024                  |
+| Notification of paper acceptance | Saturday, July 20, 2024               |
+| Poster submission deadline		   | Friday, August 16, 2024               |
+| Notification of poster acceptance| Saturday, August 31, 2024             |
+| Final versions due		           | Friday, September 6, 2024             |
+| Symposium		                     | Wednesday-Friday, September 18-20, 2024          |
 
 ## Sponsors
 

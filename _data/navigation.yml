@@ -2,18 +2,20 @@
 main:
   - title: "News"
     url: /pages/news
-  # - title: "Call for Papers"
-  #  url: /pages/cfp
+  - title: "Call for Papers"
+    url: /pages/cfp
   - title: "Committees"
     url: /pages/committee
+  - title: "Invited Speakers"
+    url: /pages/speaker
   # - title: "Program"
   #  url: /pages/program
   - title: "Venue"
     url: /pages/venue
   # - title: "Registration"
   #  url: /pages/registration
-  # - title: "Visa"
-  #  url: /pages/visa
+  - title: "Practical Information"
+    url: /pages/practical
   # - title: "PhD School"
   #  url: /pages/school
   - title: "Contest"

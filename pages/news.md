@@ -6,10 +6,11 @@ header:
   image: /assets/images/teaser/night.png
   caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
 # last_modified_at: 2023-07-24
-toc: true
+# toc: true
 ---
 
-The GD2024 organization committee is currently preparing the on-site symposium. More information will be provided as soon as it becomes available.
+[26.02.2024] The webpage has been updated with CfP.
+
 
 <!--However, please understand that this may change to an online-only event depending on the future status of the COVID19 infection.
 
