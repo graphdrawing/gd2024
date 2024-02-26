@@ -23,6 +23,8 @@ toc: true
 
 (all deadlines are understood to be 23:59 AoE)
 
+## Call for Papers
+
 [Download the call for papers as PDF](https://graphdrawing.github.io/gd2024/assets/pdfs/Call_for_Papers-2024.pdf)
 
 **Graph Drawing** is concerned with the geometric representation of graphs and constitutes the algorithmic core of **Network Visualization**. Graph Drawing and Network Visualization are motivated by applications where it is crucial to visually analyze
