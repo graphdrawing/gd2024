@@ -10,12 +10,6 @@ toc: true
 ---
 
 
-"There will be two invited speakers at GD 2024: Otfried Cheong (SCALGO, Denmark)
-Monika Henzinger (Institute of Science and Technology Austria, Austria)"
-(We will contact the invited speakers and ask them for a short
-bio/picture/short abstract later)
-
-
 ## Otfried Cheong (SCALGO, Denmark)
 
 <p> <strong> Title: </strong> </p>
