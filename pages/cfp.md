@@ -99,8 +99,8 @@ a footnote and the authors remain responsible for the full paper. In particular,
 
 ### Submission Format
 
-Submissions must be formatted in accordance with the LIPIcs proceedings guidelines. Authors must use the LaTeX class file
-[GD-lipics-v1.cls](../../assets/template/GD-lipics-v1.cls), which is a wrapper around the standard LIPIcs class. The GD-lipics-v1.cls class file and further instructions can be found on the conference webpage. Submissions must not exceed 500 lines, (225 lines for short contributions) excluding front matter (title, authors, and affiliations), references, and a clearly marked appendix. The class files provide line counting which should be accurate in most cases. Authors should avoid substantial amounts of text in unnumbered lines.
+Submissions must be formatted in accordance with the [LIPIcs proceedings guidelines](https://drops.dagstuhl.de/entities/series/LIPIcs#author). Authors must use the LaTeX class file
+[GD-lipics-v1.cls](../../assets/template/GD-lipics-v1.cls), which is a wrapper around the standard LIPIcs class. Submissions must not exceed 500 lines, (225 lines for short contributions) excluding front matter (title, authors, and affiliations), references, and a clearly marked appendix. The class files provide line counting which should be accurate in most cases. Authors should avoid substantial amounts of text in unnumbered lines.
 To promote inclusion of figures in the submitted papers, submissions will have a strict limit on the number of text lines.
 Regular papers may have at most 500 lines, short papers 225 lines. We expect the main content of the paper to typically fit
 within 12 pages excluding references. For publishing purposes, the average length of final versions is limited to 20 pages
