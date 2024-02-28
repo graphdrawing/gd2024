@@ -138,7 +138,7 @@ enhanced version of their work to **IEEE Transactions on Visualization and Compu
 papers session at the Graph Drawing conference will also feature regular TVCG papers. Further details can be found at
 [https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences](https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences)
 
-## Award
+## Awards
 
 For each of the two tracks, the Program Committee of GD 2024 will bestow a **Best Paper Award**. In addition, to recognize the
 effort of participants to present their work and to prepare their posters in a clear and elegant way, there will be a **Best Presentation Award** and a **Best Poster Award** voted on by the GD 2024 attendees.
