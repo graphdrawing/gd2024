@@ -3,8 +3,8 @@
 layout: single
 title: "Important News"
 header:
-  image: /assets/images/teaser/night.png
-  caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
+  image: /assets/images/teaser/26041_cropped.jpg
+  caption: "Image credit: [**WienTourismus/Peter Rigaud**](https://foto.wien.info/Bild/Alle/44985)"
 # last_modified_at: 2023-07-24
 # toc: true
 ---

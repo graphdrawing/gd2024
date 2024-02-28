@@ -6,8 +6,8 @@ classes: wide
   - landing
 #  - dark-theme
 header:
-  image: /assets/images/teaser/stephansdom.png
-  caption: "Image credit: [**Dan V.**](https://unsplash.com/photos/S5x5rrsDixk)"
+  image: /assets/images/teaser/iStock-153486311_cropped.jpg
+# caption: "Image credit: [**iStock**](https://www.istockphoto.com/)"
 # last_modified_at: 2023-08-09
 ---
 
