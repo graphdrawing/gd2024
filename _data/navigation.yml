@@ -14,8 +14,8 @@ main:
   #  url: /pages/venue
   # - title: "Registration"
   #  url: /pages/registration
-  - title: "Practical Information"
-    url: /pages/practical
+  # - title: "Practical Information"
+  #  url: /pages/practical
   # - title: "PhD School"
   #  url: /pages/school
   - title: "Contest"
