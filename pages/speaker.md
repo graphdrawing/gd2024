@@ -9,9 +9,9 @@ header:
 toc: true
 ---
 
-
 ## [Otfried Cheong](https://otfried.org/)
-#### SCALGO, Denmark
+
+<p> <strong>[SCALGO](https://scalgo.com/), Denmark</strong> </p>
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>
@@ -21,7 +21,9 @@ toc: true
 <p> <strong> Biography: </strong> </p>
 <p> TBA </p>
 
-## [Monika Henzinger (Institute of Science and Technology Austria, Austria)](https://ist.ac.at/en/research/henzinger_monika-group/)
+## [Monika Henzinger](https://ist.ac.at/en/research/henzinger_monika-group/)
+
+<p> [<strong>Institute of Science and Technology Austria</strong>](https://ist.ac.at) </p>
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>
