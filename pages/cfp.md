@@ -103,7 +103,7 @@ The proceedings will be published in the [LIPIcs](https://www.dagstuhl.de/en/pub
 series. To facilitate the process submissions have to be prepared in
 accordance with the [LIPIcs author instructions](https://submission.dagstuhl.de/series/details/LIPIcs#author), the page provides links to the LIPIcs
 class file along with an example and detailed author instructions.
-For the submission the use of the LaTeX class file [gd-lipics-v1](../../assets/template/gd-lipics-v1.cls) is requested. The class file is a wrapper around the standard LIPIcs class and
+For the submission the use of the LaTeX class file [gd-lipics-v1.cls](../../assets/template/gd-lipics-v1.cls) is requested. The class file is a wrapper around the standard LIPIcs class and
 implements line counting, see [CG-linecount.pdf](https://www.computational-geometry.org/guidelines/linecount_2022_09_19.pdf) for details. Submissions must not exceed 500 lines, (225
 lines for short contributions) excluding front matter (title, authors, and
 affiliations), references, and a clearly marked appendix. The class files
