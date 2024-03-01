@@ -23,7 +23,7 @@ toc: true
 
 ## [Monika Henzinger](https://ist.ac.at/en/research/henzinger_monika-group/)
 
-<p> [<strong><a href="https://ist.ac.at">Institute of Science and Technology Austria</a></strong>] </p>
+<p> <strong><a href="https://ist.ac.at">Institute of Science and Technology Austria</a></strong> </p>
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>
