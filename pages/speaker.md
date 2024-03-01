@@ -11,7 +11,7 @@ toc: true
 
 ## [Otfried Cheong](https://otfried.org/)
 
-<p> <strong>[SCALGO](https://scalgo.com/), Denmark</strong> </p>
+<p> <strong><a href="https://scalgo.com/">SCALGO</a>, Denmark</strong> </p>
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>
@@ -23,7 +23,7 @@ toc: true
 
 ## [Monika Henzinger](https://ist.ac.at/en/research/henzinger_monika-group/)
 
-<p> [<strong>Institute of Science and Technology Austria</strong>](https://ist.ac.at) </p>
+<p> [<strong><a href="https://ist.ac.at">Institute of Science and Technology Austria</a></strong>] </p>
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>
