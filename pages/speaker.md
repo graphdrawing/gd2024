@@ -10,7 +10,8 @@ toc: true
 ---
 
 
-## [Otfried Cheong (SCALGO, Denmark)](https://otfried.org/)
+## [Otfried Cheong](https://otfried.org/)
+#### SCALGO, Denmark
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>
