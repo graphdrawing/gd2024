@@ -99,14 +99,27 @@ a footnote and the authors remain responsible for the full paper. In particular,
 
 ### Submission Format
 
-Submissions must be formatted in accordance with the [LIPIcs proceedings guidelines](https://drops.dagstuhl.de/entities/series/LIPIcs#author). Authors must use the LaTeX class file
-[GD-lipics-v1.cls](../../assets/template/GD-lipics-v1.cls), which is a wrapper around the standard LIPIcs class. Submissions must not exceed 500 lines, (225 lines for short contributions) excluding front matter (title, authors, and affiliations), references, and a clearly marked appendix. The class files provide line counting which should be accurate in most cases. Authors should avoid substantial amounts of text in unnumbered lines.
-To promote inclusion of figures in the submitted papers, submissions will have a strict limit on the number of text lines.
-Regular papers may have at most 500 lines, short papers 225 lines. We expect the main content of the paper to typically fit
-within 12 pages excluding references. For publishing purposes, the average length of final versions is limited to 20 pages
-(including everything). The claims of the paper should be fully substantiated. If this information does not fit within the line
-limit, the authors should include it in a clearly marked appendix, whose length is not constrained and which the reviewers
-may read at their own discretion.
+The proceedings will be published in the [LIPIcs](https://www.dagstuhl.de/en/publishing/series/details/lipics)
+series. To facilitate the process submissions have to be prepared in
+accordance with the [LIPIcs author instructions](https://submission.dagstuhl.de/series/details/LIPIcs#author), the page provides links to the LIPIcs
+class file along with an example and detailed author instructions.
+For the submission the use of the LaTeX class file [gd-lipics-v1](../../assets/template/gd-lipics-v1.cls) is requested. The class file is a wrapper around the standard LIPIcs class and
+implements line counting, see [CG-linecount.pdf](https://www.computational-geometry.org/guidelines/linecount_2022_09_19.pdf) for details. Submissions must not exceed 500 lines, (225
+lines for short contributions) excluding front matter (title, authors, and
+affiliations), references, and a clearly marked appendix. The class files
+provide line counting which should be accurate in most cases. Authors should
+avoid substantial amounts of text in unnumbered lines.
+
+To promote inclusion of figures in the submitted papers, submissions will have
+a strict limit on the number of text lines. Regular papers may have at most
+500 lines, short papers 225 lines. We expect the main content of the paper to
+typically fit within 12 pages excluding references. For publishing purposes,
+the average length of final versions is limited to 20 pages (including
+everything).  The claims of the paper should be fully substantiated. If this
+information does not fit within the line limit, the authors should include it
+in a clearly marked appendix, whose length is not constrained and which the
+reviewers may read at their own discretion.
+
 
 ## Posters & Contest
 
