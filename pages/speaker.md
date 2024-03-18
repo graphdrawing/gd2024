@@ -9,8 +9,9 @@ header:
 toc: true
 ---
 
+## [Otfried Cheong](https://otfried.org/)
 
-## [Otfried Cheong (SCALGO, Denmark)](https://otfried.org/)
+<p> <strong><a href="https://scalgo.com/">SCALGO</a>, Denmark</strong> </p>
 
 <p> <strong> Title: </strong> </p>
 <p> TBA </p>
@@ -20,7 +21,9 @@ toc: true
 <p> <strong> Biography: </strong> </p>
 <p> TBA </p>
 
-## [Monika Henzinger (Institute of Science and Technology Austria, Austria)](https://ist.ac.at/en/research/henzinger_monika-group/)
+## [Monika Henzinger](https://ist.ac.at/en/research/henzinger_monika-group/)
+
+<p> <strong><a href="https://ist.ac.at">Institute of Science and Technology Austria</a></strong> </p>
 
 <p> <strong> Title: </strong> </p>
 <p> How Can Algorithms Help in Protecting our Privacy </p>
