@@ -23,16 +23,24 @@ toc: true
 ## [Monika Henzinger (Institute of Science and Technology Austria, Austria)](https://ist.ac.at/en/research/henzinger_monika-group/)
 
 <p> <strong> Title: </strong> </p>
-<p> TBA </p>
+<p> How Can Algorithms Help in Protecting our Privacy </p>
 <p> <strong> Abstract: </strong> </p>
-<p> TBA </p>
+<p> Decisions are increasingly automated using rules that were learnt from personal data. Thus, it is important to guarantee that the privacy of the data is protected during the learning process. To formalize the notion of an algorithm that protects the privacy of its data, differential privacy was introduced by Dwork, McSherry, Nissim, and Dwork in 2006. It is a rigorous mathematical definition to analyze the privacy properties of an algorithm – or the lack thereof. In this talk I will give an introduction to differential privacy with an emphasis on differential private algorithms that can handle dynamically changing input data. </p>
 
 <p> <strong> Biography: </strong> </p>
-<p> TBA </p>
+<p><figure style="width:18%" align="left">
+  <img src="../../assets/images/speaker/Monika_Henzinger.jpg">
+  <footer style="font-size: 12px">Copyright Lilli Strauss</footer>
+  <!-- <figcaption>Caption goes here</figcaption> -->
+</figure></p>
+<p> Monika Henzinger is a professor of Computer Science at the Institute of Science and Technology Austria (ISTA). She holds a PhD in computer science from Princeton University (New Jersey, USA), and has been the head of research at Google and a professor of computer science at EPFL and at the University of Vienna
+
+Monika Henzinger is an ACM and EATCS Fellow and a member of the Austrian Academy of Sciences and the German National Academy of Sciences Leopoldina. She has received several awards, including an honorary doctorate from TU Dortmund University, Two ERC Advanced Grant, the Leopoldina Carus Medal, and the Wittgensteinpreis, the highest science award of Austria. </p>
+
 <!--
 <p>
 <img style="border-radius: 50%; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px" src=
-"../../assets/images/speaker/Kazuo_Misue.jpg" align="right" width="180" height="180" padding="10px">Kazuo Misue is a professor at the Faculty of Engineering, Information and Systems, University of Tsukuba, Japan. He received a BSc and an MSc from Tokyo University of Science in 1984 and 1986. He received a Ph.D. in engineering from the University of Tokyo in 1997. He joined Fujitsu Limited in 1986. He worked at the International Institute for Advanced Study of Social Information Sciences, where he worked with Kozo Sugiyama and others on the research and development of graph drawing and idea support tools. In 2004, he moved to the University of Tsukuba. He has been involved in the development of visualization methods not only for graph drawing but also for various types of data. In 2021, he published "Introduction to Information Visualization (Japanese)," which organized the knowledge he had collected so far. </p>
+"../../assets/images/speaker/Monika Henzinger.jpg" align="right" width="180" height="180" padding="10px">Kazuo Misue is a professor at the Faculty of Engineering, Information and Systems, University of Tsukuba, Japan. He received a BSc and an MSc from Tokyo University of Science in 1984 and 1986. He received a Ph.D. in engineering from the University of Tokyo in 1997. He joined Fujitsu Limited in 1986. He worked at the International Institute for Advanced Study of Social Information Sciences, where he worked with Kozo Sugiyama and others on the research and development of graph drawing and idea support tools. In 2004, he moved to the University of Tsukuba. He has been involved in the development of visualization methods not only for graph drawing but also for various types of data. In 2021, he published "Introduction to Information Visualization (Japanese)," which organized the knowledge he had collected so far. </p>
 -->
 
 <!--
