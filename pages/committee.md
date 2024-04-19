@@ -18,8 +18,8 @@ toc: true
 * Thomas Depian, TU Wien, Austria 
 * Alexander Dobler, TU Wien, Austria 
 * Simon Dominik Fink, TU Wien, Austria 
-* Robert Ganian, TU Wien (co-chair), Austria
-* Martin Nöllenburg, TU Wien (co-chair), Austria
+* [Robert Ganian](https://www.ac.tuwien.ac.at/people/rganian/), TU Wien (co-chair), Austria
+* [Martin Nöllenburg](https://www.ac.tuwien.ac.at/people/noellenburg/), TU Wien (co-chair), Austria
 * Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria
 
 
@@ -34,14 +34,14 @@ toc: true
 * Vida Dujmovic, University of Ottawa
 * Tim Dwyer, Monash University
 * David Eppstein, University of California, Irvine
-* Stefan Felsner (co-chair), Technical University Berlin
+* [Stefan Felsner](https://page.math.tu-berlin.de/~felsner/) (co-chair), Technical University Berlin
 * Tom Freeman, Janssen Research and Development
 * Michael Hoffmann, ETH Zurich
 * Seok-Hee Hong, University of Sydney
 * Yifan Hu, Amazon
 * Tony Huang, University of Technology Sydney
 * Jonathan Klawitter, University of Auckland
-* Karsten Klein (co-chair), Konstanz University
+* [Karsten Klein](https://phobos70.inf.uni-konstanz.de) (co-chair), Konstanz University
 * Linda Kleist, Technische Universität Braunschweig
 * Boris Klemz, University of Würzburg
 * Maarten Löffler, Utrecht University
@@ -50,13 +50,13 @@ toc: true
 * Manfred Scheucher, Technical University Berlin
 * Alessandra Tappini, University of Perugia
 * Géza Tóth, Rényi Institute, Budapest
-* Torsten Ueckerdt (remote submission chair), KIT Karlsruhe
+* [Torsten Ueckerdt](https://i11www.iti.kit.edu/members/torsten_ueckerdt/index) (remote submission chair), KIT Karlsruhe
 * Birgit Vogtenhuber, Graz University of Technology
 * Hsiang-Yun Wu, St. Pölten University of Applied Sciences
 
 ## Contest Committee
 * Sara Di Bartolomeo, University of Konstanz, Germany
-* Fabian Klute (chair), UPC Barcelona, Spain
+* [Fabian Klute](https://fklute.com) (chair), UPC Barcelona, Spain
 * Wouter Meulemans, TU Eindhoven, Netherlands
 * Debajyoti Mondal, University of Saskatchewan, Canada
 * Jules Wulms, TU Eindhoven, Netherlands
