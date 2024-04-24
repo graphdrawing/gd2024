@@ -109,9 +109,12 @@ author:
   location         : "Vienna, Austria"
 #  email            : ""
   links:
-    - label: "Contact"
+    - label: "Contact Organizers"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:gd2024@ac.tuwien.ac.at"
+    - label: "Contact PC chairs"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gd2024@easychair.org"
     - label: "graphdrawing.org"
       icon: "fas fa-fw fa-link"
       url: "http://graphdrawing.org"

@@ -14,12 +14,30 @@ toc: true
 <p> <strong><a href="https://scalgo.com/">SCALGO</a>, Denmark</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> TBA </p>
+<p> How Can Biclique Covers Help in Matching Problems </p>
 <p> <strong> Abstract: </strong> </p>
-<p> TBA </p>
+<p> In several settings one encounters assignment or matching problems
+between objects of two different types, and needs to run a computation
+on a bipartite graph.  While this graph can potentially be dense, it
+can sometimes be represented compactly using a biclique cover.  This
+is in particular often the case when the objects are geometric - we
+will look at examples, and see how recent progress on maximum flow can
+be combined with such biclique covers to obtain faster algorithms. </p>
 
 <p> <strong> Biography: </strong> </p>
-<p> TBA </p>
+<p><figure style="width:18%" align="left">
+  <img src="../../assets/images/speaker/Otfried_Cheong.jpg">
+  <!-- <footer style="font-size: 12px"></footer> -->
+  <!-- <figcaption>Caption goes here</figcaption> -->
+</figure>
+</p>
+<p> Otfried Cheong received his Ph.D. in mathematics from FU Berlin, and
+has held academic positions at Utrecht University, Postech, Hong Kong
+University of Science & Technology, TU Eindhoven, and KAIST.  He now
+works for SCALGO, designing and implementing algorithms for water flow
+simulations.  He is the author of the vector graphics editor 'Ipe',
+and one of the authors of a well-known text book on computational
+geometry. </p>
 
 ## [Monika Henzinger](https://ist.ac.at/en/research/henzinger_monika-group/)
 
@@ -35,7 +53,8 @@ toc: true
   <img src="../../assets/images/speaker/Monika_Henzinger.jpg">
   <footer style="font-size: 12px">Copyright Lilli Strauss</footer>
   <!-- <figcaption>Caption goes here</figcaption> -->
-</figure></p>
+</figure>
+</p>
 <p> Monika Henzinger is a professor of Computer Science at the Institute of Science and Technology Austria (ISTA). She holds a PhD in computer science from Princeton University (New Jersey, USA), and has been the head of research at Google and a professor of computer science at EPFL and at the University of Vienna
 
 Monika Henzinger is an ACM and EATCS Fellow and a member of the Austrian Academy of Sciences and the German National Academy of Sciences Leopoldina. She has received several awards, including an honorary doctorate from TU Dortmund University, Two ERC Advanced Grant, the Leopoldina Carus Medal, and the Wittgensteinpreis, the highest science award of Austria. </p>
