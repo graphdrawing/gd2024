@@ -3,8 +3,8 @@
 layout: single
 title: "Program"
 header:
-  image: /assets/images/teaser/stephansdom.png
-  caption: "Image credit: [**Dan V.**](https://unsplash.com/photos/S5x5rrsDixk)"
+  image: /assets/images/teaser/0315_cropped.jpg
+  caption: "Image credit: [**Erik Proper**](https://photography.erikproper.eu/0315)"
 # last_modified_at: 2023-07-24
 toc: true
 ---

@@ -3,8 +3,8 @@
 layout: single
 title: "Venue"
 header:
-  image: /assets/images/teaser/night.png
-  caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
+  image: /assets/images/teaser/40606_cropped.jpg
+  caption: "Image credit: [**© WienTourismus/Christian Stemper**](https://foto.wien.info/Bild/Alle/44643)"
 # last_modified_at: 2023-07-24
 toc: true
 ---

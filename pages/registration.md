@@ -3,8 +3,8 @@
 layout: single
 title: "Registration"
 header:
-  image: /assets/images/teaser/schoenbrunn.png
-  caption: "Image credit: [**Arthur V.**](https://unsplash.com/photos/b5zOkA3swe8)"
+  image: /assets/images/teaser/0317_cropped.jpg
+  caption: "Image credit: [**Erik Proper**](https://photography.erikproper.eu/0317)"
 # last_modified_at: 2023-07-24
 toc: true
 ---
