@@ -142,7 +142,7 @@ interest with PC members when they submit their paper.
 
 ## Paper Submission, Proceedings and Special Issues
 
-Papers should be submitted electronically via **EasyChair** at the website [to be announced soon].<!--[https://easychair.org/conferences/?conf=gd2024](https://easychair.org/conferences/?conf=gd2024).-->
+Papers should be submitted electronically via [Easyhair](https://easychair.org/conferences/?conf=gd2024).
 The proceedings will be published in the **Leibniz International Proceedings in Informatics (LIPIcs)** series and are available
 open access.
 Selected papers from both tracks will be invited for submission to a special issue of the **Journal of Graph Algorithms and
