@@ -23,6 +23,8 @@ toc: true
 
 (all deadlines are understood to be 23:59 AoE)
 
+Submission on [Easychair](https://easychair.org/conferences/?conf=gd2024)
+
 ## Call for Papers
 
 [Download the call for papers as PDF](https://graphdrawing.github.io/gd2024/assets/pdfs/Call_for_Papers-2024.pdf)
