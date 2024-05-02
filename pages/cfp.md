@@ -21,9 +21,7 @@ toc: true
 | Final versions due		           | Friday, September 6, 2024             |
 | Symposium		                     | Wednesday-Friday, September 18-20, 2024          |
 
-(all deadlines are understood to be 23:59 AoE)
-
-Submission on [Easychair](https://easychair.org/conferences/?conf=gd2024)
+All deadlines are understood to be 23:59 AoE. Submissions are on [Easychair](https://easychair.org/conferences/?conf=gd2024).
 
 ## Call for Papers
 
