@@ -3,43 +3,53 @@
 layout: single
 title: "Travel & Accomodation"
 header:
-  image: /assets/images/teaser/40704_cropped.jpg
-  caption: "Image credit: [**WienTourismus/Christian Stemper**](https://foto.wien.info/Bild/Imperial/45013)"
+  image: /assets/images/teaser/night.png
+  caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
 toc: true
 ---
 
 {% assign data = site.data.publicity %}
 
-## Travelling to Vienna
+## Travelling to Vienna and back
+
+Vienna is easy to reach by train, by bus, or by plane. An overview over the different options is also given [here](https://www.wien.info/en/travel-info/arrival-departure).
 
 ### by Train
 
-In case you arrive to Vienna via train you will most likely exit at the new main train station just south of the city center. From there you can get into the local transportation system of the “Wiener Linien” (to subway (U-Bahn), tram (Straßenbahn), and local busses).
+<p>There are numerous direct connections between Vienna and other cities in Europe, including many night train connections. Most trains stop at Vienna main station ("<span style="font-style: italic; ">Wien Hauptbahnhof</span>"), which is located south of the city center. From there, you can reach the conference venue and hotels nearby easily and quickly via underground line <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span>.</p>
+
+<ul class="gray-bg"><li><a href="https://shop.oebbtickets.at/en/ticket" target="_blank" class="external-link-new-window">ÖBB</a> is the Austrian federal railway company and sells tickets for most connections to and from Vienna. If you book early, you may find <a href="https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene" target="_blank" class="external-link-new-window">Sparschiene</a> offers, where you can book a certain train for a reduced rate. There are also <a href="https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene/sparschiene-europa" target="_blank" class="external-link-new-window">Sparschiene offers for connections within Europe</a> and for <a href="https://www.nightjet.com/en/" target="_blank" class="external-link-new-window">night trains</a>. Note that except for night trains, there are no seat reservations included in a ticket by default, but you can buy them separately.</li><li><a href="https://westbahn.at/en/" target="_blank" class="external-link-new-window">Westbahn</a> is a private railway company that offers connections within Austria and to/from Munich. Westbahn trains stop at Vienna Westbahnhof station ("<span style="font-style: italic; ">Wien Westbahnhof</span>") in the western part of the city. From there, you can reach the conference venue and hotels nearby easily and quickly via underground lines <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> and <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span>, or <span style="background-color: #a4642c; color: white; font-weight: bold; padding: 0px 2px;">U6</span> and <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span>.</li></ul>
 
 ### by Plane
 
-Vienna has an international airport (VIE) situated in the south of the city. Once you are there the easiest way to reach the city is to take a train from the airport train station. 
+<p><a href="https://www.viennaairport.com/en/passengers" target="_blank" class="external-link-new-window">Vienna International airport</a>, IATA aiport code <span style="font-style: italic; ">VIE</span>, is located south-east of the city. There is a large number of direct connections from and to places all over the world, many of them are offered by <a href="https://www.austrian.com/at/en/homepage" target="_blank" class="external-link-new-window">Austrian</a> airlines.</p>
 
-**Ground transportation from airport to city center**
+<p>There are several options to get from the airport to the city center using public transportation. A good tool to plan your trip and research the different options is <a href="https://scotty.oebb.at" target="_blank" class="external-link-new-window">ÖBB Scotty</a>.</p>
 
-See [here](https://shop.oebbtickets.at/en/ticket) for online train bookings from the airport to the city center.
-All these options will lead you to a place where you can switch to the local transportation system of the "Wiener Linien" (to subway (U-Bahn), tram (Straßenbahn), and local busses).
+Note that public transport tickets from *Wiener Linien* are **not** valid for travelling between the city center and the airport.
 
-- The train ÖBB-Railjet towards the main train station of Vienna (Wien Hauptbahnhof). It takes about 15 minutes and costs 4.40 Euro. It runs every half hour.
-- Tram S7 towards Floridsdorf takes about 25 minutes to reach the station "Wien Mitte", where you can switch to the subway system and costs 4.40 Euro. It runs every half hour too. 
-- The CAT train costs 14.9 Euro and runs to "Wien Mitte2 in about 16 minutes. 
-- A Taxi for one person should costs you about 50 EUR for a drive from the airport to the city center. 
+<ul class="gray-bg"><li>High-frequency railway line ("S-Bahn") <span style="color: #0060f0; font-weight: bold;">S7</span> to <span style="font-style: italic; ">Wien Mitte</span> (23 minutes), where you can change for the underground lines <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> and <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span>, e.g. to go to the conference venue. Or you can continue to <span style="font-style: italic; ">Wien Praterstern</span>, where you can change for the underground lines <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> and <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span>. Usually, <span style="color: #0060f0; font-weight: bold;">S7</span> is the cheapest option. Note that you need to buy a ticket in advance, either <a href="https://shop.oebbtickets.at/en/ticket" target="_blank" class="external-link-new-window">online</a>, via the ÖBB (Austrian federal railway) App (<span style="color: rgb(0, 0, 238); text-decoration: underline;"><a href="https://play.google.com/store/apps/details?id=at.oebb.ts" target="_blank" class="external-link-new-window">Google Play Store</a></span> | <a href="https://apps.apple.com/at/app/id1041401604?mt=8" target="_blank" class="external-link-new-window">Apple App Store</a>) or via an ÖBB ticket machine.</li><li>Vienna Airport Lines (VAL) runs several bus connections between the airport and places all over the city. Tickets can be bought <a href="https://www.viennaairportlines.at/" target="_blank" class="external-link-new-window">online</a>, at the bus driver, or at vending machines at the airport. You get a small discount if you fly with <span style="font-style: italic;">Austrian</span>.</li><li>City Airport Train (CAT) provides non-stop connections (16 minutes) between the airport and the station <span style="font-style: italic;">Wien Mitte</span> in the city center, where you can change for underground lines <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> and <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span> as well as local railway lines. Tickets can be bought <a href="https://www.cityairporttrain.com/en/home" target="_blank" class="external-link-new-window">online</a> or at vending machines.</li></ul>
 
-Furthermore, we partner with Lufthansa for a special discount code:
+You might also want to check flights to [Bratislava airport](https://www.bts.aero/en/) in Slovakia, IATA airport code *LZIB*, which is not too far away from Vienna. It might be that flights to Bratislava are sometimes cheaper. From there you can take the [Flixbus](https://global.flixbus.com/bus-routes/bus-bratislava-airport-vienna) to the Vienna main train station, which takes about 1h40 and runs regularly every 1-2 hours. Note that you should buy a Flixbus ticket some time in advance for a guaranteed seat and cheaper price.
+
+Furthermore, we partner with the Lufthansa Group for a special discount code:
 
 **Special Lufthansa Group airlines fares**
 
-<a href="https://www.lufthansa.com/de/en/meetings-and-events-delegates" target="_blank"><img src="../gd/assets/images/sponsor/lufthansa.svg" width="170" /></a><br />
+![image](../../assets/images/sponsor/LufthansaGroup.jpeg){: style="float: left"}
 
 The Lufthansa Group airlines bring people together - every day, all around the world. The global route network of Austrian Airlines, Lufthansa, SWISS, Brussels Airlines and Eurowings offers optimal connection and combination options, so you will benefit from quick and direct flights to the event.
 
 You will reach the booking platform via [this link](https://www.lufthansa.com/de/en/meetings-and-events-delegates) and with the event code **ATAPYRE**. The reduced fares are automatically displayed.
 
+### by Bus
+
+<div class="col-md-12">
+
+    				<p>There are several bus companies offering connections between Vienna and places all over Europe. Long-distance buses usually stop at either the <a href="https://www.postbus.at/en/unsere-leistungen/internationaler-busterminal-wien" target="_blank" class="external-link-new-window">Vienna International Bus Terminal</a> at Vienna main station, the <a href="https://www.busterminal-vienna.at/en/" target="_blank" class="external-link-new-window">Vienna Bus Terminal at Stadion Center</a>, or the <a href="https://vib-wien.at/en/vib-busterminal" target="_blank" class="external-link-new-window">Vienna International Bus Terminal at Erdberg</a>. You can reach the conference venue and hotels nearby easily and quickly via underground line <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> from Vienna main station, <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> and <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> from Stadion Center, and <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> and <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> from Erdberg.</p>
+
+<p>Tickets:</p><ul class="gray-bg"><li><a href="https://www.omio.com/" target="_blank" class="external-link-new-window">Omio</a>: A platform where you can compare offers and book connections within Europe</li><li><a href="https://global.flixbus.com/" target="_blank" class="external-link-new-window">Flixbus</a>: A bus company that offers long-distance connections with many destinations</li></ul>
+</div>
 
 ### by Car
 
@@ -47,18 +57,15 @@ Vienna has a rather bad parking situation in the center. In case you are traveli
 
 ## Accomodation
 
-The usual booking websites contain comprehensive lists of hotels in Vienna. The links below take you to booking.com. Most of the hotels in the areas listed there are walking or very short public transport distance from the conference venue:
+The usual booking websites contain comprehensive lists of hotels in Vienna. The links below take you to booking.com.
 
-[Hotels in third district, between Prater and Belvedere](https://www.booking.com/searchresults.en-gb.html?ss=03.+Landstra%C3%9Fe&ssne=03.+Landstra%C3%9Fe&ssne_untouched=03.+Landstra%C3%9Fe&efdco=1&label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaA6IAQGYAS7CAQN4MTHIAQ_YAQHoAQH4AQuSAgF5qAID&sid=1858b492d0878864f71b29249cd0ee94&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=275&dest_type=district&group_adults=1&no_rooms=1&group_children=0)
+[Here are accommodations sorted by the distance to the venue.](https://www.booking.com/searchresults.en-gb.html?ss=TU+the+Sky%2C+Wien%2C+Wien%2C+%C3%96sterreich&label=gen173nr-1FCAEoggI46AdIM1gEaA6IAQGYAQm4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4Aum7krIGwAIB0gIkMzFmMDE5ZTEtYWYwMC00YjFlLWI2MTUtZDJkYWVhZmU5MjZk2AIG4AIB&sid=ae589500d272694e2a6fdd2212308216&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=index&dest_id=040u2edh-39f16571846db6d064eea30fcef6641c-de&dest_type=latlong&place_id=040u2edh-39f16571846db6d064eea30fcef6641c-de&latitude=48.20163&longitude=16.36349&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=1&search_selected=true&search_pageview_id=f339517523f402a9&ac_meta=IAAoBDICZGU%3D&checkin=2024-09-17&checkout=2024-09-20&group_adults=1&no_rooms=1&group_children=0)
 
-[Hotels in Wieden, close to Belvedere and the main train station of Vienna](https://www.booking.com/searchresults.en-gb.html?ss=04.+Wieden%2C+Vienna%2C+Vienna+%28state%29%2C+Austria&ssne=03.+Landstra%C3%9Fe&ssne_untouched=03.+Landstra%C3%9Fe&efdco=1&label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaA6IAQGYAS7CAQN4MTHIAQ_YAQHoAQH4AQuSAgF5qAID&sid=1858b492d0878864f71b29249cd0ee94&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=276&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=6&search_selected=true&search_pageview_id=5f054dbeac0200de&ac_meta=GhA1ZjA1NGRiZWFjMDIwMGRlIAAoATICZW46CjA0LiB3aWVkZW5AAEoAUAA%3D&group_adults=1&no_rooms=1&group_children=0)
+[Here are accommodations close to the main train station of Vienna.](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA6IAQGYAQm4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4Aum7krIGwAIB0gIkMzFmMDE5ZTEtYWYwMC00YjFlLWI2MTUtZDJkYWVhZmU5MjZk2AIG4AIB&sid=ae589500d272694e2a6fdd2212308216&aid=304142&ss=Wien+Hauptbahnhof%2C+Wien%2C+Bundesland+Wien%2C+%C3%96sterreich&ssne=TU+the+Sky%2C+Wien%2C+Wien%2C+%C3%96sterreich&ssne_untouched=TU+the+Sky%2C+Wien%2C+Wien%2C+%C3%96sterreich&lang=en-gb&sb=1&src_elem=sb&dest_id=266495&dest_type=landmark&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=0f1e5179df5a022c&ac_meta=GhAwZjFlNTE3OWRmNWEwMjJjIAAoATICZGU6EVdpZW4gaGF1cHRiYWhuaG9mQABKAFAA&checkin=2024-09-17&checkout=2024-09-20&group_adults=1&no_rooms=1&group_children=0&order=distance_from_search) You may reach the conference venue easily via line <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span>.
 
-[Hotels in Margareten, calm and close to the train station as well](https://www.booking.com/searchresults.en-gb.html?ss=05.+Margareten%2C+Vienna%2C+Vienna+%28state%29%2C+Austria&ssne=04.+Wieden&ssne_untouched=04.+Wieden&efdco=1&label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaA6IAQGYAS7CAQN4MTHIAQ_YAQHoAQH4AQuSAgF5qAID&sid=1858b492d0878864f71b29249cd0ee94&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=277&dest_type=district&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=a2064dce47a20545&ac_meta=GhA2ODJkNGRkOTA3NzEwMmY4IAAoATICZW46Cm1hcmdhcmV0ZW5AAEoAUAA%3D&group_adults=1&no_rooms=1&group_children=0)
+[Here are some accommodations in the first district, which hosts many of the old sites and tourist attractions of Vienna. Note that these options might be more expensive.](https://www.booking.com/searchresults.en-gb.html?ss=01.+Innere+Stadt%2C+Wien%2C+Bundesland+Wien%2C+%C3%96sterreich&ssne=Vienna+Main+Railway+Station&ssne_untouched=Vienna+Main+Railway+Station&label=gen173nr-1FCAEoggI46AdIM1gEaA6IAQGYAQm4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4Aum7krIGwAIB0gIkMzFmMDE5ZTEtYWYwMC00YjFlLWI2MTUtZDJkYWVhZmU5MjZk2AIG4AIB&sid=ae589500d272694e2a6fdd2212308216&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=273&dest_type=district&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e9e3519b7570001a&ac_meta=GhBlOWUzNTE5Yjc1NzAwMDFhIAAoATICZGU6BndpZW4gMUAASgBQAA%3D%3D&checkin=2024-09-17&checkout=2024-09-20&group_adults=1&no_rooms=1&group_children=0)
 
-[Hotels in Mariahilf, very good for shopping possibilities and the Naschmarkt](https://www.booking.com/searchresults.en-gb.html?ss=06.+Mariahilf&ssne=06.+Mariahilf&ssne_untouched=06.+Mariahilf&efdco=1&label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaA6IAQGYAS7CAQN4MTHIAQ_YAQHoAQH4AQuSAgF5qAID&sid=1858b492d0878864f71b29249cd0ee94&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=278&dest_type=district&group_adults=1&no_rooms=1&group_children=0)
-
-[Hotels in Innere Stadt, the touristic center of Vienna (these might be more expensive)](https://www.booking.com/searchresults.en-gb.html?ss=01.+Innere+Stadt&ssne=01.+Innere+Stadt&ssne_untouched=01.+Innere+Stadt&efdco=1&label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaA6IAQGYAS7CAQN4MTHIAQ_YAQHoAQH4AQuSAgF5qAID&sid=1858b492d0878864f71b29249cd0ee94&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=273&dest_type=district&group_adults=1&no_rooms=1&group_children=0)
-
+When choosing your accommodation, we suggest that you look for something that is located at either the metro line <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> or <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span>, which take you to the station *Karlsplatz* close to the conference venue.
 
 **Budget options**
 
@@ -80,13 +87,13 @@ The ["Wiener Linien"](https://www.wienerlinien.at/web/wl-en) tickets include the
 
 **Plan with an App**
 
-For planning your trips we recommend the iOS and Android app ["WienMobil"](https://www.wienerlinien.at/web/wl-en/wienmobil-features). Alternatively, Google maps has support for the Viennese transport system.
+For planning your trips we recommend the [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US) app *Wien Mobil*. Alternatively, Google maps has support for the Viennese transport system.
 
 **Tickets**
 
-Tickets can be bought in any subway station, inside the trams or with the bus driver. You can also buy tickets using the Wiener Linien app on iOS and Android.
+Tickets can be bought in any subway station, inside the trams or with the bus driver. You can also buy tickets using the Wiener Linien app on [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US).
 
-Note: some tickets need to be validated when entering, the subway station, bus or tram.
+Note: some tickets need to be validated when entering the subway station, bus or tram.
 
 Single tickets can be purchased at a price of EUR 2.40. A single ticket is valid for traveling one way in one zone. You may change to different lines in the course, but you may not interrupt your journey. The city of Vienna accounts for one full zone or core zone (Kernzone or "Zone 100").
 
