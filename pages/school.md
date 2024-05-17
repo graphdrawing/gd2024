@@ -69,6 +69,8 @@ toc: true
 <p> tba </p>
 </div>
 
+<hr>
+
 ### [Tamara Mchedlidze](https://www.uu.nl/staff/TMtsentlintze1)
 <p> <strong><a href="https://www.uu.nl/">Utrecht University</a>, The Netherlands</strong> </p>
 
@@ -87,6 +89,7 @@ toc: true
 <p> tba </p>
 </div>
 
+<hr>
 
 ### [Thekla Hamm](https://www.ac.tuwien.ac.at/people/thamm/)
 <p> <strong><a href="https://www.tue.nl/">TU Eindhoven</a>, The Netherlands</strong> </p>
@@ -110,6 +113,7 @@ Prior knowledge of parameterized complexity theory will not be required, but in 
 </p>
 </div>
 
+<hr>
 
 ### [Manfred Scheucher](https://page.math.tu-berlin.de/~scheuch/)
 <p> <strong><a href="https://www.tu.berlin/">TU Berlin</a>, Germany</strong> </p>
