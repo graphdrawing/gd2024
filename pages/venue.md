@@ -13,7 +13,7 @@ toc: true
 
 The main venue of GD 2024 is at the Campus Getreidemarkt of TU Wien.
 It is located in the 6th district of Vienna, near Secession.
-<em>Naschmarkt</em>, <em>Maria Hilfer Street</em>, and <em>Museumsquartier</em> are also close to the main venue and are home to nice bars and restaurants of various cuisines.
+<em>Naschmarkt</em>, <em>Mariahilfer Street</em>, and <em>Museumsquartier</em> are also close to the main venue and are home to nice bars and restaurants of various cuisines.
 
 The symposium takes place in the room
 
@@ -21,7 +21,7 @@ The symposium takes place in the room
 Getreidemarkt 9<br>
 1060 Vienna,
 
-which is located in the 11th floor and provides with two terraces a stunning and inspiring view over the city.
+which is located in the 11th floor and and has two roof terraces providing a stunning and inspiring view over the city.
 
 
 ## Access to the Venue
@@ -31,11 +31,11 @@ To access the location, enter the building BA (see <a href="https://tuw-maps.tuw
 The building BA can easily be reached from <em>Karlsplatz</em>.
 <em>Karlsplatz</em> is a main hub in Viennas public transport system and as such served by the metro lines <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> and <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span>.
 Be aware that the metro line <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> currently does not stop at <em>Karlsplatz</em>.
-Furthermore, the tram lines <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">D</span>, <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span>, <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">2</span>, and <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">71</span> stop at the station <em>Oper, Karlsplatz</em>, which is connected to <em>Karlsplatz</em> via a passage. 
+Furthermore, the tram lines <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">D</span>, <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span>, <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">2</span>, and <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">71</span> stop at the station <em>Oper, Karlsplatz</em>, which is connected to <em>Karlsplatz</em> via an underground passage. 
 
 Once at <em>Karlsplatz</em>, leave the station at the exit <em>Secession</em> and then head towards north-west; see the blue route on the map below.
 
-If your hotel is near <em>Maria Hilfer Street</em>, you can also reach the venue by heading towards <em>Platz der Menschenrechte</em> and then follow the street <em>Getreidemarkt</em> towards south; see the red route on the map below.
+If your hotel is near <em>Mariahilfer Street</em>, you can also reach the venue by heading towards <em>Platz der Menschenrechte</em> and then follow the street <em>Getreidemarkt</em> towards south; see the red route on the map below.
 Alternatively, the bus line <span style="background-color: #1c60a7; color: white; font-weight: bold; padding: 0px 2px;">57A</span> stops next to the venue (exit at <em>Getreidemarkt</em>) and connects the 6th and 15th district of Vienna with the venue.
 
 
@@ -53,7 +53,6 @@ Alternatively, the bus line <span style="background-color: #1c60a7; color: white
 
 Registration and coffee breaks will be in the TUtheSky.
 
-Lunch will be provided in the Mensa of TU Wien, which is located in first floor of the Freihaus building of TU Wien.
+Lunch will be provided in the Mensa of TU Wien, which is located on the first floor of the Freihaus building of TU Wien.
 The mensa is a five minute walk away from the main conference venue; see the orange route on the map.
-We will guide
 There will be signs guiding you from the main conference venue to the Freihaus building.
