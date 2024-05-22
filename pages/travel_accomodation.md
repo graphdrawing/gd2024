@@ -3,7 +3,7 @@
 layout: single
 title: "Travel & Accomodation"
 header:
-  image: /assets/images/teaser/night.png
+  image: /assets/images/teaser/51783_cropped.jpg
   caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
 toc: true
 ---
@@ -70,6 +70,8 @@ When choosing your accommodation, we suggest that you look for something that is
 **Budget options**
 
 Some cheaper options can be found in the form of hostels. The website [hostelworld.com](https://hostelworld.com/) can be used to book rooms or dorm beds in a variety of hostels around Vienna.
+
+As an option close to the conference venue we recommend the [Wombats's city hostel](https://www.wombats-hostels.com/vienna).
 
 ## Getting around in Vienna
 
