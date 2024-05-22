@@ -12,7 +12,6 @@ toc: true
 <style type="text/css">
   h3 {
     padding-bottom: .5em;
-    border-bottom: 1px solid #a9a28f;
   }
 
   div.bio {
