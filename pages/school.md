@@ -1,68 +1,138 @@
 ---
 # permalink: /about/
 layout: single
-title: "GD2022 PhD School"
+title: "GD2024 PhD School"
 header:
-  image: /assets/images/teaser/night.png
-  caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
+  image: /assets/images/teaser/40606_cropped.jpg
+  caption: "Image credit: [**© WienTourismus/Christian Stemper**](https://foto.wien.info/Bild/Alle/44643)"
 # last_modified_at: 2023-07-24
 toc: true
 ---
 
-# Program
-<!-- 
-| Event (JST)                 | Speaker                               |
-|-----------------------------|---------------------------------------|
-| Sep. 12, 01:00PM - 03:00PM	| Yoshio Okamoto                        |
-| Sep. 12, 03:00PM - 05:00PM	| Shigeo Takahashi / Hsiang-Yun Wu      |
-| Sep. 13  09:30AM - 11:30AM	| Amyra Meidiana                        |
-| Sep. 13  01:00PM - 03:00PM  | Tony Huang                            |
-| Sep. 13  03:00PM - 05:00PM  | Martin Nöllenburg                     |
-|-----------------------------|---------------------------------------|
-| 90 minutes talk and 30 minites Q&A/break
+<style type="text/css">
+  h3 {
+    padding-bottom: .5em;
+    border-bottom: 1px solid #a9a28f;
+  }
 
-# Lecturers
+  div.bio {
+    min-height: 175px;
+  }
 
-## [Yoshio Okamoto](http://dopal.cs.uec.ac.jp/okamotoy/) (The University of Electro-Communications, Japan)
+  div.bio > figure {
+    margin-bottom: 0;
+    margin-top: 5px;
+    float: left;
+    width: 18%;
+    align: left;
+    margin-right: 24px;
+  }
+  div.bio > figure > img {
+    margin-bottom: 0;
+  }
+
+  div.bio + * {
+    clear: both;
+  }
+</style>
+
+## Program
+
+| Event (MESZ)                  | Speaker                                              |
+|-------------------------------|------------------------------------------------------|
+| Sep. 16, time: 09:00 - 12:00  | <a href="#philipp-kindermann">Philipp Kindermann</a> |
+| Sep. 16, time: 14:00 - 17:00	| <a href="#tamara-mchedlidze">Tamara Mchedlidze</a>   |
+| Sep. 17, time: 09:00 - 12:00	| <a href="#thekla-hamm">Thekla Hamm</a>               |              
+| Sep. 17, time: 14:00 - 17:00	| <a href="#manfred-scheucher">Manfred Scheucher</a>   |
+|-------------------------------|------------------------------------------------------|
+| Featuring a presentation, coffee break, and hands-on session
+
+ 
+## Lecturers
+
+### [Philipp Kindermann](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/informatikwissenschaften/professuren/algorithmik/team/jun-prof-dr-philipp-kindermann)
+
+<p> <strong><a href="https://www.uni-trier.de/">University of Trier</a>, Germany</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> Angular Resolution in Graph Drawing </p>
+<p> tba </p>
 <p> <strong> Abstract: </strong> </p>
-<p> Angular resolution is one of the well-known aesthetic criteria for graph drawing, but its theoretical properties are not well understood.  For a straight-line drawing of a graph, its vertex angular resolution is the minimum angle formed by two consecutive edges around a vertex, and its crossing angular resolution is the minimum angle formed by a crossing, while the crossing angular resolution is defined to be 360 degrees if there is no crossing.  The total angular resolution of a straight-line drawing is the minimum of the vertex angular resolution and the crossing angular resolution.  The vertex/crossing/total angular resolution of a graph is the supremum of the vertex/crossing/total angular resolution of any straight-line drawing of the graph.  In this talk, we review some of the results on angular resolution in the literature, and identify several open problems in the field. </p>
+<p> tba </p>
 
-## [Shigeo Takahashi](http://web-ext.u-aizu.ac.jp/~shigeo/home.html) (University of Aizu, Japan), [Hsiang-Yun Wu](http://yun-vis.net) (St. Pölten University of Applied Sciences, Austria)
+<p> <strong> Biography: </strong> </p>
+<div class="bio">
+  <figure >
+  <img src="../../assets/images/lecturer/Philipp_Kindermann_cropped.jpg">
+  <!-- <footer style="font-size: 12px"></footer> -->
+  <!-- <figcaption>Caption goes here</figcaption> -->
+</figure>
+<p> tba </p>
+</div>
+
+<hr>
+
+### [Tamara Mchedlidze](https://www.uu.nl/staff/TMtsentlintze1)
+<p> <strong><a href="https://www.uu.nl/">Utrecht University</a>, The Netherlands</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> Real-world examples toward visual diagram placement problems </p>
+<p> tba </p>
 <p> <strong> Abstract: </strong> </p>
-<p> This tutorial presents case studies on how real-world examples yield practical hints for improving visual diagram representations.
+<p> tba </p>
+
+<p> <strong> Biography: </strong> </p>
+<div class="bio">
+  <figure>
+  <img src="../../assets/images/lecturer/Tamara_Mchedlidze_cropped.jpg">
+  <!-- <footer style="font-size: 12px"></footer> -->
+  <!-- <figcaption>Caption goes here</figcaption> -->
+</figure>
+<p> tba </p>
+</div>
+
+<hr>
+
+### [Thekla Hamm](https://www.ac.tuwien.ac.at/people/thamm/)
+<p> <strong><a href="https://www.tue.nl/">TU Eindhoven</a>, The Netherlands</strong> </p>
+
+<p> <strong> Title: </strong> </p>
+<p> Parameterized Algorithms and Few Crossings </p>
+<p> <strong> Abstract: </strong> </p>
+<p> Crossings are among the most classically considered features of drawings. The most fundamental computational problem in this context is the crossing number problem which is known to be computationally difficult (even to approximate). Parameterized complexity theory provides a general framework to obtain a more detailed understanding of and find ways to circumvent such hardness - not only for this problem. Moreover, the crossing number can also be viewed as a measure of how far a graph is from being planar, making it a potentially interesting parameter for the design of parameterized algorithms for other graph problems. In this tutorial we will take a look at both of these aspects:</p>
+<p> (1) Overview over some parameterized questions that have been asked for graph drawing problems in which the number of crossings are restricted in some way and demonstration of famous techniques from parameterized complexity theory, such as Courcelle's theorem and bidimensionality, to attack them.</p>
+<p> (2) Light exploration of crossing number for the analysis of the parameterized complexity of other problems.
+Prior knowledge of parameterized complexity theory will not be required, but in that case this tutorial will not substitute a thorough introduction but be more of a crash-course. </p>
+
+<p><strong> Biography: </strong> </p>
+<div class="bio">
+<figure>
+  <img src="../../assets/images/lecturer/Thekla_Hamm_cropped.jpg">
+  <!-- <footer style="font-size: 12px"></footer> -->
+  <!-- <figcaption>Caption goes here</figcaption> -->
+</figure>
+<p> Thekla Hamm's research lies mostly in the area of parameterized complexity theory and its application to problems involving graph structure. Within the area of graph drawing, this has led to a line of research centering around parameterized algorithms for drawing extension with crossing restrictions. From September 2024, Thekla Hamm is an assistant professor in the algorithms cluster at TU Eindhoven. Before that, she obtained her PhD in 2022 under the supervision of Robert Ganian at TU Wien and worked as a postdoc at Utrecht University.
 </p>
-<p>
-We will first introduce the concept of schematization, which has been commonly incorporated in transit maps and other complex diagrams. Using different schematization strategies allows us to illuminate low-level details about the underlying complex networks while distinguishing the high-level structures. We solved this problem by introducing map metaphors that arrange the schematized layout in order to manage network visual complexity hierarchically. We show an overview of common design criteria and use cases, and specifically, our ideas used to visually untangle complicated pathways inherent in biological systems.
-</p>
-<p>
-We then present another case study for animating the visual explanation of dynamic set diagrams. We conducted this animation design by solving problems for optimizing railway schedules. More specifically, we first decomposed the dynamic set diagram into atomic changes and then mapped each change to a fundamental component that constitutes the entire railway schedule. We demonstrate how such railway scheduling algorithms successfully inspired us to improve the visual readability in the animation of dynamic set diagrams.
-</p>
+</div>
 
-## [Amyra Meidiana](https://www.researchgate.net/scientific-contributions/Amyra-Meidiana-2123258639) (The University of Sydney, Australia)
+<hr>
+
+### [Manfred Scheucher](https://page.math.tu-berlin.de/~scheuch/)
+<p> <strong><a href="https://www.tu.berlin/">TU Berlin</a>, Germany</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> Visualisation of Big Complex Graphs </p>
+<p> Using SAT solvers in Combinatorial Geometry and Graph Drawing </p>
 <p> <strong> Abstract: </strong> </p>
-<p> With the continuing ability to gather and store increasingly larger amounts of data, so has grown the size of network data. However, traditional force-directed algorithms, running in quadratic-time, do not scale efficiently when visualising these big, complex graphs. In the first part of the talk, we will discuss algorithms for efficient visualisation of large and complex graphs, from near-linear-time algorithms to sublinear-time algorithms.
+<p> The area of SAT solving has seen tremendous progress over the last years and many problems that seemed to be out of reach a decade ago can now be handled routinely [1]. In this session we will discuss how intricate problems from combinatorial geometry and graph drawing can be tackled using SAT solvers and related techniques. </p>
 
-Quality metrics are important for evaluation of graph drawing algorithms, however traditional readability metrics have been shown less effective in evaluating drawings of big complex graphs. The second part of the talk will focus on the faithfulness metrics, which are specifically designed for evaluating drawings of large complex graphs and measure how faithfully the drawings displays the ground truth information of the underlying graphs. </p>
+<p> First, we will discuss how mathematical problems can encoded as propositional logic formula over a finite set of Boolean variables (Boolean satisfiability problem). While most problems from combinatorics come with a natural encoding that is moderately suited for computer investigations, it is often a non-trivial task to attack problems from geometry or graph drawing. A naive encoding may come with non-linear constraints over real-valued variables, and solving might be ETR-hard, where ETR (existential theory of the reals) is a complexity class between NP and PSPACE. However, in the last decades it turned out to be a promising approach to tackle a related problem with slightly relaxed constraints instead. For example, problems on points sets, geometric graphs, or line arrangement can be investigated via pseudo-configurations of points or pseudoline arrangements, which come with a polynomial sized axiom system over Boolean variables. Even though this approaches is sometimes sufficient to address long-standing notoriously hard problems, such relaxations may introduce configurations which are not representative for the original setting. And it is not at all surprising that deciding representativity (a.k.a. realizability) is often ETR-hard, such as the original problem.</p>
 
-## [Tony Huang](https://profiles.uts.edu.au/Weidong.Huang) (University of Technology Sydney, Australia)
+<p>[1] <a href="https://satcompetition.github.io/2024/">https://satcompetition.github.io/2024/</a></p>
 
-<p> <strong> Title: </strong> </p>
-<p> Evaluation methodologies and practices in information visualisation </p>
-<p> <strong> Abstract: </strong> </p>
-<p> Evaluation plays an important role in the design process of effective visualisations. In this talk, we will present general evaluation methodologies, summarise the typical evaluation practices in the information visualisation research and demonstrate how evaluation can help us to test hypotheses and derive new insights from evaluation results. The main take-away messages from this talk will be the understanding of the importance of evaluation and good evaluation practices for different research purposes. </p>
-
-## [Martin Nöllenburg](https://www.ac.tuwien.ac.at/people/noellenburg/) (Technische Universitat Wien, Austria)
-
-<p> <strong> Title: </strong> </p>
-<p> Crossing layout for non-planar graph drawing </p>
-<p> <strong> Abstract: </strong> </p>
-<p> Edge crossings are typically undesired in graph drawings as they negatively affect readability. Yet non-planar graphs are abundant in applications and hence we need techniques for better graph layouts in the presence of some edge crossings. We discuss different approaches to improve the geometric representation of crossings and take a look at their corresponding algorithmic problems. </p> -->
+<p> <strong> Biography: </strong> </p>
+<div class="bio">
+<figure>
+  <img src="../../assets/images/lecturer/Manfred_Scheucher_cropped.jpg">
+  <!-- <footer style="font-size: 12px"></footer> -->
+  <!-- <figcaption>Caption goes here</figcaption> -->
+</figure>
+<p> Manfred Scheucher did his Bachelor and Master studies at TU Graz, his PhD with Stefan Felsner at the TU Berlin, and is now postdoctoral researcher and principal investigator of a DFG project at TU Berlin. The focus of his research lies in the interface of theoretical computer science and discrete mathematics, in particular, combinatorial geometry. His primary objective is to tackle fundamental mathematical problems by combining classic proving techniques with automated reasoning tools, in particular, SAT solvers, computer algebra systems, and large computing clusters. </p>
+</div>
