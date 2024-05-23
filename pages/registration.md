@@ -15,7 +15,7 @@ Furthermore, the LIPIcs publication fees are covered by the registration fee.
 
 The fees for the PhD School only cover the participation at the lectures and the coffee breaks, meals are *not* included. 
 
-|                             | Early  Registration (until 15.08.)  | Late Registration (after 15.08.)  |
+|                             | Early  Registration (until 20.08.)  | Late Registration (from 21.08.)   |
 |-----------------------------|-------------------------------------------------------------------------|
 | **PhD School**              |                                     |                                   |
 | Regular                     | EUR 50                              | EUR 70                            | 
