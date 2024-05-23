@@ -21,7 +21,7 @@ The symposium takes place in the room
 Getreidemarkt 9<br>
 1060 Vienna,
 
-which is located in the 11th floor and and has two roof terraces providing a stunning and inspiring view over the city.
+which is located in the 11th floor and has two roof terraces providing a stunning and inspiring view over the city.
 
 
 ## Access to the Venue
@@ -33,26 +33,25 @@ The building BA can easily be reached from <em>Karlsplatz</em>.
 Be aware that the metro line <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> currently does not stop at <em>Karlsplatz</em>.
 Furthermore, the tram lines <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">D</span>, <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span>, <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">2</span>, and <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">71</span> stop at the station <em>Oper, Karlsplatz</em>, which is connected to <em>Karlsplatz</em> via an underground passage. 
 
-Once at <em>Karlsplatz</em>, leave the station at the exit <em>Secession</em> and then head towards north-west; see the blue route on the map below.
+Once at <em>Karlsplatz</em>, leave the station at the exit <em>Secession</em> and then head towards north-west. You reach the venue after five minutes.
 
-If your hotel is near <em>Mariahilfer Street</em>, you can also reach the venue by heading towards <em>Platz der Menschenrechte</em> and then follow the street <em>Getreidemarkt</em> towards south; see the red route on the map below.
+If your hotel is located near <em>Mariahilfer Street</em>, you can reach the venue by heading towards <em>Platz der Menschenrechte</em> and then following the street <em>Getreidemarkt</em> for about five minutes in a south-easterly direction.
 Alternatively, the bus line <span style="background-color: #1c60a7; color: white; font-weight: bold; padding: 0px 2px;">57A</span> stops next to the venue (exit at <em>Getreidemarkt</em>) and connects the 6th and 15th district of Vienna with the venue.
 
+If your hotel is located near <em>Westbahnhof</em>, you can reach the venue by first taking the <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> until the station <em>Volkstheater</em>.
+From there, it is a ten-minute walk in a south-easterly direction to the venue.
+Alternatively, you can take the <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> to <em>Stephansplatz</em> and change there to the <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> which will take you to <em>Karlsplatz</em>.
 
-<figure style="width:100%;" align="left">
-  <img src="../../assets/images/venue/map.png">
-  <!-- <footer style="font-size: 12px">sss</footer> -->
-  <figcaption style="font-size: 12px">
-  The main locations of GD 2024; 
-  <a href="https://graphdrawing.github.io/gd2024/assets/pdfs/map.pdf">download the map as PDF</a>.
-  (c) <a href="https://tuw-maps.tuwien.ac.at" target="_blank">TUW-maps / INDRZ</a>.</figcaption>
-</figure>
 
+
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/gd-2024_60350?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=a1863787-8ca2-442a-8516-dfbffb087ce4%2C6799a631-db4a-46af-b35f-9b2847a431d1&captionControl=null&editinosmControl=false&starControl=false#16/48.2016/16.3666"></iframe>
+<p style="display: flex; justify-content: space-between;"><a href="//umap.openstreetmap.de/en/map/gd-2024_60350?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=a1863787-8ca2-442a-8516-dfbffb087ce4%2C6799a631-db4a-46af-b35f-9b2847a431d1&captionControl=null&editinosmControl=false&starControl=false" target="_blank">Open map in new tab</a>
+<a href="https://www.google.com/maps/d/viewer?mid=1atIWeg5gYWnnu5I3JRdFShtSEqZ8jKw" target="_blank">Open in Google Maps</a></p>
 
 ## Registration, Coffee Breaks & Lunch
 
 Registration and coffee breaks will be in the TUtheSky.
 
 Lunch will be provided in the Mensa of TU Wien, which is located on the first floor of the Freihaus building of TU Wien.
-The mensa is a five minute walk away from the main conference venue; see the orange route on the map.
-There will be signs guiding you from the main conference venue to the Freihaus building.
+The mensa is a five minute walk away from the main conference venue.
+We will guide you from the main conference venue to the Freihaus building.
