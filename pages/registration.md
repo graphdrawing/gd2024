@@ -9,8 +9,28 @@ header:
 toc: true
 ---
 
+## Registration Fees
+Registration fees include welcome reception (on Tuesday, September 17), coffee breaks, lunches and social dinner (on Thursday, September 19).
+Furthermore, the publication fees are covered by the registration fee.
+
+The fees for the PhD School only cover the participation at the lectures and the coffee breaks, meals are *not* included. 
+
+|                             | Early  Registration (until 15.08.)  | Late Registration (after 15.08.)  |
+|-----------------------------|-------------------------------------------------------------------------|
+| **PhD School**              |                                     |                                   |
+| Regular                     | EUR 50                              | EUR 100                           | 
+| **Symposium**               |                                     |                                   |
+| Student                     | EUR 260                             | EUR 350                           |
+| Regular                     | EUR 360                             | EUR 450                           |
+| Steering Committee Members  | EUR 410                             | EUR 500                           |   
+|-----------------------------|-------------------------------------|-----------------------------------|
+
+## Registration Instructions
+Will be announced in July.
+
+<!--
 ## Symposium Registration
-<!-- 
+ 
 Graph Drawing 2022 registration fee covers:
 - Attendance of conference delegates to all sessions of the conference
 - Download information for the symposium proceedings
