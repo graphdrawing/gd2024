@@ -57,9 +57,28 @@ Vienna has a rather bad parking situation in the center. In case you are traveli
 
 ## Accomodation
 
+
+Vienna has a large selection of hotels and apartments from budget options to luxury hotels. Room rates vary depending on demand and time of booking and we recommend using your preferred hotel/apartment search websites to find and compare different options. 
+
+When choosing your accommodation, we suggest that you look for something that is in walking distance from the venue or located at either the metro line <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> or <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span>, which take you directly to the station *Karlsplatz* (5 minutes walking distance to the conference venue) or line <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span>, which takes you to station *Volkstheater* (10 minutes walking distance to the conference venue).
+
 The usual booking websites contain comprehensive lists of hotels in Vienna. Further, many options for renting an apartment are available on [AirBnb](https://www.airbnb.com/s/Wien--Austria/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJ59ay5nQHbUcRTsCwZOGNF9c&checkin=2024-09-17&checkout=2024-09-20&adults=1).
 
-The links below take you to booking.com.
+A list of accommodations in walking distance to the venue is given below (also marked in the map below).
+- [Hotel Mercure Secession (★★★★)](https://www.hotelsecession.com/)
+- [Hotel Beethoven (★★★★)](https://www.hotel-beethoven.at/en/)
+- [Hotel Johann Strauss (★★★★)](https://www.hoteljohannstrauss.at/hotel-johann-strauss-wien)
+- [Hotel Erzherzog Rainer (★★★★)](https://www.hotelerzherzograiner.wien/)
+- [Holiday Inn Vienna City (★★★★)](https://www.ihg.com/holidayinn/hotels/gb/en/vienna/viect/hoteldetail)
+- [Saint Shermin Bed&Breakfast (★★★★)](https://www.shermin.at/en/)
+- [Hotel Kaiserhof (★★★★)](https://wien.hotel-kaiserhof.at/)
+- [Motel One Wien-Staatsoper (★★★)](https://www.motel-one.com/hotels/wien/hotel-wien-staatsoper/)
+- [Kolping Wien Zentral (★★)](https://www.kolping-wien-zentral.at/en/home-en)
+- [Wombats City Hostel](https://www.wombats-hostels.com/vienna)
+
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/gd-2024_60350?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&fullscreenControl=true&captionControl=null&editinosmControl=null&datalayers=a1863787-8ca2-442a-8516-dfbffb087ce4%2C8155a9b6-7362-4723-b77f-44dac917146f%2C007b642a-84b3-462f-9d74-5b0afeee01ed&starControl=false#15/48.198/16.364"></iframe>
+
+The links below take you to booking.com:
 
 [Here are accommodations sorted by the distance to the venue.](https://www.booking.com/searchresults.en-gb.html?ss=TU+the+Sky%2C+Wien%2C+Wien%2C+%C3%96sterreich&label=gen173nr-1FCAEoggI46AdIM1gEaA6IAQGYAQm4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4Aum7krIGwAIB0gIkMzFmMDE5ZTEtYWYwMC00YjFlLWI2MTUtZDJkYWVhZmU5MjZk2AIG4AIB&sid=ae589500d272694e2a6fdd2212308216&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=index&dest_id=040u2edh-39f16571846db6d064eea30fcef6641c-de&dest_type=latlong&place_id=040u2edh-39f16571846db6d064eea30fcef6641c-de&latitude=48.20163&longitude=16.36349&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=1&search_selected=true&search_pageview_id=f339517523f402a9&ac_meta=IAAoBDICZGU%3D&checkin=2024-09-17&checkout=2024-09-20&group_adults=1&no_rooms=1&group_children=0)
 
@@ -68,8 +87,6 @@ The links below take you to booking.com.
 [Here are accommodations close to the Westbahnhof railway station of Vienna. These options will usually be cheaper than hotels close to the venue.](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA6IAQGYAQm4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4Aum7krIGwAIB0gIkMzFmMDE5ZTEtYWYwMC00YjFlLWI2MTUtZDJkYWVhZmU5MjZk2AIG4AIB&sid=ae589500d272694e2a6fdd2212308216&aid=304142&ss=Wien+Westbahnhof+Railway+Station%2C+Vienna%2C+Vienna+%28state%29%2C+Austria&ssne=Vienna+Main+Railway+Station&ssne_untouched=Vienna+Main+Railway+Station&lang=en-gb&sb=1&src_elem=sb&dest_id=736&dest_type=landmark&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=ccc45584320803d6&ac_meta=GhBjY2M0NTU4NDMyMDgwM2Q2IAAoATICZW46DlZpZW5uYSBXZXN0YmFoQABKAFAA&checkin=2024-09-17&checkout=2024-09-20&group_adults=1&no_rooms=1&group_children=0&order=distance_from_search) From there, you can reach the conference venue easily and quickly via underground lines <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> and <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span>, or <span style="background-color: #a4642c; color: white; font-weight: bold; padding: 0px 2px;">U6</span> and <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span>.
 
 [Here are some accommodations in the first district, which hosts many of the old sites and tourist attractions of Vienna. Note that these options might be more expensive.](https://www.booking.com/searchresults.en-gb.html?ss=01.+Innere+Stadt%2C+Wien%2C+Bundesland+Wien%2C+%C3%96sterreich&ssne=Vienna+Main+Railway+Station&ssne_untouched=Vienna+Main+Railway+Station&label=gen173nr-1FCAEoggI46AdIM1gEaA6IAQGYAQm4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4Aum7krIGwAIB0gIkMzFmMDE5ZTEtYWYwMC00YjFlLWI2MTUtZDJkYWVhZmU5MjZk2AIG4AIB&sid=ae589500d272694e2a6fdd2212308216&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=273&dest_type=district&ac_position=0&ac_click_type=b&ac_langcode=de&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e9e3519b7570001a&ac_meta=GhBlOWUzNTE5Yjc1NzAwMDFhIAAoATICZGU6BndpZW4gMUAASgBQAA%3D%3D&checkin=2024-09-17&checkout=2024-09-20&group_adults=1&no_rooms=1&group_children=0)
-
-When choosing your accommodation, we suggest that you look for something that is in walking distance from the venue or located at either the metro line <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> or <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span>, which take you directly to the station *Karlsplatz* close to the conference venue.
 
 **Budget options**
 
