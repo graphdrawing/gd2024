@@ -12,7 +12,7 @@ toc: true
 ## Conference Venue
 
 The main venue of GD 2024 is at the Campus Getreidemarkt of TU Wien.
-It is located in the 6th district of Vienna, near Secession.
+It is located in the 6th district of Vienna, near the <em>Secession</em> art institute.
 <em>Naschmarkt</em>, <em>Mariahilfer Street</em>, and <em>Museumsquartier</em> are also close to the main venue and are home to nice bars and restaurants of various cuisines.
 
 The symposium takes place in the room
@@ -21,7 +21,7 @@ The symposium takes place in the room
 Getreidemarkt 9<br>
 1060 Vienna,
 
-which is located in the 11th floor and has two roof terraces providing a stunning and inspiring view over the city.
+which is located in the 11th floor and has two roof terraces providing an inspiring view over the city.
 
 
 ## Access to the Venue
@@ -50,7 +50,8 @@ Alternatively, you can take the <span style="background-color: #db7609; color: w
 
 ## Registration, Coffee Breaks & Lunch
 
-Registration and coffee breaks will be in the TUtheSky.
+Registration and coffee breaks for the main conference will be in the TUtheSky.
+Registration and coffee breaks for the associated PhD school are located in a different room in the same building; see the <a href="/pages/school">page for the PhD school</a> for more information.
 
 Lunch will be provided in the Mensa of TU Wien, which is located on the first floor of the Freihaus building of TU Wien.
 The mensa is a five minute walk away from the main conference venue.
