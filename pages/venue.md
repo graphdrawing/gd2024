@@ -51,7 +51,7 @@ Alternatively, you can take the <span style="background-color: #db7609; color: w
 ## Registration, Coffee Breaks & Lunch
 
 Registration and coffee breaks for the main conference will be in the TUtheSky.
-Registration and coffee breaks for the associated PhD school are located in a different room in the same building; see the <a href="/pages/school">page for the PhD school</a> for more information.
+Registration and coffee breaks for the associated PhD school are located in a different room in the same building; see the <a href="../school">page for the PhD school</a> for more information.
 
 Lunch will be provided in the Mensa of TU Wien, which is located on the first floor of the Freihaus building of TU Wien.
 The mensa is a five minute walk away from the main conference venue.

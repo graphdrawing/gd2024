@@ -43,7 +43,7 @@ Getreidemarkt 9<br>
 1060 Vienna,
 
 which is located on the 2nd floor of the building BA of Campus Getreidemarkt (same building as the main conference venue).
-On the <a href="/pages/venue">venue page</a>, you can find a description of how to reach the site.
+On the <a href="../venue">venue page</a>, you can find a description of how to reach the site.
 
 The location is accessible by wheelchair and the registration and coffee breaks for the PhD school are located in front of the room GM3.
 
