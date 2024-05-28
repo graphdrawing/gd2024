@@ -49,14 +49,14 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 
 ## Program
 
-| Event (MESZ)                  | Speaker                                              |
+| Event                         | Speaker                                              |
 |-------------------------------|------------------------------------------------------|
-| Sep. 16, time: 09:00 - 12:00  | <a href="#philipp-kindermann">Philipp Kindermann</a> |
-| Sep. 16, time: 14:00 - 17:00	| <a href="#tamara-mchedlidze">Tamara Mchedlidze</a>   |
-| Sep. 17, time: 09:00 - 12:00	| <a href="#thekla-hamm">Thekla Hamm</a>               |              
-| Sep. 17, time: 14:00 - 17:00	| <a href="#manfred-scheucher">Manfred Scheucher</a>   |
+| Sep. 16, 09:00 - 12:00        | <a href="#philipp-kindermann">Philipp Kindermann</a> |
+| Sep. 16, 14:00 - 17:00	      | <a href="#tamara-mchedlidze">Tamara Mchedlidze</a>   |
+| Sep. 17, 09:00 - 12:00	      | <a href="#thekla-hamm">Thekla Hamm</a>               |              
+| Sep. 17, 14:00 - 17:00	      | <a href="#manfred-scheucher">Manfred Scheucher</a>   |
 |-------------------------------|------------------------------------------------------|
-| Featuring a presentation, coffee break, and hands-on session
+| Each session contains two parts and a coffee break
 
  
 ## Lecturers
