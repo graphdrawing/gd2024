@@ -61,9 +61,9 @@ The location is accessible by wheelchair and the registration and coffee breaks 
  
 ## Lecturers
 
-### [Philipp Kindermann](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/informatikwissenschaften/professuren/algorithmik/team/jun-prof-dr-philipp-kindermann)
+### [Philipp Kindermann](https://algo.uni-trier.de/~kindermann)
 
-<p> <strong><a href="https://www.uni-trier.de/">University of Trier</a>, Germany</strong> </p>
+<p> <strong><a href="https://www.uni-trier.de/">Trier University</a>, Germany</strong> </p>
 
 <p> <strong> Title: </strong> </p>
 <p> tba </p>
@@ -77,7 +77,7 @@ The location is accessible by wheelchair and the registration and coffee breaks 
   <!-- <footer style="font-size: 12px"></footer> -->
   <!-- <figcaption>Caption goes here</figcaption> -->
 </figure>
-<p> tba </p>
+<p> Philipp Kindermann is a junior professor for algorithms at Trier University, Germany. He received his BSc, MSc and PhD in Computer Science from University of Würzburg, Germany. He has been a guest professor at University of Passau in 2020.  He is interested in everything involving graph drawing, both from the theoretical and from the practical side, and its related fields like algorithmic graph theory, algorithm engineering, computational geometry, and information visualisation. He was involved in the organization of several contests in the last few years: the Graph Drawing Contest, the Computational Geometry Challenge, and the Parameterized Algorithms and Computational Experiments Challenge. </p>
 </div>
 
 <hr>
