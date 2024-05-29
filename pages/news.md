@@ -9,7 +9,9 @@ header:
 # toc: true
 ---
 
-[26.02.2024] The webpage has been updated with CfP.
+[26.02.2024] The webpage has been updated with <a href="../cfp">CfP</a>.
+
+[29.05.2024] Information on the <a href="../venue">venue</a>, <a href="../travel_accomodation">travel and accommodation</a>, and the associated <a href="../school">PhD school</a> has been added to the webpage.
 
 
 <!--However, please understand that this may change to an online-only event depending on the future status of the COVID19 infection.
