@@ -1,7 +1,7 @@
 ---
 # permalink: /about/
 layout: single
-title: "Travel & Accomodation"
+title: "Travel & Accommodation"
 header:
   image: /assets/images/teaser/51783_cropped.jpg
   caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
@@ -55,7 +55,7 @@ You will reach the booking platform via [this link](https://www.lufthansa.com/de
 
 Vienna has a rather bad parking situation in the center. In case you are traveling by car we highly recommend to leave it in one of the “park+ride” P+R garages (an overview can be found [here](https://www.parken.at/page/7/park-&-ride-eine-idee-setzt-sich-durch) and [here](https://www.wien.info/en/travel-info/arrival-departure/park-ride-354906)). From there you can get into the local transportation system of the "Wiener Linien" (to subway (U-Bahn), tram (Straßenbahn), local bus (Bus)).
 
-## Accomodation
+## Accommodation
 
 
 Vienna has a large selection of hotels and apartments from budget options to luxury hotels. Room rates vary depending on demand and time of booking and we recommend using your preferred hotel/apartment search websites to find and compare different options. 
