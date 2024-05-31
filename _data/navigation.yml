@@ -10,6 +10,8 @@ main:
   #  url: /pages/program
   - title: "Venue"
     url: /pages/venue
+  - title: "Registration"
+    url: /pages/registration
   - title: "Travel"
     url: /pages/travel_accomodation
   # - title: "Practical Information"
