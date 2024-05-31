@@ -22,6 +22,8 @@ main:
     url: /pages/school
   - title: "News"
     url: /pages/news
+  - title: "Code of Conduct"
+    url: /pages/code_of_conduct
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
