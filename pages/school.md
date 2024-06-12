@@ -152,11 +152,11 @@ Prior knowledge of parameterized complexity theory will not be required, but in 
 <p> <strong> Title: </strong> </p>
 <p> Using SAT solvers in Combinatorial Geometry and Graph Drawing </p>
 <p> <strong> Abstract: </strong> </p>
-<p> The area of SAT solving has seen tremendous progress over the last years and many problems that seemed to be out of reach a decade ago can now be handled routinely [1]. In this session we will discuss how intricate problems from combinatorial geometry and graph drawing can be tackled using SAT solvers and related techniques. </p>
+<p> The area of SAT solving has seen tremendous progress over the last years and many problems that seemed to be out of reach a decade ago can now be handled routinely [<a href="#ref1">1</a>]. In this session we will discuss how intricate problems from combinatorial geometry and graph drawing can be tackled using SAT solvers and related techniques. </p>
 
 <p> First, we will discuss how mathematical problems can encoded as propositional logic formula over a finite set of Boolean variables (Boolean satisfiability problem). While most problems from combinatorics come with a natural encoding that is moderately suited for computer investigations, it is often a non-trivial task to attack problems from geometry or graph drawing. A naive encoding may come with non-linear constraints over real-valued variables, and solving might be ETR-hard, where ETR (existential theory of the reals) is a complexity class between NP and PSPACE. However, in the last decades it turned out to be a promising approach to tackle a related problem with slightly relaxed constraints instead. For example, problems on points sets, geometric graphs, or line arrangement can be investigated via pseudo-configurations of points or pseudoline arrangements, which come with a polynomial sized axiom system over Boolean variables. Even though this approaches is sometimes sufficient to address long-standing notoriously hard problems, such relaxations may introduce configurations which are not representative for the original setting. And it is not at all surprising that deciding representativity (a.k.a. realizability) is often ETR-hard, such as the original problem.</p>
 
-<p>[1] <a href="https://satcompetition.github.io/2024/">https://satcompetition.github.io/2024/</a></p>
+<p id="ref1">[1] <a href="https://satcompetition.github.io/2024/">https://satcompetition.github.io/2024/</a></p>
 
 <p> <strong> Biography: </strong> </p>
 <div class="bio">
