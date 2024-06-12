@@ -33,6 +33,10 @@ toc: true
   div.bio + * {
     clear: both;
   }
+
+  ol > li {
+    text-align: justify
+  }
 </style>
 
 ## Location
@@ -69,20 +73,20 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> Reducing connectivity requirements: SPQR-trees and Block-Cut-trees </p>
 <p> <strong> Abstract: </strong> </p>
 <p> When trying to solve an open problem for planar graphs, one often starts with considering only triangulated or 3-connected graphs. But at some point, everybody will hear the dreaded question: "Can we extend this to biconnected graphs with SPQR-trees?"</p>
-<p>SPQR-trees are by their very nature intimidating. Without experience one can quickly become lost while trying to following arguments of more senior researchers that are used to them. In this lecture, we want to overcome the fear of SPQR-trees. We will investigate the following questions:
+<p>SPQR-trees are by their very nature intimidating. Without experience one can quickly become lost while trying to following arguments of more senior researchers that are used to them. In this lecture, we want to overcome the fear of SPQR-trees. We will investigate the following questions:</p>
 <ol>
 <li> What are SPQR-trees?</li>
 <li> How do they work?</li>
 <li> How can we use them?</li>
-</ol></p>
-<p>Building upon that, we will have a closer look at the standard pipeline of reducing connectivity requirements for problems: 
+</ol>
+<p>Building upon that, we will have a closer look at the standard pipeline of reducing connectivity requirements for problems: </p>
 <ol>
 <li> Solve a problem for triangulated graphs.</li>
 <li> Extend the algorithm to 3-connected graphs.</li>
 <li> Use SPQR-trees to further extend it to 2-connected graphs.</li>
 <li> Use Block-Cut-trees to solve the problem on 1-connected graphs.</li>
 <li> Consider how to handle disconnected graphs.</li>
-</ol></p>
+</ol>
 
 <p> <strong> Biography: </strong> </p>
 <div class="bio">
@@ -123,9 +127,11 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> Parameterized Algorithms and Few Crossings </p>
 <p> <strong> Abstract: </strong> </p>
 <p> Crossings are among the most classically considered features of drawings. The most fundamental computational problem in this context is the crossing number problem which is known to be computationally difficult (even to approximate). Parameterized complexity theory provides a general framework to obtain a more detailed understanding of and find ways to circumvent such hardness - not only for this problem. Moreover, the crossing number can also be viewed as a measure of how far a graph is from being planar, making it a potentially interesting parameter for the design of parameterized algorithms for other graph problems. In this tutorial we will take a look at both of these aspects:</p>
-<p> (1) Overview over some parameterized questions that have been asked for graph drawing problems in which the number of crossings are restricted in some way and demonstration of famous techniques from parameterized complexity theory, such as Courcelle's theorem and bidimensionality, to attack them.</p>
-<p> (2) Light exploration of crossing number for the analysis of the parameterized complexity of other problems.
-Prior knowledge of parameterized complexity theory will not be required, but in that case this tutorial will not substitute a thorough introduction but be more of a crash-course. </p>
+<ol>
+<li> Overview over some parameterized questions that have been asked for graph drawing problems in which the number of crossings are restricted in some way and demonstration of famous techniques from parameterized complexity theory, such as Courcelle's theorem and bidimensionality, to attack them.</li>
+<li> Light exploration of crossing number for the analysis of the parameterized complexity of other problems.
+Prior knowledge of parameterized complexity theory will not be required, but in that case this tutorial will not substitute a thorough introduction but be more of a crash-course.</li>
+</ol>
 
 <p><strong> Biography: </strong> </p>
 <div class="bio">
