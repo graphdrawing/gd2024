@@ -66,9 +66,23 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> <strong><a href="https://www.uni-trier.de/">Trier University</a>, Germany</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> tba </p>
+<p> Reducing connectivity requirements: SPQR-trees and Block-Cut-trees </p>
 <p> <strong> Abstract: </strong> </p>
-<p> tba </p>
+<p> When trying to solve an open problem for planar graphs, one often starts with considering only triangulated or 3-connected graphs. But at some point, everybody will hear the dreaded question: "Can we extend this to biconnected graphs with SPQR-trees?"</p>
+<p>SPQR-trees are by their very nature intimidating. Without experience one can quickly become lost while trying to following arguments of more senior researchers that are used to them. In this lecture, we want to overcome the fear of SPQR-trees. We will investigate the following questions:
+<ol>
+<li> What are SPQR-trees?</li>
+<li> How do they work?</li>
+<li> How can we use them?</li>
+</ol></p>
+<p>Building upon that, we will have a closer look at the standard pipeline of reducing connectivity requirements for problems: 
+<ol>
+<li> Solve a problem for triangulated graphs.</li>
+<li> Extend the algorithm to 3-connected graphs.</li>
+<li> Use SPQR-trees to further extend it to 2-connected graphs.</li>
+<li> Use Block-Cut-trees to solve the problem on 1-connected graphs.</li>
+<li> Consider how to handle disconnected graphs.</li>
+</ol></p>
 
 <p> <strong> Biography: </strong> </p>
 <div class="bio">
