@@ -35,7 +35,6 @@ toc: true
 * Tim Dwyer, Monash University
 * David Eppstein, University of California, Irvine
 * [Stefan Felsner](https://page.math.tu-berlin.de/~felsner/) (co-chair), Technical University Berlin
-* Tom Freeman, Janssen Research and Development
 * Michael Hoffmann, ETH Zurich
 * Seok-Hee Hong, University of Sydney
 * Yifan Hu, Amazon
