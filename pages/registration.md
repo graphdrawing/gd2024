@@ -29,5 +29,7 @@ The fees for the PhD School only cover the participation at the lectures and the
 | Regular                     | EUR 85                              | EUR 85                            |
 |-----------------------------|-------------------------------------|-----------------------------------|
 
+The Student status is reserved for students without a completed PhD or an equivalent degree.
+
 ## Registration Instructions
 Will be announced in July.
