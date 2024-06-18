@@ -167,3 +167,10 @@ Prior knowledge of parameterized complexity theory will not be required, but in 
 </figure>
 <p> Manfred Scheucher did his Bachelor and Master studies at TU Graz, his PhD with Stefan Felsner at the TU Berlin, and is now postdoctoral researcher and principal investigator of a DFG project at TU Berlin. The focus of his research lies in the interface of theoretical computer science and discrete mathematics, in particular, combinatorial geometry. His primary objective is to tackle fundamental mathematical problems by combining classic proving techniques with automated reasoning tools, in particular, SAT solvers, computer algebra systems, and large computing clusters. </p>
 </div>
+
+
+## Acknowledgments
+
+The GD2024 PhD School acknowledges support from the Austrian Science Fund (FWF Project <a href="https://www.ac.tuwien.ac.at/parameterized-analysis-in-ai/">10.55776/Y1329</a>), which contributed to the interdisciplinary aspects of tutorials on topics intersecting parameterized complexity and artificial intelligence. 
+
+The GD2024 PhD School is a partner event of the <a href="https://www.vcla.at/msca/programme/">LogiCS@TUWien Marie Skłodowska-Curie COFUND doctoral training programme</a>.
