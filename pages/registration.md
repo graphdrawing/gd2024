@@ -13,7 +13,7 @@ toc: true
 Registration fees include welcome reception (on Tuesday, September 17), coffee breaks, lunches, and social dinner (on Thursday, September 19).
 Furthermore, the LIPIcs publication fees are covered by the registration fee.
 
-*For each paper presented at GD 2024, at least one author must be registered for the conference.*
+*For each paper presented at GD 2024, at least one author must be registered for the conference. For requests of invitation letters related to the issuance of an Austrian Visa, please contact gd2024@ac.tuwien.ac.at.*
 
 The fees for the PhD School only cover the participation at the lectures and the coffee breaks, meals are *not* included. 
 
