@@ -33,6 +33,10 @@ toc: true
   div.bio + * {
     clear: both;
   }
+
+  ol > li {
+    text-align: justify
+  }
 </style>
 
 ## Location
@@ -66,9 +70,23 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> <strong><a href="https://www.uni-trier.de/">Trier University</a>, Germany</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> tba </p>
+<p> Reducing connectivity requirements: SPQR-trees and Block-Cut-trees </p>
 <p> <strong> Abstract: </strong> </p>
-<p> tba </p>
+<p> When trying to solve an open problem for planar graphs, one often starts with considering only triangulated or 3-connected graphs. But at some point, everybody will hear the dreaded question: "Can we extend this to biconnected graphs with SPQR-trees?"</p>
+<p>SPQR-trees are by their very nature intimidating. Without experience one can quickly become lost while trying to following arguments of more senior researchers that are used to them. In this lecture, we want to overcome the fear of SPQR-trees. We will investigate the following questions:</p>
+<ol>
+<li> What are SPQR-trees?</li>
+<li> How do they work?</li>
+<li> How can we use them?</li>
+</ol>
+<p>Building upon that, we will have a closer look at the standard pipeline of reducing connectivity requirements for problems: </p>
+<ol>
+<li> Solve a problem for triangulated graphs.</li>
+<li> Extend the algorithm to 3-connected graphs.</li>
+<li> Use SPQR-trees to further extend it to 2-connected graphs.</li>
+<li> Use Block-Cut-trees to solve the problem on 1-connected graphs.</li>
+<li> Consider how to handle disconnected graphs.</li>
+</ol>
 
 <p> <strong> Biography: </strong> </p>
 <div class="bio">
@@ -109,9 +127,11 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> Parameterized Algorithms and Few Crossings </p>
 <p> <strong> Abstract: </strong> </p>
 <p> Crossings are among the most classically considered features of drawings. The most fundamental computational problem in this context is the crossing number problem which is known to be computationally difficult (even to approximate). Parameterized complexity theory provides a general framework to obtain a more detailed understanding of and find ways to circumvent such hardness - not only for this problem. Moreover, the crossing number can also be viewed as a measure of how far a graph is from being planar, making it a potentially interesting parameter for the design of parameterized algorithms for other graph problems. In this tutorial we will take a look at both of these aspects:</p>
-<p> (1) Overview over some parameterized questions that have been asked for graph drawing problems in which the number of crossings are restricted in some way and demonstration of famous techniques from parameterized complexity theory, such as Courcelle's theorem and bidimensionality, to attack them.</p>
-<p> (2) Light exploration of crossing number for the analysis of the parameterized complexity of other problems.
-Prior knowledge of parameterized complexity theory will not be required, but in that case this tutorial will not substitute a thorough introduction but be more of a crash-course. </p>
+<ol>
+<li> Overview over some parameterized questions that have been asked for graph drawing problems in which the number of crossings are restricted in some way and demonstration of famous techniques from parameterized complexity theory, such as Courcelle's theorem and bidimensionality, to attack them.</li>
+<li> Light exploration of crossing number for the analysis of the parameterized complexity of other problems.
+Prior knowledge of parameterized complexity theory will not be required, but in that case this tutorial will not substitute a thorough introduction but be more of a crash-course.</li>
+</ol>
 
 <p><strong> Biography: </strong> </p>
 <div class="bio">
@@ -132,11 +152,11 @@ Prior knowledge of parameterized complexity theory will not be required, but in 
 <p> <strong> Title: </strong> </p>
 <p> Using SAT solvers in Combinatorial Geometry and Graph Drawing </p>
 <p> <strong> Abstract: </strong> </p>
-<p> The area of SAT solving has seen tremendous progress over the last years and many problems that seemed to be out of reach a decade ago can now be handled routinely [1]. In this session we will discuss how intricate problems from combinatorial geometry and graph drawing can be tackled using SAT solvers and related techniques. </p>
+<p> The area of SAT solving has seen tremendous progress over the last years and many problems that seemed to be out of reach a decade ago can now be handled routinely [<a href="#ref1">1</a>]. In this session we will discuss how intricate problems from combinatorial geometry and graph drawing can be tackled using SAT solvers and related techniques. </p>
 
 <p> First, we will discuss how mathematical problems can encoded as propositional logic formula over a finite set of Boolean variables (Boolean satisfiability problem). While most problems from combinatorics come with a natural encoding that is moderately suited for computer investigations, it is often a non-trivial task to attack problems from geometry or graph drawing. A naive encoding may come with non-linear constraints over real-valued variables, and solving might be ETR-hard, where ETR (existential theory of the reals) is a complexity class between NP and PSPACE. However, in the last decades it turned out to be a promising approach to tackle a related problem with slightly relaxed constraints instead. For example, problems on points sets, geometric graphs, or line arrangement can be investigated via pseudo-configurations of points or pseudoline arrangements, which come with a polynomial sized axiom system over Boolean variables. Even though this approaches is sometimes sufficient to address long-standing notoriously hard problems, such relaxations may introduce configurations which are not representative for the original setting. And it is not at all surprising that deciding representativity (a.k.a. realizability) is often ETR-hard, such as the original problem.</p>
 
-<p>[1] <a href="https://satcompetition.github.io/2024/">https://satcompetition.github.io/2024/</a></p>
+<p id="ref1">[1] <a href="https://satcompetition.github.io/2024/">https://satcompetition.github.io/2024/</a></p>
 
 <p> <strong> Biography: </strong> </p>
 <div class="bio">
@@ -147,3 +167,10 @@ Prior knowledge of parameterized complexity theory will not be required, but in 
 </figure>
 <p> Manfred Scheucher did his Bachelor and Master studies at TU Graz, his PhD with Stefan Felsner at the TU Berlin, and is now postdoctoral researcher and principal investigator of a DFG project at TU Berlin. The focus of his research lies in the interface of theoretical computer science and discrete mathematics, in particular, combinatorial geometry. His primary objective is to tackle fundamental mathematical problems by combining classic proving techniques with automated reasoning tools, in particular, SAT solvers, computer algebra systems, and large computing clusters. </p>
 </div>
+
+
+## Acknowledgments
+
+The GD2024 PhD School acknowledges support from the Austrian Science Fund (FWF Project <a href="https://www.ac.tuwien.ac.at/parameterized-analysis-in-ai/">10.55776/Y1329</a>), which contributed to the interdisciplinary aspects of tutorials on topics intersecting parameterized complexity and artificial intelligence. 
+
+The GD2024 PhD School is a partner event of the <a href="https://www.vcla.at/msca/programme/">LogiCS@TUWien Marie Skłodowska-Curie COFUND doctoral training programme</a>.
