@@ -64,6 +64,16 @@ When choosing your accommodation, we suggest that you look for something that is
 
 The usual booking websites contain comprehensive lists of hotels in Vienna. Further, many options for renting an apartment are available on [AirBnb](https://www.airbnb.com/s/Wien--Austria/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJ59ay5nQHbUcRTsCwZOGNF9c&checkin=2024-09-17&checkout=2024-09-20&adults=1).
 
+**Discount codes**
+
+- [Hotel Mercure Secession (★★★★)](https://www.hotelsecession.com/) (2 min walking distance to the venue): write an email to [reservierung@hotelsecession.com](reservierung@hotelsecession.com) using the code word **GD24**. Rooms with breakfast are (per night):
+  - single room: 149€
+  - double room: 180€
+  - deluxe single room: 179€
+  - deluxe double room: 210€
+
+**Hotels close to the venue**
+
 A list of accommodations in walking distance to the venue is given below (also marked in the map below).
 - [Hotel Mercure Secession (★★★★)](https://www.hotelsecession.com/)
 - [Hotel Beethoven (★★★★)](https://www.hotel-beethoven.at/en/)
