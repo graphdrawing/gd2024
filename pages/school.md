@@ -104,9 +104,15 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> <strong><a href="https://www.uu.nl/">Utrecht University</a>, The Netherlands</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> tba </p>
+<p> European Value Maps - from theory to application </p>
 <p> <strong> Abstract: </strong> </p>
-<p> tba </p>
+<p> <a href="https://evm.science.uu.nl" target="_blank">European Value Maps</a> are conceptual maps representing human values across Europe. These maps enable the public to reflect on the diverse opinions held by European citizens. The ultimate goal is to promote acceptance and tolerance of different viewpoints, thereby reducing the opinion polarization that has become prevalent in our society.</p>
+ 
+<p>
+In this lecture, you will learn about the methodology behind these maps, known as metaphoric maps, conceptual maps, or contact representations. These visualizations use polygonal regions to depict clusters of opinions and contacts among those regions, to depict the similarity between the opinion groups, leveraging the human familiarity with geographic maps.</p>
+ 
+<p>
+We will walk through the steps of constructing these maps, starting with the data from the <a href="https://europeanvaluesstudy.eu" target="_blank">European Value Study</a>. This includes data preparation, clustering, dimensionality reduction, and final geometric processing. Additionally, we will address the challenges that arise when considering data over time. Finally, we will discuss recent user studies on how these maps can influence opinion dynamics and their effectiveness in fostering open-mindedness among people.</p>
 
 <p> <strong> Biography: </strong> </p>
 <div class="bio">
@@ -115,7 +121,9 @@ The location is accessible by wheelchair and the registration and coffee breaks 
   <!-- <footer style="font-size: 12px"></footer> -->
   <!-- <figcaption>Caption goes here</figcaption> -->
 </figure>
-<p> tba </p>
+<p> Tamara Mchedlidze is an Assistant Professor at the Department of Information and Computing Sciences of Utrecht University. Her research interests include Algorithms for Network Visualization, Visual Perception and Cognition and applications of network visualization in Digital Humanities. Before joining Utrecht University in 2020, Tamara was a postdoc at Karlsruhe Institute of Technology. She received her doctorate in Applied Mathematics from National Technical University of Athens in 2012, during which she was a Visiting DAAD Scholar at the Department of Informatics at Tübingen University.
+<!-- Tamara Mchedlidze is serving as co-editor-in-chief for journal of Computational Geometry: Theory and Applications and has been a member of the program committees of several computer science conferences including: International Symposium on Graph Drawing & Network Visualization (GD), Information Visualization (EuroVIS), European Symposium on Algorithms (ESA), Innovations in Theoretical Computer Science (ITCS) and Canadian Conference on Computational Geometry (CCCG). Her work has been awarded Best Poster and Best Paper awards by the International Symposium on Graph Drawing & Network Visualization and Eurographics Conference on Visualization. She has obtained multiple awards for her participation in the Graph Drawing Challenge at GD’14, GD’15, GD’16, GD’17, GD’18 and  between 2019 and 2023 served as a member of Graph Drawing Contest Committee. -->
+</p>
 </div>
 
 <hr>
