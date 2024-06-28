@@ -43,6 +43,11 @@ toc: true
   ol > li {
     text-align: justify
   }
+
+  div.logos-sponsor {
+    display: flex;
+    justify-content: space-between;
+  }
 </style>
 
 ## Location
@@ -187,4 +192,13 @@ Prior knowledge of parameterized complexity theory will not be required, but in 
 
 The GD2024 PhD School acknowledges support from the Austrian Science Fund (FWF Project <a href="https://www.ac.tuwien.ac.at/parameterized-analysis-in-ai/">10.55776/Y1329</a>), which contributed to the interdisciplinary aspects of tutorials on topics intersecting parameterized complexity and artificial intelligence. 
 
+<div class="logos-sponsor" style="margin-bottom: 1.3em">
+  <img src="../../assets/images/sponsor/fwf.png" width="250" />
+</div>
+
 The GD2024 PhD School is a partner event of the <a href="https://www.vcla.at/msca/programme/">LogiCS@TUWien Marie Skłodowska-Curie COFUND doctoral training programme</a>.
+
+<div class="logos-sponsor">
+  <img src="../../assets/images/sponsor/eu.png" width="250" />
+  <img src="../../assets/images/sponsor/logics.png" width="250" />
+</div>
