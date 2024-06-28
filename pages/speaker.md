@@ -17,6 +17,12 @@ toc: true
 
   div.bio {
     min-height: 175px;
+    overflow: auto;
+    margin-bottom: 1.3em;
+  }
+
+  div.bio > p {
+    margin-bottom: 0;
   }
 
   div.bio > figure {
