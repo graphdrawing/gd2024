@@ -90,6 +90,7 @@ A list of accommodations in walking distance to the venue is given below (also m
 
 **Hotels a few subway stops from the venue**
 - [Leonardo Hotel Vienna Main Station (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-hauptbahnhof) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
+- [Novotel Vienna Main Station (★★★★)](https://www.novotel-wien-hauptbahnhof.com/en/) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
 - [Motel One Vienna Main Station (★★★)](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-hauptbahnhof/) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
 - [Ibis Vienna Main Station (★★★)](https://all.accor.com/ssr/app/ibis/rates/8564/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
 - [Leonardo Hotel Schönbrunn (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-schonbrunn) <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span> 4 stops
