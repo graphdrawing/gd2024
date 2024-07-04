@@ -86,20 +86,22 @@ A list of accommodations in walking distance to the venue is given below (also m
 - [Kolping Wien Zentral (★★)](https://www.kolping-wien-zentral.at/en/home-en)
 - [Wombats City Hostel](https://www.wombats-hostels.com/vienna)
 
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/gd-2024_60350?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&fullscreenControl=true&captionControl=null&editinosmControl=null&datalayers=a1863787-8ca2-442a-8516-dfbffb087ce4%2C8155a9b6-7362-4723-b77f-44dac917146f%2C007b642a-84b3-462f-9d74-5b0afeee01ed&starControl=false#15/48.198/16.364"></iframe>
+
 **Hotels a few subway stops from the venue**
 - [Leonardo Hotel Vienna Main Station (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-hauptbahnhof) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
 - [Motel One Vienna Main Station (★★★)](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-hauptbahnhof/) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
 - [Ibis Vienna Main Station (★★★)](https://all.accor.com/ssr/app/ibis/rates/8564/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
 - [Leonardo Hotel Schönbrunn (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-schonbrunn) <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span> 4 stops
 - [Ibis Wien City (★★★)](https://all.accor.com/ssr/app/ibis/rates/3747/index.en.shtml) <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span> 2 stops
+- [Hotel Mercure Westbahnhof (★★★★)](https://all.accor.com/hotel/5358/index.en.shtml) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
 - [Leonardo Hotel Westbahnhof (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-westbahnhof) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
 - [Motel One Westbahnhof (★★★)](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-westbahnhof/) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
-- [Hotel Mercure Westbahnhof (★★★★)](https://all.accor.com/hotel/5358/index.en.shtml) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
+- [Jo&JOE Hostel](https://all.accor.com/hotel/B677/index.en.shtml) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
 - [Novotel Suites Wien City Donau (★★★★)](https://all.accor.com/ssr/app/accor/rates/3720/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops
 - [Ibis Wien Messe (★★★)](https://all.accor.com/hotel/2736/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops
 - [Ibis Budget Wien Messe (★★)](https://all.accor.com/ssr/app/ibis/rates/7098/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/gd-2024_60350?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&fullscreenControl=true&captionControl=null&editinosmControl=null&datalayers=a1863787-8ca2-442a-8516-dfbffb087ce4%2C8155a9b6-7362-4723-b77f-44dac917146f%2C007b642a-84b3-462f-9d74-5b0afeee01ed&starControl=false#15/48.198/16.364"></iframe>
 
 The links below take you to booking.com:
 
