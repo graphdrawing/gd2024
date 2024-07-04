@@ -115,7 +115,8 @@ The links below take you to booking.com:
 Some cheaper options can be found in the form of hostels. The website [hostelworld.com](https://hostelworld.com/) can be used to book rooms or dorm beds in a variety of hostels around Vienna.
 
 As an option close to the conference venue we recommend the [Wombats's city hostel](https://www.wombats-hostels.com/vienna).
-Near Wien Westbahnhof (<span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span>) there is the Ho(s)tel [JO&JOE](https://all.accor.com/hotel/B677/index.en.shtml).
+
+Near Wien Westbahnhof (<span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span>) there is the Ho(s)tel [JO&JOE](https://all.accor.com/hotel/B677/index.en.shtml) with a nice rooftop terrace.
 
 ## Getting around in Vienna
 
