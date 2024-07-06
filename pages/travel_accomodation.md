@@ -152,9 +152,9 @@ Single tickets can be purchased at a price of EUR 2.40. A single ticket is valid
 
 **Recommendations**
 
-We recommend to get a weekly ticket for EUR 17.10. It is valid from Monday 0:00 AM to the following Monday 9:00 AM. It does not matter if you purchase it on any other day of the week, it will be valid from the last Monday before the day of purchase to the following Monday.
+We recommend to get a 7-day ticket for EUR 19.70 (in the app) or EUR 22,60 (paper ticket). It is valid for seven days from the day of purchase. 
 
-Another option is the 72 hour ticket which also costs EUR 17.10, but is valid from the time of purchase until 72 hours later. There are 48 hours (EUR 14.10) and 24 hours (EUR 8.00) tickets too. For comparison a single, one-way trip costs EUR 2.40.
+Another option is the 72 hour ticket which costs EUR 17.10 and is valid from the time of purchase until 72 hours later. There are 48 hours (EUR 14.10) and 24 hours (EUR 8.00) tickets, too. For comparison a single, one-way trip costs EUR 2.40.
 
 **Bicycles**
 
