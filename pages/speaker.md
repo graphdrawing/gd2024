@@ -93,9 +93,9 @@ geometry. </p>
   <footer style="font-size: 12px">Copyright Lilli Strauss</footer>
   <!-- <figcaption>Caption goes here</figcaption> -->
 </figure>
-<p> Monika Henzinger is a professor of Computer Science at the Institute of Science and Technology Austria (ISTA). She holds a PhD in computer science from Princeton University (New Jersey, USA), and has been the head of research at Google and a professor of computer science at EPFL and at the University of Vienna
+<p> Monika Henzinger is a professor of Computer Science at the Institute of Science and Technology Austria (ISTA). She holds a PhD in computer science from Princeton University (New Jersey, USA), and has been the head of research at Google and a professor of computer science at EPFL and at the University of Vienna. 
 
-Monika Henzinger is an ACM and EATCS Fellow and a member of the Austrian Academy of Sciences and the German National Academy of Sciences Leopoldina. She has received several awards, including an honorary doctorate from TU Dortmund University, Two ERC Advanced Grant, the Leopoldina Carus Medal, and the Wittgensteinpreis, the highest science award of Austria. </p>
+Monika Henzinger is an ACM and EATCS Fellow and a member of the Austrian Academy of Sciences and the German National Academy of Sciences Leopoldina. She has received several awards, including an honorary doctorate from TU Dortmund University, two ERC Advanced Grants, the Leopoldina Carus Medal, and the Wittgensteinpreis - the highest scientific award of Austria. </p>
 </div>
 
 <!--
