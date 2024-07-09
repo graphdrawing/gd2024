@@ -78,6 +78,7 @@ A list of accommodations in walking distance to the venue is given below (also m
 - [Hotel Mercure Secession (★★★★)](https://www.hotelsecession.com/), < 5min
 - [Hotel Beethoven (★★★★)](https://www.hotel-beethoven.at/en/), < 5min
 - [Motel One Wien-Staatsoper (★★★)](https://www.motel-one.com/hotels/wien/hotel-wien-staatsoper/), 5-10min
+- [Hotel Terminus (★★★)](https://terminus.at/en/), 5-10min
 - [Kolping Wien Zentral (★★)](https://www.kolping-wien-zentral.at/en/home-en), 5-10min
 - [Wombats City Hostel](https://www.wombats-hostels.com/vienna), 5-10min
 - [Hotel Johann Strauss (★★★★)](https://www.hoteljohannstrauss.at/hotel-johann-strauss-wien), 10-15min
