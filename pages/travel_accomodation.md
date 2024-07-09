@@ -75,35 +75,36 @@ The usual booking websites contain comprehensive lists of hotels in Vienna. Furt
 **Hotels close to the venue**
 
 A list of accommodations in walking distance to the venue is given below (also marked in the map below).
-- [Hotel Mercure Secession (★★★★)](https://www.hotelsecession.com/)
-- [Hotel Beethoven (★★★★)](https://www.hotel-beethoven.at/en/)
-- [Hotel Johann Strauss (★★★★)](https://www.hoteljohannstrauss.at/hotel-johann-strauss-wien)
-- [Hotel Erzherzog Rainer (★★★★)](https://www.hotelerzherzograiner.wien/)
-- [Holiday Inn Vienna City (★★★★)](https://www.ihg.com/holidayinn/hotels/gb/en/vienna/viect/hoteldetail)
-- [Saint Shermin Bed&Breakfast (★★★★)](https://www.shermin.at/en/)
-- [Hotel Kaiserhof (★★★★)](https://wien.hotel-kaiserhof.at/)
-- [Motel One Wien-Staatsoper (★★★)](https://www.motel-one.com/hotels/wien/hotel-wien-staatsoper/)
-- [Kolping Wien Zentral (★★)](https://www.kolping-wien-zentral.at/en/home-en)
-- [Wombats City Hostel](https://www.wombats-hostels.com/vienna)
+- [Hotel Mercure Secession (★★★★)](https://www.hotelsecession.com/), < 5min
+- [Hotel Beethoven (★★★★)](https://www.hotel-beethoven.at/en/), < 5min
+- [Motel One Wien-Staatsoper (★★★)](https://www.motel-one.com/hotels/wien/hotel-wien-staatsoper/), 5-10min
+- [Kolping Wien Zentral (★★)](https://www.kolping-wien-zentral.at/en/home-en), 5-10min
+- [Wombats City Hostel](https://www.wombats-hostels.com/vienna), 5-10min
+- [Hotel Johann Strauss (★★★★)](https://www.hoteljohannstrauss.at/hotel-johann-strauss-wien), 10-15min
+- [Hotel Erzherzog Rainer (★★★★)](https://www.hotelerzherzograiner.wien/), 10-15min
+- [Saint Shermin Bed&Breakfast (★★★★)](https://www.shermin.at/en/), 10-15min
+- [Hotel Kaiserhof (★★★★)](https://wien.hotel-kaiserhof.at/), 10-15min
+- [Holiday Inn Vienna City (★★★★)](https://www.ihg.com/holidayinn/hotels/gb/en/vienna/viect/hoteldetail), 15-20min
+
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.de/en/map/gd-2024_60350?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&fullscreenControl=true&captionControl=null&editinosmControl=null&datalayers=a1863787-8ca2-442a-8516-dfbffb087ce4%2C8155a9b6-7362-4723-b77f-44dac917146f%2C007b642a-84b3-462f-9d74-5b0afeee01ed&starControl=false#15/48.198/16.364"></iframe>
 
 **Hotels a few subway stops from the venue**
 
-The following hotels are conveniently within 15-20 minutes total travel time from the venue:
-- [Leonardo Hotel Vienna Main Station (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-hauptbahnhof) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
-- [Novotel Vienna Main Station (★★★★)](https://www.novotel-wien-hauptbahnhof.com/en/) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
-- [Motel One Vienna Main Station (★★★)](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-hauptbahnhof/) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
-- [Ibis Vienna Main Station (★★★)](https://all.accor.com/ssr/app/ibis/rates/8564/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops
-- [Leonardo Hotel Schönbrunn (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-schonbrunn) <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span> 4 stops
-- [Ibis Wien City (★★★)](https://all.accor.com/ssr/app/ibis/rates/3747/index.en.shtml) <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span> 2 stops
-- [Hotel Mercure Westbahnhof (★★★★)](https://all.accor.com/hotel/5358/index.en.shtml) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
-- [Leonardo Hotel Westbahnhof (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-westbahnhof) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
-- [Motel One Westbahnhof (★★★)](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-westbahnhof/) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
-- [JO&JOE Hostel](https://all.accor.com/hotel/B677/index.en.shtml) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops
-- [Novotel Suites Wien City Donau (★★★★)](https://all.accor.com/ssr/app/accor/rates/3720/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops
-- [Ibis Wien Messe (★★★)](https://all.accor.com/hotel/2736/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops
-- [Ibis Budget Wien Messe (★★)](https://all.accor.com/ssr/app/ibis/rates/7098/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops
+The following hotels are conveniently within 15-25 minutes total travel time from the venue:
+- [Hotel Mercure Westbahnhof (★★★★)](https://all.accor.com/hotel/5358/index.en.shtml) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops, 15-20min
+- [Leonardo Hotel Westbahnhof (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-westbahnhof) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops, 15-20min
+- [Motel One Westbahnhof (★★★)](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-westbahnhof/) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops, 15-20min
+- [JO&JOE Hostel](https://all.accor.com/hotel/B677/index.en.shtml) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops, 15-20min
+- [Leonardo Hotel Schönbrunn (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-schonbrunn) <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span> 4 stops, 15-20min
+- [Ibis Wien City (★★★)](https://all.accor.com/ssr/app/ibis/rates/3747/index.en.shtml) <span style="background-color: #319f49; color: white; font-weight: bold; padding: 0px 2px;">U4</span> 2 stops, 15-20min
+- [Novotel Suites Wien City Donau (★★★★)](https://all.accor.com/ssr/app/accor/rates/3720/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops, 15-20min
+- [Ibis Wien Messe (★★★)](https://all.accor.com/hotel/2736/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops, 15-20min
+- [Ibis Budget Wien Messe (★★)](https://all.accor.com/ssr/app/ibis/rates/7098/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 5 stops, 15-20min
+- [Leonardo Hotel Vienna Main Station (★★★★)](https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-hauptbahnhof) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops, 20-25min
+- [Novotel Vienna Main Station (★★★★)](https://www.novotel-wien-hauptbahnhof.com/en/) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops, 20-25min
+- [Motel One Vienna Main Station (★★★)](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-hauptbahnhof/) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops, 20-25min
+- [Ibis Vienna Main Station (★★★)](https://all.accor.com/ssr/app/ibis/rates/8564/index.en.shtml) <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> 2 stops, 20-25min
 
 
 The links below take you to booking.com:
