@@ -12,7 +12,7 @@ main:
     url: /pages/venue
   - title: "Registration"
     url: /pages/registration
-  - title: "Travel"
+  - title: "Travel & Stay"
     url: /pages/travel_accomodation
   # - title: "Practical Information"
   #  url: /pages/practical
