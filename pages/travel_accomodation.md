@@ -71,6 +71,11 @@ The usual booking websites contain comprehensive lists of hotels in Vienna. Furt
   - double room: 180€
   - deluxe single room: 179€
   - deluxe double room: 210€
+- [Motel One Westbahnhof (★★★)](https://www.motel-one.com/en/hotels/vienna/hotel-vienna-westbahnhof/) <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> 3 stops, 15-20min: use [this booking form](../../assets/pdfs/MoteloneWestbahnhofBooking.pdf){:target="_blank"} and send it to [wien-westbahnhof@motel-one.com](mailto:wien-westbahnhof@motel-one.com). Rooms **without breakfast** are (per night)
+  - single room 101.56€
+  - double room 122.08€
+  
+  Breakfast is 16.90€ extra per night.
 
 **Hotels close to the venue**
 
