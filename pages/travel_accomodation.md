@@ -75,7 +75,7 @@ The usual booking websites contain comprehensive lists of hotels in Vienna. Furt
   - single room 101.56€
   - double room 122.08€
   
-  Breakfast is 16.90€ extra per night.
+  Breakfast is 16.90€ extra per night and person.
 
 **Hotels close to the venue**
 
