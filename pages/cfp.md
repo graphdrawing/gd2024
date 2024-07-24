@@ -15,7 +15,7 @@ toc: true
 |----------------------------------|------------------------------------------|
 | Abstract submission	deadline     | ~~Friday, May 31, 2024~~                 |
 | Paper submission deadline		     | ~~Friday, June 7, 2024~~                 |
-| Notification of paper acceptance | Saturday, July 20, 2024                  |
+| Notification of paper acceptance | ~~Saturday, July 20, 2024~~              |
 | Poster submission deadline		   | Friday, August 16, 2024                  |
 | Notification of poster acceptance| Saturday, August 31, 2024                |
 | Final versions due		           | Friday, September 6, 2024                |
