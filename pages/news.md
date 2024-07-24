@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[24.07.2024] The <a href="../program">list of accepted papers and a preliminary program schedule</a> is now available.
+
 [31.05.2024] Information on the <a href="../registration">registration</a> has been added to the webpage.
 
 [29.05.2024] Information on the <a href="../venue">venue</a>, <a href="../travel_accomodation">travel and accommodation</a>, and the associated <a href="../school">PhD school</a> has been added to the webpage.
