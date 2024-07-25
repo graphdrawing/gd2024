@@ -1,7 +1,7 @@
 ---
 # permalink: /about/
 layout: single
-title: "Program and Accepted Papers"
+title: "Program & Accepted Papers"
 header:
   image: /assets/images/teaser/50851_cropped.jpg
   caption: "Image credit: [**WienTourismus/Gregor Hofbauer**](https://foto.wien.info/Bild/Alle/45474)"
