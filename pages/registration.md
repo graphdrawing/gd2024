@@ -34,4 +34,6 @@ The fees for the PhD School only cover the participation at the lectures and the
 The Student status is reserved for students without a completed PhD or an equivalent degree.
 
 ## Registration Instructions
-Registration for the symposium as well as the PhD School is available at **https://www.conftool.org/gd2024/**. To register, you will first need to create an account in the system. We support standard credit and debit card payments for the registration fees (VISA / MasterCard / Diners Club / Maestro).
+Registration for the symposium as well as the PhD School is available at [https://www.conftool.org/gd2024/](https://www.conftool.org/gd2024/). 
+
+To register, you will first need to create an account in the system. We support standard credit and debit card payments for the registration fees (VISA / MasterCard / Diners Club / Maestro).
