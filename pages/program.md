@@ -1,12 +1,13 @@
 ---
 # permalink: /about/
 layout: single
-title: "Program"
+title: "Program and Accepted Papers"
 header:
   image: /assets/images/teaser/50851_cropped.jpg
   caption: "Image credit: [**WienTourismus/Gregor Hofbauer**](https://foto.wien.info/Bild/Alle/45474)"
 # last_modified_at: 2023-07-24
 toc: true
+usemathjax: true
 ---
 
 <style type="text/css">
@@ -77,14 +78,13 @@ toc: true
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr><td>09:00 - 09:15</td><td>Opening Session</td></tr>
     <tr><td>09:15 - 10:30</td><td>Paper Session</td></tr>
-    <tr><td>10:30 - 11:00</td><td>Coffe Break</td></tr>
+    <tr><td>10:30 - 11:00</td><td>Coffee Break</td></tr>
     <tr><td>11:00 - 12:20</td><td>Paper Session</td></tr>
     <tr><td>12:20 - 14:00</td><td>Lunch</td></tr>
-    <tr><td>14:00 - 14:55</td><td>Paper Session</td></tr>
-    <tr><td>14:55 - 15:15</td><td>Poster Teasers</td></tr>
+    <tr><td>14:00 - 15:00</td><td>Paper Session</td></tr>
+    <tr><td>15:00 - 15:15</td><td>Poster Teasers</td></tr>
     <tr><td>15:15 - 16:15</td><td>Poster & Demo Session, Coffee Break</td></tr>
-    <tr><td>16:15 - 16:20</td><td>Introduction of Best Papers</td></tr>
-    <tr><td>16:20 - 17:00</td><td>Best Paper Session</td></tr>
+    <tr><td>16:15 - 17:00</td><td>Paper Session</td></tr>
     <tr><td>17:00 - 18:30</td><td><a href="https://mozart.diei.unipg.it/gdcontest/2024/">GD Contest</a></td></tr>
   </tbody>
 </table>
@@ -102,13 +102,13 @@ toc: true
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr><td>09:00 - 10:30</td><td>Paper Session</td></tr>
-    <tr><td>10:30 - 11:00</td><td>Coffe Break</td></tr>
+    <tr><td>10:30 - 11:00</td><td>Coffee Break</td></tr>
     <tr><td>11:00 - 12:20</td><td>Paper Session</td></tr>
     <tr><td>12:20 - 14:00</td><td>Lunch</td></tr>
     <tr><td>14:00 - 15:00</td><td><a href="../speaker">Invited Talk</a></td></tr>
     <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
-    <tr><td>15:30 - 16:45</td><td>Paper Session</td></tr>
-    <tr><td>16:45 - 18:00</td><td>Business Meeting</td></tr>
+    <tr><td>15:30 - 16:50</td><td>Paper Session</td></tr>
+    <tr><td>16:50 - 17:50</td><td>Business Meeting</td></tr>
     <tr><td>19:00 - 22:00</td><td>Social Dinner</td></tr>
   </tbody>
 </table>
@@ -126,7 +126,7 @@ toc: true
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr><td>09:00 - 10:30</td><td>Paper Session</td></tr>
-    <tr><td>10:30 - 11:00</td><td>Coffe Break</td></tr>
+    <tr><td>10:30 - 11:00</td><td>Coffee Break</td></tr>
     <tr><td>11:00 - 12:20</td><td>Paper Session</td></tr>
     <tr><td>12:20 - 14:00</td><td>Lunch</td></tr>
     <tr><td>14:00 - 15:00</td><td><a href="../speaker">Invited Talk</a></td></tr>
@@ -149,7 +149,7 @@ toc: true
 - <span class="authors"><span>Martin Balko, Petr Hliněný, Tomáš Masařík, Joachim Orthaber, Birgit Vogtenhuber and Mirko H. Wagner</span>. </span><span class="title">On the Uncrossed Number of Graphs</span>
 - <span class="authors"><span>Michael Bekos, Prosenjit Bose, Aaron Büngener, Vida Dujmovic, Michael Hoffmann, Michael Kaufmann, Pat Morin, Saeed Odak and Alexandra Weinberger</span>. </span><span class="title">On k-planar Graphs without Short Cycles</span>
 - <span class="authors"><span>Michael Bekos, Giordano Da Lozzo, Fabrizio Frati, Siddharth Gupta, Philipp Kindermann, Giuseppe Liotta, Ignaz Rutter and Ioannis Tollis</span>. </span><span class="title">Weakly Leveled Planarity with Bounded Span</span>
-- <span class="authors"><span>Michael Bekos, Giuseppe Di Battista, Emilio Di Giacomo, Walter Didimo, Michael Kaufmann and Fabrizio Montecchiani</span>. </span><span class="title">On the Complexity of Recognizing $k^+$-Real Face Graphs</span>
+- <span class="authors"><span>Michael Bekos, Giuseppe Di Battista, Emilio Di Giacomo, Walter Didimo, Michael Kaufmann and Fabrizio Montecchiani</span>. </span><span class="title">On the Complexity of Recognizing $$k^+$$-Real Face Graphs</span>
 - <span class="authors"><span>Therese Biedl, Sabine Cornelsen, Jan Kratochvil and Ignaz Rutter</span>. </span><span class="title">Constrained Outer-String Representations</span>
 - <span class="authors"><span>Therese Biedl, Anna Lubiw and Jack Spalding-Jamieson</span>. </span><span class="title">Morphing Planar Graph Drawings via Orthogonal Box Drawings</span>
 - <span class="authors"><span>Annika Bonerath, Martin Nöllenburg, Soeren Terziadis, Markus Wallinger and Jules Wulms</span>. </span><span class="title">Boundary Labeling in a Circular Orbit</span>
@@ -161,7 +161,7 @@ toc: true
 - <span class="authors"><span>Vida Dujmovic and Camille La Rose</span>. </span><span class="title">Rectilinear Crossing Number of Graphs Excluding Single-Crossing Graphs as Minors</span>
 - <span class="authors"><span>David Eppstein, Michael T. Goodrich and Abraham M. Illickan</span>. </span><span class="title">Drawing Planar Graphs and 1-Planar Graphs Using Cubic Bézier Curves with Bounded Curvature</span>
 - <span class="authors"><span>Oksana Firman, Grzegorz Gutowski, Myroslav Kryven, Yuto Okada and Alexander Wolff</span>. </span><span class="title">Bounding the Treewidth of Outer k-Planar Graphs via Triangulations</span>
-- <span class="authors"><span>Jacob Fox, Janos Pach and Andrew Suk</span>. </span><span class="title">Enumeration of intersection graphs of $x$-monotone curves</span>
+- <span class="authors"><span>Jacob Fox, Janos Pach and Andrew Suk</span>. </span><span class="title">Enumeration of intersection graphs of $$x$$-monotone curves</span>
 - <span class="authors"><span>Michael Hoffmann, Michael Kaufmann, Henry Förster and Steven Chaplick</span>. </span><span class="title">Monotone Arc Diagrams with few Biarcs</span>
 - <span class="authors"><span>Julia Katheder, Philipp Kindermann, Fabian Klute, Irene Parada and Ignaz Rutter</span>. </span><span class="title">On k-Plane Insertion into Plane Drawings</span>
 - <span class="authors"><span>Michael Kaufmann, Boris Klemz, Kristin Knorr, Meghana M Reddy, Felix Schröder and Torsten Ueckerdt</span>. </span><span class="title">The Density Formula: One Lemma to Bound Them All</span>
@@ -177,7 +177,7 @@ toc: true
 - <span class="authors"><span>Amyra Meidiana, Seok-Hee Hong and Yongcheng Jing</span>. </span><span class="title">Connectivity-Faithful Graph Drawing</span>
 - <span class="authors"><span>Gavin J. Mooney, Helen C. Purchase, Michael Wybrow, Stephen G. Kobourov and Jacob Miller</span>. </span><span class="title">The Perception of Stress in Graph Drawings</span>
 
-### Short Paper
+### Short Papers
 - <span class="authors"><span>Helena Bergold, Joachim Orthaber, Manfred Scheucher and Felix Schröder</span>. </span><span class="title">Holes in Convex and Simple Drawings</span>
 - <span class="authors"><span>Daniel J. Chang and Timothy Sun</span>. </span><span class="title">Harborth's conjecture for 4-regular planar graphs</span>
 - <span class="authors"><span>Adrian Dumitrescu and Janos Pach</span>. </span><span class="title">Partitioning complete geometric graphs into plane subgraphs</span>
