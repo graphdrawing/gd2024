@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[25.07.2024] The <a href="../registration">registration</a> is now open.
+
 [24.07.2024] The <a href="../program">list of accepted papers and a preliminary program schedule</a> is now available.
 
 [31.05.2024] Information on the <a href="../registration">registration</a> has been added to the webpage.
