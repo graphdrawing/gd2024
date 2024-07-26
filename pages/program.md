@@ -81,8 +81,8 @@ usemathjax: true
     <tr><td>10:30 - 11:00</td><td>Coffee Break</td></tr>
     <tr><td>11:00 - 12:20</td><td>Paper Session</td></tr>
     <tr><td>12:20 - 14:00</td><td>Lunch</td></tr>
-    <tr><td>14:00 - 15:00</td><td>Paper Session</td></tr>
-    <tr><td>15:00 - 15:15</td><td>Poster Teasers</td></tr>
+    <tr><td>14:00 - 14:55</td><td>Paper Session</td></tr>
+    <tr><td>14:55 - 15:15</td><td>Poster Teasers</td></tr>
     <tr><td>15:15 - 16:15</td><td>Poster & Demo Session, Coffee Break</td></tr>
     <tr><td>16:15 - 17:00</td><td>Paper Session</td></tr>
     <tr><td>17:00 - 18:30</td><td><a href="https://mozart.diei.unipg.it/gdcontest/2024/">GD Contest</a></td></tr>
@@ -107,8 +107,8 @@ usemathjax: true
     <tr><td>12:20 - 14:00</td><td>Lunch</td></tr>
     <tr><td>14:00 - 15:00</td><td><a href="../speaker">Invited Talk</a></td></tr>
     <tr><td>15:00 - 15:30</td><td>Coffee Break</td></tr>
-    <tr><td>15:30 - 16:50</td><td>Paper Session</td></tr>
-    <tr><td>16:50 - 17:50</td><td>Business Meeting</td></tr>
+    <tr><td>15:30 - 16:45</td><td>Paper Session</td></tr>
+    <tr><td>16:45 - 17:45</td><td>Business Meeting</td></tr>
     <tr><td>19:00 - 22:00</td><td>Social Dinner</td></tr>
   </tbody>
 </table>
@@ -154,7 +154,6 @@ usemathjax: true
 - <span class="authors"><span>Therese Biedl, Anna Lubiw and Jack Spalding-Jamieson</span>. </span><span class="title">Morphing Planar Graph Drawings via Orthogonal Box Drawings</span>
 - <span class="authors"><span>Annika Bonerath, Martin Nöllenburg, Soeren Terziadis, Markus Wallinger and Jules Wulms</span>. </span><span class="title">Boundary Labeling in a Circular Orbit</span>
 - <span class="authors"><span>Aaron Büngener and Michael Kaufmann</span>. </span><span class="title">Improving the Crossing Lemma by Characterizing Dense 2-Planar and 3-Planar Graphs</span>
-- <span class="authors"><span>Susanna Caroppo, Giordano Da Lozzo and Giuseppe Di Battista</span>. </span><span class="title">Quantum Algorithms for One-Sided Crossing Minimization</span>
 - <span class="authors"><span>Markus Chimani, Torben Donzelmann, Nick Kloster, Melissa Koch, Jan-Jakob Völlering and Mirko H. Wagner</span>. </span><span class="title">Crossing Numbers of Beyond Planar Graphs Re-revisited: A Framework Approach</span>
 - <span class="authors"><span>Sebastiano Cultrera di Montesano, Ondrej Draganov, Herbert Edelsbrunner and Morteza Saghafian</span>. </span><span class="title">The Euclidean MST-ratio of Bi-colored Lattices</span>
 - <span class="authors"><span>Thomas Depian, Simon Dominik Fink, Robert Ganian and Martin Nöllenburg</span>. </span><span class="title">The Parameterized Complexity of Extending Stack Layouts</span>
@@ -163,7 +162,6 @@ usemathjax: true
 - <span class="authors"><span>Oksana Firman, Grzegorz Gutowski, Myroslav Kryven, Yuto Okada and Alexander Wolff</span>. </span><span class="title">Bounding the Treewidth of Outer k-Planar Graphs via Triangulations</span>
 - <span class="authors"><span>Jacob Fox, Janos Pach and Andrew Suk</span>. </span><span class="title">Enumeration of intersection graphs of $$x$$-monotone curves</span>
 - <span class="authors"><span>Michael Hoffmann, Michael Kaufmann, Henry Förster and Steven Chaplick</span>. </span><span class="title">Monotone Arc Diagrams with few Biarcs</span>
-- <span class="authors"><span>Julia Katheder, Philipp Kindermann, Fabian Klute, Irene Parada and Ignaz Rutter</span>. </span><span class="title">On k-Plane Insertion into Plane Drawings</span>
 - <span class="authors"><span>Michael Kaufmann, Boris Klemz, Kristin Knorr, Meghana M Reddy, Felix Schröder and Torsten Ueckerdt</span>. </span><span class="title">The Density Formula: One Lemma to Bound Them All</span>
 - <span class="authors"><span>Laura Merker, Lena Scherzer, Samuel Schneider and Torsten Ueckerdt</span>. </span><span class="title">Geometric Graphs with and without Product Structure</span>
 - <span class="authors"><span>Miriam Münch and Ignaz Rutter</span>. </span><span class="title">Parameterized Algorithms for Beyond Planar Crossing Numbers</span>
@@ -179,7 +177,9 @@ usemathjax: true
 
 ### Short Papers
 - <span class="authors"><span>Helena Bergold, Joachim Orthaber, Manfred Scheucher and Felix Schröder</span>. </span><span class="title">Holes in Convex and Simple Drawings</span>
+- <span class="authors"><span>Susanna Caroppo, Giordano Da Lozzo and Giuseppe Di Battista</span>. </span><span class="title">Quantum Algorithms for One-Sided Crossing Minimization</span>
 - <span class="authors"><span>Daniel J. Chang and Timothy Sun</span>. </span><span class="title">Harborth's conjecture for 4-regular planar graphs</span>
 - <span class="authors"><span>Adrian Dumitrescu and Janos Pach</span>. </span><span class="title">Partitioning complete geometric graphs into plane subgraphs</span>
 - <span class="authors"><span>Petr Hlineny and Lili Ködmön</span>. </span><span class="title">Note on Min-k-Planar Drawings of Graphs</span>
+- <span class="authors"><span>Julia Katheder, Philipp Kindermann, Fabian Klute, Irene Parada and Ignaz Rutter</span>. </span><span class="title">On k-Plane Insertion into Plane Drawings</span>
 - <span class="authors"><span>Geza Toth and Gehér Panna</span>. </span><span class="title">1-planar unit distance graphs</span>
