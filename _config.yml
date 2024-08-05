@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "gd24" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GD2024"
+title                    : "GD 2024"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
@@ -26,7 +26,7 @@ url                      : "http://graphdrawing.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "graphdrawing/gd2024"
 teaser                   : # "/assets/images/background.png"
-logo                     : "/assets/images/logo/gd24-logo.png"
+logo                     : "/assets/images/logo/gdlogo-notext24-color-gmnd.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,15 +103,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "GD2024"
-  avatar           : "/assets/images/logo/gd24-logo.png"
-  bio              : "The 32th International Symposium on Graph Drawing and Network Visualization will be held in Vienna, Austria from September 18-20, 2024. A pre-conference PhD school is planned for September 16-17, 2024."
+  name             : "GD 2024"
+  avatar           : "/assets/images/logo/gdlogo-notext24-color-gmnd.png"
+  bio              : "The 32nd International Symposium on Graph Drawing and Network Visualization will be held in Vienna, Austria from September 18-20, 2024. A pre-conference PhD school will take place on September 16-17, 2024."
   location         : "Vienna, Austria"
 #  email            : ""
   links:
-    - label: "Contact"
+    - label: "Contact Organizers"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gd24-organizer@graphdrawing.org"
+      url: "mailto:gd2024@ac.tuwien.ac.at"
+    - label: "Contact PC chairs"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gd2024@easychair.org"
     - label: "graphdrawing.org"
       icon: "fas fa-fw fa-link"
       url: "http://graphdrawing.org"
@@ -135,9 +138,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/graphdrawing"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/graphdrawing.org/"
+    # - label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
+      # url: "https://www.facebook.com/graphdrawing.org/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -285,7 +288,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true

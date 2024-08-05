@@ -3,9 +3,9 @@
 layout: single
 title: "Important News"
 header:
-  image: /assets/images/teaser/stephansdom.png
-  caption: "Image credit: [**Dan V.**](https://unsplash.com/photos/S5x5rrsDixk)"
-last_modified_at: 2023-07-24
+  image: /assets/images/teaser/40704_cropped.jpg
+  caption: "Image credit: [**© WienTourismus/Christian Stemper**](https://foto.wien.info/Bild/Imperial/45013)"
+# last_modified_at: 2023-07-24
 toc: true
 ---
 

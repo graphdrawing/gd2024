@@ -3,16 +3,64 @@
 layout: single
 title: "Committee"
 header:
-  image: /assets/images/teaser/night.png
-  caption: "Image credit: [**Jacek Dylag**](https://unsplash.com/photos/IiQXLbTTQCw)"
-last_modified_at: 2024-08-09
+  image: /assets/images/teaser/40704_cropped.jpg
+  caption: "Image credit: [**WienTourismus/Christian Stemper**](https://foto.wien.info/Bild/Imperial/45013)"
+# last_modified_at: 2024-01-22
 toc: true
 ---
 
 {% assign data = site.data.publicity %}
 
-## Organization Committee
 
+## Organizing Committee
+
+* Doris Brazda, TU Wien, Austria
+* Thomas Depian, TU Wien, Austria 
+* Alexander Dobler, TU Wien, Austria 
+* Simon Dominik Fink, TU Wien, Austria 
+* [Robert Ganian](https://www.ac.tuwien.ac.at/people/rganian/), TU Wien (co-chair), Austria
+* [Martin Nöllenburg](https://www.ac.tuwien.ac.at/people/noellenburg/), TU Wien (co-chair), Austria
+* Hsiang-Yun Wu, St. Pölten University of Applied Sciences, Austria
+
+
+## Program Committee
+
+* Daniel Archambault, Newcastle University
+* David Auber, University of Bordeaux
+* Benjamin Bach, University of Edinburgh
+* Martin Balko, Charles University in Prague
+* Carla Binucci, University of Perugia
+* Giuseppe Di Battista, Third University of Rome
+* Vida Dujmovic, University of Ottawa
+* Tim Dwyer, Monash University
+* David Eppstein, University of California, Irvine
+* [Stefan Felsner](https://page.math.tu-berlin.de/~felsner/) (co-chair), Technical University Berlin
+* Michael Hoffmann, ETH Zurich
+* Seok-Hee Hong, University of Sydney
+* Yifan Hu, Amazon
+* Tony Huang, University of Technology Sydney
+* Jonathan Klawitter, University of Auckland
+* [Karsten Klein](https://phobos70.inf.uni-konstanz.de) (co-chair), Konstanz University
+* Linda Kleist, Technische Universität Braunschweig
+* Boris Klemz, University of Würzburg
+* Maarten Löffler, Utrecht University
+* Maurizio Patrignani, Third University of Rome
+* Arnaud Sallaberry, University of Montpellier
+* Manfred Scheucher, Technical University Berlin
+* Alessandra Tappini, University of Perugia
+* Géza Tóth, Rényi Institute, Budapest
+* [Torsten Ueckerdt](https://i11www.iti.kit.edu/members/torsten_ueckerdt/index) (remote submission chair), KIT Karlsruhe
+* Birgit Vogtenhuber, Graz University of Technology
+* Hsiang-Yun Wu, St. Pölten University of Applied Sciences
+
+## Contest Committee
+* Sara Di Bartolomeo, University of Konstanz, Germany
+* [Fabian Klute](https://fklute.com) (chair), UPC Barcelona, Spain
+* Wouter Meulemans, TU Eindhoven, Netherlands
+* Debajyoti Mondal, University of Saskatchewan, Canada
+* Jules Wulms, TU Eindhoven, Netherlands
+
+<!--
 {% assign role = "" %}
 {% for member in data.OC-Members %}
   {% if role != member.Role %}
@@ -30,39 +78,7 @@ toc: true
 {{ member.Affiliation }}<br /><br />
 </div>
 {% endfor %}
-
-## Program Committee
-<!-- 
-* Patrizio Angelini (co-chair), John Cabot University, Italy
-* Therese Biedl, University of Waterloo, Canada
-* Sabine Cornelsen, Universität Konstanz, Germany
-* Giordano Da Lozzo, Roma Tre University, Italy
-* Stephan Diehl, Universität Trier, Germany
-* Henry Förster, Universität Tübingen, Germany
-* Martin Gronemann, TU Wien, Austria
-* Yasuhiro Hashimoto, The University of Aizu, Japan
-* Michael Hoffmann, ETH Zürich, Switzerland
-* Hiroshi Hosobe, Hosei University, Japan
-* Yifan Hu, Yahoo! Research, USA
-* Takayuki Itoh, Ochanomizu University, Japan
-* Philipp Kindermann, Universität Trier, Germany
-* Karsten Klein, Universität Konstanz, Germany
-* Stephen Kobourov, University of Arizona, USA
-* Jan Kratochvíl, Charles University of Prague, Czech Republic
-* Kim Marriott, Monash University, Australia
-* Irene Parada, TU Eindhoven, The Netherlands
-* Sergey Pupyrev, Facebook, USA
-* Helen Purchase, University of Glasgow, Scotland
-* Arnaud Sallaberry, LIRMM, Université Paul-Valéry Montpellier, France
-* Ingo Scholtes, University of Zurich, Switzerland
-* Falk Schreiber, Universität Konstanz, Germany
-* André Schulz, FernUniversität in Hagen, Germany
-* Andrew Suk, University of California San Diego, USA
-* Antonios Symvonis, National Technical University of Athens, Greece
-* Alessandra Tappini, University of Perugia, Italy
-* Meirav Zehavi, Ben-Gurion University, Israel
-* Reinhard von Hanxleden (co-chair), Christian-Albrechts-Universität zu Kiel, Germany
-* Tatiana von Landesberger, Universität Köln, Germany -->
+-->
 
 ## Steering Committee
 
