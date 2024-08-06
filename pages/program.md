@@ -43,7 +43,7 @@ usemathjax: true
 
 ## Preliminary Schedule
 
-<em>Please note that the following schedule is only tentative. For any questions regarding the schedule, please contact <a href="mailto:gd2024@ac.tuwien.ac.at">gd2024@ac.tuwien.ac.at</a>.</em>
+<em>Please note that the following schedule is only tentative.</em>
 
 <table>
   <colgroup>
