@@ -126,8 +126,15 @@ reviewers may read at their own discretion.
 
 Submissions of posters on graph drawing, network visualization, and related areas are solicited. The poster session will
 provide a forum for the communication of late-breaking research results (which may also appear elsewhere) to the GD
-community. Authors of posters should prepare an abstract (up to 2 pages in LIPIcs style, excluding references) that must be submitted together
+community. Authors of posters should prepare an abstract (up to two pages in LIPIcs style, excluding references) that must be submitted together
 with the poster itself.
+
+Each submission will thus consist of two pdf files (the two-page abstract and the poster). Poster submissions will be evaluated by the Program Committee of GD 2024 in a single-blind mode. Contributions must include names, email addresses and contact information of the contributors, and must be submitted via [EasyChair](https://easychair.org/conferences/?conf=gd2024).
+
+Check the box "Poster submission" and upload poster ("Poster" button) and poster abstract ("Abstract" button).
+
+It is expected that posters are presented on site by one of the authors in order for the abstract to be included in the proceedings.
+
 Details about the traditional **Graph Drawing Contest**, which is held at the conference, are provided at the [website](https://www.graphdrawing.org/gdcontest/contest2024).
 
 ## Lightweight Double-Blind Review Process
