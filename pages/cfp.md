@@ -126,7 +126,7 @@ reviewers may read at their own discretion.
 
 Submissions of posters on graph drawing, network visualization, and related areas are solicited. The poster session will
 provide a forum for the communication of late-breaking research results (which may also appear elsewhere) to the GD
-community. Authors of posters should prepare an abstract (up to 2 pages in LIPIcs style) that must be submitted together
+community. Authors of posters should prepare an abstract (up to 2 pages in LIPIcs style, excluding references) that must be submitted together
 with the poster itself.
 Details about the traditional **Graph Drawing Contest**, which is held at the conference, are provided at the [website](https://www.graphdrawing.org/gdcontest/contest2024).
 
