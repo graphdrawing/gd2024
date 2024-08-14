@@ -82,7 +82,7 @@ A list of accommodations in walking distance to the venue is given below (also m
 - [Hotel Terminus (★★★)](https://terminus.at/en/), 5-10min
 - [Kolping Wien Zentral (★★)](https://www.kolping-wien-zentral.at/en/home-en), 5-10min
 - [Wombats City Hostel](https://www.wombats-hostels.com/vienna), 5-10min
-- [Hotel Johann Strauss (★★★★)](https://www.hoteljohannstrauss.at/hotel-johann-strauss-wien), 10-15min
+- [Hotel Johann Strauss (★★★★)](https://www.hoteljohannstrauss.at/en/hotel-johann-strauss-vienna), 10-15min
 - [Hotel Erzherzog Rainer (★★★★)](https://www.hotelerzherzograiner.wien/), 10-15min
 - [Saint Shermin Bed&Breakfast (★★★★)](https://www.shermin.at/en/), 10-15min
 - [Hotel Kaiserhof (★★★★)](https://wien.hotel-kaiserhof.at/), 10-15min
