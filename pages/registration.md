@@ -11,6 +11,8 @@ toc: false
 
 **Registration is now open.**
 
+Early registration ends on August 20, 23:59 CEST. 
+
 ## Registration Fees
 Registration fees for the symposium include the welcome reception (on Tuesday, September 17), coffee breaks, lunches, and the social dinner (on Thursday, September 19).
 Furthermore, the LIPIcs publication fees for the GD24 proceedings are covered by the registration fee.
