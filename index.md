@@ -37,7 +37,6 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 | Final versions due		           | Friday, September 6, 2024               |
 | Symposium		                     | Wednesday-Friday, September 18-20, 2024 |
 
-All deadlines are understood to be 23:59 AoE. Submit on [Easychair](https://easychair.org/conferences/?conf=gd2024).
 
 ## Sponsors
 
