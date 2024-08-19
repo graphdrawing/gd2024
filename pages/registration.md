@@ -6,7 +6,7 @@ header:
   image: /assets/images/teaser/0317_cropped.jpg
   caption: "Image credit: [**Erik Proper**](https://photography.erikproper.eu/0317)"
 # last_modified_at: 2023-07-24
-toc: false
+toc: true
 ---
 
 **Registration is now open.**
