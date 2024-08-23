@@ -41,6 +41,12 @@ usemathjax: true
   }
 </style>
 
+## Program Overview
+<div><a href="../../assets/pdfs/schedule-web.pdf" target="_blank"><img src="../../assets/images/program/schedule-web.png" width="100%" /></a></div>
+<p style="display: flex; justify-content: space-between;">
+<span>&nbsp;</span>
+<a href="../../assets/pdfs/schedule-web.pdf" target="_blank">Open as PDF</a></p>
+
 ## Preliminary Schedule
 
 <em>Please note that the following schedule is only tentative.</em>

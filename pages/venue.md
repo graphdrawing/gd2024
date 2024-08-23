@@ -51,16 +51,19 @@ Alternatively, you can take the <span style="background-color: #db7609; color: w
 
 ## Reception, Registration & Coffee Breaks
 
+The welcome reception for the main conference will take place on Tuesday, starting at 19:00 in the TUtheSky.
+
 Registration and coffee breaks for the main conference and for the PhD School will be in or right next to the respective lecture rooms.
 
-The welcome reception for the main conference will take place on Tuesday, starting at 19:00 in the TUtheSky.
 
 ## Lunch
 Lunch during the three conference days will be provided in the Mensa of TU Wien, which is located on the first floor of the <a href="https://tuw-maps.tuwien.ac.at?poi-id=12721&floor=1" target="_blank">Freihaus building</a> of TU Wien.
 The mensa is a five minute walk away from the main conference venue.
 We will guide you from the main conference venue to the Freihaus building.
 
-### Social Dinner
+## Social Dinner
+
+
 We will have the social dinner on Thursday at 19:00 in 
 
 <a href="https://www.dascampus.at/" target="_blank">Das Campus</a><br>
@@ -73,3 +76,8 @@ From there, it is a ten-minute walk to the social dinner.
 
 If you do not want to join the tram ride, you can reach the social dinner either by taking the <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> to <em>Krieau</em> or tram line <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span> to <em>Prater, Hauptallee</em>.
 In both cases, it is only a ten-minute walk to the social dinner.
+
+<figure style="width:100%">
+  <img src="https://static.wixstatic.com/media/151771_56cc03047cdb47dba840b41b99d57125~mv2_d_3000_2000_s_2.jpg/v1/fill/w_1536,h_1024,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/151771_56cc03047cdb47dba840b41b99d57125~mv2_d_3000_2000_s_2.jpg">
+  <footer style="font-size: 12px">Copyright <a href="https://www.dascampus.at/" target="_blank">Das Campus</a></footer>
+</figure>
