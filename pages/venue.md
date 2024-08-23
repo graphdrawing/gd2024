@@ -61,7 +61,13 @@ The mensa is a five minute walk away from the main conference venue.
 We will guide you from the main conference venue to the Freihaus building.
 
 ### Social Dinner
-We will have the social dinner on Thursday at 19:00 in <a href="https://www.dascampus.at/" target="_blank">Das Campus</a>, which is located at the <em>Vienna University of Economics and Business</em> near the <em>Prater</em> amusement park.
+We will have the social dinner on Thursday at 19:00 in 
+
+<a href="https://www.dascampus.at/" target="_blank">Das Campus</a><br>
+Welthandelsplatz 1<br>
+1020 Vienna,
+
+which is located at the <em>Vienna University of Economics and Business</em> near the <em>Prater</em> amusement park.
 A dedicated tram will take us from <em>Karlsplatz</em> along the famous <em>Ring</em> and past many historical buildings to the <em>Prater</em>.
 From there, it is a ten-minute walk to the social dinner.
 
