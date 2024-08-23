@@ -49,10 +49,21 @@ Alternatively, you can take the <span style="background-color: #db7609; color: w
 <p style="display: flex; justify-content: space-between;"><a href="//umap.openstreetmap.de/en/map/gd-2024_60350?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=a1863787-8ca2-442a-8516-dfbffb087ce4%2C6799a631-db4a-46af-b35f-9b2847a431d1%2C007b642a-84b3-462f-9d74-5b0afeee01ed&captionControl=null&editinosmControl=false&starControl=false" target="_blank">Open map in new tab</a>
 <a href="https://www.google.com/maps/d/viewer?mid=1atIWeg5gYWnnu5I3JRdFShtSEqZ8jKw" target="_blank">Open in Google Maps</a></p>
 
-## Registration, Coffee Breaks & Lunch
+## Reception, Registration & Coffee Breaks
 
 Registration and coffee breaks for the main conference and for the PhD School will be in or right next to the respective lecture rooms.
 
+The welcome reception for the main conference will take place on Tuesday, starting at 19:00 in the TUtheSky.
+
+## Lunch
 Lunch during the three conference days will be provided in the Mensa of TU Wien, which is located on the first floor of the <a href="https://tuw-maps.tuwien.ac.at?poi-id=12721&floor=1" target="_blank">Freihaus building</a> of TU Wien.
 The mensa is a five minute walk away from the main conference venue.
 We will guide you from the main conference venue to the Freihaus building.
+
+### Social Dinner
+We will have the social dinner on Thursday at 19:00 in <a href="https://www.dascampus.at/" target="_blank">Das Campus</a>, which is located at the <em>Vienna University of Economics and Business</em> near the <em>Prater</em> amusement park.
+A dedicated tram will take us from <em>Karlsplatz</em> along the famous <em>Ring</em> and past many historical buildings to the <em>Prater</em>.
+From there, it is a ten-minute walk to the social dinner.
+
+If you do not want to join the tram ride, you can reach the social dinner either by taking the <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> to <em>Krieau</em> or tram line <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span> to <em>Prater, Hauptallee</em>.
+In both cases, it is only a ten-minute walk to the social dinner.
