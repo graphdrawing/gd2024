@@ -51,7 +51,7 @@ Alternatively, you can take the <span style="background-color: #db7609; color: w
 
 ## Reception, Registration & Coffee Breaks
 
-The welcome reception for the main conference will take place on Tuesday, starting at 19:00 in the TUtheSky.
+The welcome reception for the main conference will take place on Tuesday, September 17, from 19:00-21:00 in TUtheSky.
 
 Registration and coffee breaks for the main conference and for the PhD School will be in or right next to the respective lecture rooms.
 
@@ -71,8 +71,8 @@ Welthandelsplatz 1<br>
 1020 Vienna,
 
 which is located at the <em>Vienna University of Economics and Business</em> near the <em>Prater</em> amusement park.
-A dedicated tram will take us from <em>Karlsplatz</em> along the famous <em>Ring</em> and past many historical buildings to the <em>Prater</em>.
-From there, it is a ten-minute walk to the social dinner.
+A dedicated tram will take us from <em>Karlsplatz</em> along the famous <em>Ringstraße</em> and past many historical buildings to the <em>Prater</em>.
+From there, it is a ten-minute walk to the restaurant.
 
 If you do not want to join the tram ride, you can reach the social dinner either by taking the <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> to <em>Krieau</em> or tram line <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span> to <em>Prater, Hauptallee</em>.
 In both cases, it is only a ten-minute walk to the social dinner.
