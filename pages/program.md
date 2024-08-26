@@ -164,7 +164,7 @@ usemathjax: true
       <p><span class="authors"><span>Sebastiano Cultrera di Montesano, Ondrej Draganov, Herbert Edelsbrunner and Morteza Saghafian</span>. </span><span class="title">The Euclidean MST-ratio of Bi-colored Lattices</span></p>
     </td></tr>
     <tr><td>16:45 - 17:45</td><td>Business Meeting</td></tr>
-    <tr><td>19:00 - 22:00</td><td>Social Dinner</td></tr>
+    <tr><td>19:00 - 23:00</td><td>Social Dinner</td></tr>
   </tbody>
 </table>
 
