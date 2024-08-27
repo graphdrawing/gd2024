@@ -102,7 +102,7 @@ usemathjax: true
       <p><span class="authors"><span>Martin Balko, Petr Hliněný, Tomáš Masařík, Joachim Orthaber, Birgit Vogtenhuber and Mirko H. Wagner</span>. </span><span class="title">On the Uncrossed Number of Graphs</span></p>
       <p><span class="authors"><span>Aaron Büngener and Michael Kaufmann</span>. </span><span class="title">Improving the Crossing Lemma by Characterizing Dense 2-Planar and 3-Planar Graphs</span></p>
       <p><span class="authors"><span>Maximilian Pfister and Aaron Büngener</span>. </span><span class="title">On the edge density of bipartite 3-planar and bipartite gap-planar graphs</span></p>
-      <p><span class="authors"><span>Petr Hlineny and Lili Ködmön</span>. </span><span class="title">Note on Min-k-Planar Drawings of Graphs</span></p>
+      <p><span class="authors"><span>Geza Toth and Gehér Panna</span>. </span><span class="title">1-planar unit distance graphs</span></p>
     </td>
     </tr>
     <tr><td>10:30 - 11:00</td><td>Coffee Break</td></tr>
@@ -183,7 +183,7 @@ usemathjax: true
     <tr><td>09:00 - 10:30</td><td>
       <p><span class="authors"><span>Therese Biedl, Sabine Cornelsen, Jan Kratochvil and Ignaz Rutter</span>. </span><span class="title">Constrained Outer-String Representations</span></p>
       <p><span class="authors"><span>Daniel J. Chang and Timothy Sun</span>. </span><span class="title">Harborth's conjecture for 4-regular planar graphs</span></p>
-      <p><span class="authors"><span>Geza Toth and Gehér Panna</span>. </span><span class="title">1-planar unit distance graphs</span></p>
+      <p><span class="authors"><span>Petr Hlineny and Lili Ködmön</span>. </span><span class="title">Note on Min-k-Planar Drawings of Graphs</span></p>
       <p><span class="authors"><span>David Eppstein, Michael T. Goodrich and Abraham M. Illickan</span>. </span><span class="title">Drawing Planar Graphs and 1-Planar Graphs Using Cubic Bézier Curves with Bounded Curvature</span></p>
       <p><span class="authors"><span>Greg Aloupis, Ahmad Biniaz, Prosenjit Bose, David Eppstein, Anil Maheshwari, Saeed Odak, Michiel Smid, Csaba Tóth, Pavel Valtr and Jean-Lou De Carufel</span>. </span><span class="title">Noncrossing Longest Paths and Cycles</span></p>
     </td></tr>
