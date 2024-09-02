@@ -253,3 +253,47 @@ usemathjax: true
 - <span class="authors"><span>Petr Hlineny and Lili Ködmön</span>. </span><span class="title">Note on Min-k-Planar Drawings of Graphs</span>
 - <span class="authors"><span>Julia Katheder, Philipp Kindermann, Fabian Klute, Irene Parada and Ignaz Rutter</span>. </span><span class="title">On k-Plane Insertion into Plane Drawings</span>
 - <span class="authors"><span>Geza Toth and Gehér Panna</span>. </span><span class="title">1-planar unit distance graphs</span>
+
+## Accepted Posters
+- <span class="authors"><span>Joshua Geis and Johannes Zink</span>. </span><span class="title">From Planar via Outerplanar to Outerpath – Engineering NP-hardness Constructions</span>
+- <span class="authors"><span>Robert Ganian, Martin Nöllenburg and Sebastian Röder</span>. </span><span class="title">Minimizing Switches in Cased Graph Drawings</span>
+- <span class="authors"><span>Markus Chimani, Lea Kröger, Juliane Liedtke, Jonah Mevert, Maor Shani and Maarten von Zalk</span>. </span><span class="title">Graph-Drawing Supported Identification of Influential Students at Schools</span>
+- <span class="authors"><span>Martin Nöllenburg, Sebastian Röder and Markus Wallinger</span>. </span><span class="title">gdMetriX - A networkX Extension for Graph Drawing Metrics</span>
+- <span class="authors"><span>Niki Herl and Velitchko Filipov</span>. </span><span class="title">Visualizing Temporal Adjacency Matrices</span>
+- <span class="authors"><span>Maarten Löffler</span>. </span><span class="title">Strict upward planar grid drawings of binary trees with minimal area</span>
+- <span class="authors"><span>Sören Domrös and Reinhard von Hanxleden</span>. </span><span class="title">Determining Sugiyama Topology with Model Order</span>
+- <span class="authors"><span>Seok-Hee Hong, Giuseppe Liotta, Fabrizio Montecchiani, Martin Nöllenburg and Tommaso Piselli</span>. </span><span class="title">Introducing Fairness in Graph Visualization</span>
+- <span class="authors"><span>Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter and Peter Stumpf</span>. </span><span class="title">Level Planarity Is More Difficult Than We Thought</span>
+- <span class="authors"><span>Jakob Baumann, Ignaz Rutter and Dirk Sudholt</span>. </span><span class="title">Evolutionary Algorithms for One-Sided Bipartite Crossing Minimisation</span>
+- <span class="authors"><span>Alvin Chiu, Ahmed Eldawy and Michael Goodrich</span>. </span><span class="title">Geospatial Force-Directed Graph Drawing</span>
+- <span class="authors"><span>Stephane Durocher, Myroslav Kryven and Maarten Löffler</span>. </span><span class="title">String graph with cop number 4</span>
+- <span class="authors"><span>Oriol Solé</span>. </span><span class="title">Approximating the crossing number of dense graphs</span>
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+ 
+
+	
+
+	
+
+	
+
+	
