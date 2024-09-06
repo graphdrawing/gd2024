@@ -11,18 +11,19 @@ toc: true
 
 ## Restaurant Recommendations
 Vienna offers endless restaurants options.
-Ranging from traditional Austrian dishes served, like schnitzel and goulash, in traditional Beisls, to international cuisine, there is certainly a restaurant for every taste.
+Ranging from traditional Austrian dishes served, like schnitzel and goulash, in traditional Beisls, to international cuisine, there is certainly a restaurant for every taste and price range.
 
 If you are looking for a place to have dinner, <em>Spittelberg</em> is a good location to look for.
 It is a small part of Vienna next to <em>Museumsquartier</em> and close to the conference venue that is known for its small winding alleys, which houses many bars and restaurants.
 Many restaurants have a small <em>Schanigarten</em> to eat outside if the weather permits.
 
-For a drink afterwards, the area around <em>Museumsquartier</em> or the <em>Bermudadreieck</em> next to <em>Schwedenplatz</em> are known for their variety of different bars.
+For a drink afterwards, the area around <em>Museumsquartier</em> or the <em>Donaukanal</em> and the <em>Bermudadreieck</em> next to <em>Schwedenplatz</em> are known for their variety of different bars.
 
 During PhD School, the booths at <em>Naschmarkt</em> are a good place to grab lunch within walking distance to the main venue.
 
-Below you can find a list of suggested restaurants, bars, and ice cream places (all of them are also marked in the map).
+Below you can find a (non-exhaustive) list of restaurants, bars, and ice cream places (all of them are also marked in the map) that are near the conference location.
 A typical main dish in these restaurants costs usually between ten to fifteen euros (source: <a href="https://www.falter.at/lokalfuehrer" target="_blank">restaurant guide by Falter</a>).
+All restaurants usually offer Vegeterian options and there are known for offering only Vegan options (highlithed below).
 
 - Asian & Japanese: <a href="https://maps.app.goo.gl/H6A2ovDoVtDf9FdY8" target="_blank">SHU Restaurant Vienna</a>, <a href="https://maps.app.goo.gl/UGZzEKE246Ed99RY8" target="_blank">Matcha Komachi</a>
 - Austrian: <a href="https://maps.app.goo.gl/dEYPwgJnmAy1Qmwt9" target="_blank">Wiener Wiazhaus</a>, <a href="https://maps.app.goo.gl/sNoD4d3hqHyCjoiZ6" target="_blank">Wieden Bräu</a>, <a href="https://maps.app.goo.gl/TQcZHxtk7YJXNcV28" target="_blank">7Stern Bräu</a>, <a href="https://maps.app.goo.gl/poP34GdC2JcfLZrB9" target="_blank">Schnitzelwirt</a>
