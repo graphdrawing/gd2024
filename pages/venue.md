@@ -23,6 +23,9 @@ Getreidemarkt 9<br>
 
 which is located on the 11th floor and has two roof terraces providing an inspiring view over the city.
 
+The room <a href="https://tuw-maps.tuwien.ac.at/?q=BA10G02" target="_blank">BA10A</a>, located on the 10th floor of the same building, can be used as break our room during the conference.
+On Wednesday afternoon, we will host a <a href="../software_session">Software Exhibition</a> in this room.
+
 The <a href="../school">PhD School</a> as well as the <a href="https://mozart.diei.unipg.it/gdcontest/2024/">GD Contest</a> take place in lecture room <a href="https://tuw-maps.tuwien.ac.at?poi-id=11169&floor=2" target="_blank">GM3</a> on the 2nd floor of the same building.
 
 ## Access to the Venue
