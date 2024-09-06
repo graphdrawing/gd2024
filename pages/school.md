@@ -117,7 +117,7 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> <strong><a href="https://www.uu.nl/">Utrecht University</a>, The Netherlands</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> European Value Maps - From Theory to Application </p>
+<p> European Value Maps &mdash; From Theory to Application </p>
 <p> <strong> Abstract: </strong> </p>
 <p> <a href="https://evm.science.uu.nl" target="_blank">European Value Maps</a> are conceptual maps representing human values across Europe. These maps enable the public to reflect on the diverse opinions held by European citizens. The ultimate goal is to promote acceptance and tolerance of different viewpoints, thereby reducing the opinion polarization that has become prevalent in our society.</p>
  

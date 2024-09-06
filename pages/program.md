@@ -163,7 +163,7 @@ Jump to <a href="#monday">Monday</a>, <a href="#tuesday">Tuesday</a>, <a href="#
     <tr class="phd-school"><td>14:00 - 17:00</td><td>
     <p>
     <a href="../school/#tamara-mchedlidze">Phd School:</a><br>
-    <span class="authors"><span>Tamara Mchedlidze</span>. </span><span class="title">European Value Maps - From Theory to Application</span></p>
+    <span class="authors"><span>Tamara Mchedlidze</span>. </span><span class="title">European Value Maps &mdash; From Theory to Application</span></p>
     <p class="room-info">Room GM3</p>
     </td></tr>
   </tbody>
