@@ -83,7 +83,7 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> <strong><a href="https://www.uni-trier.de/">Trier University</a>, Germany</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> Reducing connectivity requirements: SPQR-trees and Block-Cut-trees </p>
+<p> Reducing Connectivity Requirements: SPQR-Trees and Block-Cut-Trees </p>
 <p> <strong> Abstract: </strong> </p>
 <p> When trying to solve an open problem for planar graphs, one often starts with considering only triangulated or 3-connected graphs. But at some point, everybody will hear the dreaded question: "Can we extend this to biconnected graphs with SPQR-trees?"</p>
 <p>SPQR-trees are by their very nature intimidating. Without experience one can quickly become lost while trying to following arguments of more senior researchers that are used to them. In this lecture, we want to overcome the fear of SPQR-trees. We will investigate the following questions:</p>
@@ -117,7 +117,7 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> <strong><a href="https://www.uu.nl/">Utrecht University</a>, The Netherlands</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> European Value Maps - from theory to application </p>
+<p> European Value Maps - From Theory to Application </p>
 <p> <strong> Abstract: </strong> </p>
 <p> <a href="https://evm.science.uu.nl" target="_blank">European Value Maps</a> are conceptual maps representing human values across Europe. These maps enable the public to reflect on the diverse opinions held by European citizens. The ultimate goal is to promote acceptance and tolerance of different viewpoints, thereby reducing the opinion polarization that has become prevalent in our society.</p>
  
@@ -171,7 +171,7 @@ Prior knowledge of parameterized complexity theory will not be required, but in 
 <p> <strong><a href="https://www.tu.berlin/">TU Berlin</a>, Germany</strong> </p>
 
 <p> <strong> Title: </strong> </p>
-<p> Using SAT solvers in Combinatorial Geometry and Graph Drawing </p>
+<p> Using SAT Solvers in Combinatorial Geometry and Graph Drawing </p>
 <p> <strong> Abstract: </strong> </p>
 <p> The area of SAT solving has seen tremendous progress over the last years and many problems that seemed to be out of reach a decade ago can now be handled routinely [<a href="#ref1">1</a>]. In this session we will discuss how intricate problems from combinatorial geometry and graph drawing can be tackled using SAT solvers and related techniques. </p>
 
