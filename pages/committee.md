@@ -1,7 +1,7 @@
 ---
 # permalink: /about/
 layout: single
-title: "Committee"
+title: "Committees"
 header:
   image: /assets/images/teaser/40704_cropped.jpg
   caption: "Image credit: [**WienTourismus/Christian Stemper**](https://foto.wien.info/Bild/Imperial/45013)"
@@ -54,7 +54,7 @@ toc: true
 * Hsiang-Yun Wu, St. Pölten University of Applied Sciences
 
 ## Contest Committee
-* Sara Di Bartolomeo, University of Konstanz, Germany
+* Sara Di Bartolomeo, TU Wien, Austria
 * [Fabian Klute](https://fklute.com) (chair), UPC Barcelona, Spain
 * Wouter Meulemans, TU Eindhoven, Netherlands
 * Debajyoti Mondal, University of Saskatchewan, Canada
