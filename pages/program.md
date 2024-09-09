@@ -229,7 +229,7 @@ Jump to <a href="#monday">Monday</a>, <a href="#tuesday">Tuesday</a>, <a href="#
     <tr class="session"><td>14:00 - 14:20</td><td><span class="authors"><span>Thomas Depian, Simon Dominik Fink, Robert Ganian and Martin Nöllenburg</span>. </span><span class="title">The Parameterized Complexity of Extending Stack Layouts</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>14:20 - 14:40</td><td><span class="authors"><span>Miriam Münch and Ignaz Rutter</span>. </span><span class="title">Parameterized Algorithms for Beyond Planar Crossing Numbers</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>14:40 - 14:55</td><td><span class="authors"><span>Julia Katheder, Philipp Kindermann, Fabian Klute, Irene Parada and Ignaz Rutter</span>. </span><span class="title">On k-Plane Insertion into Plane Drawings</span> <span class="track">[S]</span></td></tr>
-    <tr class="poster header"><td><strong>14:55 - 15:15</strong></td><td><strong>Poster Teasers, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="poster header"><td><strong>14:55 - 15:15</strong></td><td><strong>Poster & Software Teasers, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="poster"><td>15:15 - 16:15</td><td>
     <p>Poster & Software Session, <span class="room-info">TUtheSky & Room BA10A</span></p>
     <p><strong>Exhibited Posters:</strong>
