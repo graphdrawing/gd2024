@@ -173,7 +173,7 @@ usemathjax: true
 - <span class="authors"><span>Julia Katheder, Philipp Kindermann, Fabian Klute, Irene Parada and Ignaz Rutter</span>. </span><span class="title">On k-Plane Insertion into Plane Drawings</span>
 - <span class="authors"><span>Geza Toth and Gehér Panna</span>. </span><span class="title">1-planar unit distance graphs</span>
 
-# Accepted Posters
+## Accepted Posters
 - <span class="authors"><span>Joshua Geis and Johannes Zink</span>. </span><span class="title">From Planar via Outerplanar to Outerpath – Engineering NP-hardness Constructions</span>
 - <span class="authors"><span>Robert Ganian, Martin Nöllenburg and Sebastian Röder</span>. </span><span class="title">Minimizing Switches in Cased Graph Drawings</span>
 - <span class="authors"><span>Markus Chimani, Lea Kröger, Juliane Liedtke, Jonah Mevert, Maor Shani and Maarten von Zalk</span>. </span><span class="title">Graph-Drawing Supported Identification of Influential Students at Schools</span>
