@@ -84,7 +84,7 @@ geometry. </p>
 <p> <strong> Title: </strong> </p>
 <p> How Can Algorithms Help in Protecting our Privacy </p>
 <p> <strong> Abstract: </strong> </p>
-<p> Decisions are increasingly automated using rules that were learnt from personal data. Thus, it is important to guarantee that the privacy of the data is protected during the learning process. To formalize the notion of an algorithm that protects the privacy of its data, differential privacy was introduced by Dwork, McSherry, Nissim, and Dwork in 2006. It is a rigorous mathematical definition to analyze the privacy properties of an algorithm – or the lack thereof. In this talk I will give an introduction to differential privacy with an emphasis on differential private algorithms that can handle dynamically changing input data. </p>
+<p> Decisions are increasingly automated using rules that were learnt from personal data. Thus, it is important to guarantee that the privacy of the data is protected during the learning process. To formalize the notion of an algorithm that protects the privacy of its data, differential privacy was introduced by Dwork, McSherry, Nissim, and Smith in 2006. It is a rigorous mathematical definition to analyze the privacy properties of an algorithm – or the lack thereof. In this talk I will give an introduction to differential privacy with an emphasis on differential private algorithms that can handle dynamically changing input data. </p>
 
 <p> <strong> Biography: </strong> </p>
 <div class="bio">
