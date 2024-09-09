@@ -163,10 +163,9 @@ Another option is the 72 hour ticket which costs EUR 17.10 and is valid from the
 
 After a free registration, you may rent a bike at various bicycle rental stations across the city. More information can be found [here](https://www.wien.info/en/lifestyle-scene/sports/cycling/bicycle-rentals-341248).
 
-**Taxi**
+**Taxi/Uber**
 
 If you need a ride you can either call a taxi or go to one of the many taxi stands all over Vienna. Uber is also operating in Vienna.
 
 - +43 1 31300
 - +43 1 40100
-- +43 1 60160
