@@ -156,7 +156,7 @@ usemathjax: true
 - <span class="authors"><span>Miriam Münch and Ignaz Rutter</span>. </span><span class="title">Parameterized Algorithms for Beyond Planar Crossing Numbers</span>
 - <span class="authors"><span>Aaron Büngener and Maximilian Pfister</span>. </span><span class="title">On the edge density of bipartite 3-planar and bipartite gap-planar graphs</span>
 
-### Track 2: Experimental, applied, and network visualization aspect
+## Track 2: Experimental, applied, and network visualization aspect
 - <span class="authors"><span>Daniel Archambault, Giuseppe Liotta, Martin Nöllenburg, Tommaso Piselli, Alessandra Tappini, and Markus Wallinger</span>. </span><span class="title">Bundling-Aware Graph Drawing</span>
 - <span class="authors"><span>Alexander Dobler, Michael Jünger, Paul J. Jünger, Julian Meffert, Petra Mutzel, and Martin Nöllenburg</span>. </span><span class="title">Revisiting ILP Models for Exact Crossing Minimization in Storyline Drawings</span>
 - <span class="authors"><span>Henry Förster, Felix Klesen, Tim Dwyer, Peter Eades, Seok-Hee Hong, Stephen G. Kobourov, Giuseppe Liotta, Kazuo Misue, Fabrizio Montecchiani, Alexander Pastukhov, and Falk Schreiber</span>. </span><span class="title">GraphTrials: Visual Proofs of Graph Properties</span>
