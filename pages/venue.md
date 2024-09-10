@@ -23,10 +23,10 @@ Getreidemarkt 9<br>
 
 which is located on the 11th floor and has two roof terraces providing an inspiring view over the city.
 
-The room <a href="https://tuw-maps.tuwien.ac.at/?q=BA10G02" target="_blank">BA10A</a>, located on the 10th floor of the same building, can be used as break-out room during the conference.
+The room <a href="https://tuw-maps.tuwien.ac.at/?q=BA10G02" target="_blank">BA 10A</a>, located on the 10th floor of the same building, can be used as break-out room during the conference.
 On Wednesday afternoon, we will host a <a href="../software_session">Software Exhibition</a> in this room.
 
-The <a href="../school">PhD School</a> as well as the <a href="https://mozart.diei.unipg.it/gdcontest/2024/">GD Contest</a> take place in lecture room <a href="https://tuw-maps.tuwien.ac.at?poi-id=11169&floor=2" target="_blank">GM3</a> on the 2nd floor of the same building.
+The <a href="../school">PhD School</a> as well as the <a href="https://mozart.diei.unipg.it/gdcontest/2024/">GD Contest</a> take place in lecture hall <a href="https://tuw-maps.tuwien.ac.at?poi-id=11169&floor=2" target="_blank">GM3</a> on the 2nd floor of the same building.
 
 ## Access to the Venue
 
@@ -60,9 +60,9 @@ Registration and coffee breaks for the main conference and for the PhD School wi
 
 
 ## Lunch
-Lunch during the three conference days will be provided in the Mensa of TU Wien, which is located on the first floor of the <a href="https://tuw-maps.tuwien.ac.at?poi-id=12721&floor=1" target="_blank">Freihaus building</a> of TU Wien.
+Lunch during the three conference days will be provided in the Mensa of TU Wien, which is located on the first floor of the <a href="https://tuw-maps.tuwien.ac.at?poi-id=12721&floor=1" target="_blank">"Freihaus" building</a> of TU Wien.
 The mensa is a five minute walk away from the main conference venue.
-We will guide you from the main conference venue to the Freihaus building.
+We will guide you from the main conference venue to the "Freihaus" building.
 
 ## Social Dinner
 
