@@ -16,23 +16,33 @@ header:
       text-decoration: none;
       border: 1px solid black;
       border-radius: 10px;
-      cursor: pointer;
       margin-bottom: 10px;
       color: black !important;
-      padding: 5px;
+      padding: 5px 15px;
+      cursor: pointer;
+    }
+    .link {
+      
     }
     .link:hover {
       background-color: #dadada;
       color: black;
       text-decoration: none !important;
     }
+
+    .link.disabled {
+      pointer-events: none;
+      opacity: 0.6;
+    }
+    
 </style>
 
-<em>Site under construction...</em>
-
-<!-- 
-<a href="#" class="link">Just</a>
-<a href="#" class="link">Some</a>
+## GD 2024
+<a href="#" target="_blank" class="link disabled">Online version of the booklet</a>
+<a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings" target="_blank" class="link">LIPIcs Pre-Proceedings</a>
 
 ## For Speakers
-<a href="#" class="link">Test</a> -->
+<a href="#" target="_blank" class="link disabled" >Upload your slides here</a>
+
+## Staying in Vienna
+<a href="https://weather.com/weather/today/l/243ca5c89c465ae544650e5ca367708ff3254e618d74f7e62fae8f7f3005bb93" target="_blank" class="link">Weather forecast</a>
