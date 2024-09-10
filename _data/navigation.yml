@@ -10,6 +10,8 @@ main:
     url: /pages/school
   - title: "Travel & Stay"
     url: /pages/travel_accomodation
+  - title: "Practical Information"
+    url: /pages/practical
   - title: "Registration"
     url: /pages/registration
   - title: "Call for Papers"

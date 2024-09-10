@@ -9,7 +9,9 @@ header:
 # toc: true
 ---
 
-[02.09.2024] The <a href="../program/#accepted-posters">list of accepted posters</a> is now available.
+[10.09.2024] The webpage has been extended by a <a href="../program">detailed program</a>, <a href="../presentation_info">information for speakers</a>, <a href="../software_session">list of exhibited software</a>, and <a href="../practical">practical information for your stay in Vienna</a> (including a <a href="../../#weather-forecast">weather forecast</a>).
+
+[02.09.2024] The <a href="../accepted_papers/#accepted-posters">list of accepted posters</a> is now available.
 
 [25.07.2024] The <a href="../registration">registration</a> is now open.
 
