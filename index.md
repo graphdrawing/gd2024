@@ -24,6 +24,9 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ---
 
+## Weather Forecast
+<div id="ww_1a6f60e67e053" v='1.3' loc='auto' a='{"t":"responsive","lang":"en","sl_lpl":1,"ids":[],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722","sl_tof":"7"}'><a href="https://weatherwidget.org/" id="ww_1a6f60e67e053_u" target="_blank">Widget weather HTML</a></div><script async src="https://app3.weatherwidget.org/js/?id=ww_1a6f60e67e053"></script>
+
 ## Important Dates
 
 | Events                           | Dates                                   |
