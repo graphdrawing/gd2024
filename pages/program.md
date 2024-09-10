@@ -241,10 +241,10 @@ usemathjax: true
     <p>Poster & Software Session, <span class="room-info">TUtheSky & Room BA10A</span></p>
     <p><strong>Exhibited Posters:</strong>
     <ul class="poster-list">
-    <li><span class="authors"><span>Joshua Geis and Johannes Zink</span>. </span><span class="title">From Planar via Outerplanar to Outerpath - Engineering NP-hardness Constructions</span></li>
+    <li><span class="authors"><span>Joshua Geis and Johannes Zink</span>. </span><span class="title">From Planar via Outerplanar to Outerpath &mdash; Engineering NP-hardness Constructions</span></li>
     <li><span class="authors"><span>Robert Ganian, Martin Nöllenburg, and Sebastian Röder</span>. </span><span class="title">Minimizing Switches in Cased Graph Drawings</span></li>
     <li><span class="authors"><span>Markus Chimani, Lea Kröger, Juliane Liedtke, Jonah Mevert, Maor Shani, and Maarten van Zalk</span>. </span><span class="title">Graph-Drawing Supported Identification of Influential Students at Schools</span></li>
-    <li><span class="authors"><span>Martin Nöllenburg, Sebastian Röder, and Markus Wallinger</span>. </span><span class="title">gdMetriX - A networkX Extension for Graph Drawing Metrics</span></li>
+    <li><span class="authors"><span>Martin Nöllenburg, Sebastian Röder, and Markus Wallinger</span>. </span><span class="title">gdMetriX &mdash; A networkX Extension for Graph Drawing Metrics</span></li>
     <li><span class="authors"><span>Nikolaus-Mathias Herl and Velitchko Filipov</span>. </span><span class="title">AdMaTilE: Visualizing Event-based Adjacency Matrices in a Multiple-Coordinated-Views System</span></li>
     <li><span class="authors"><span>Maarten Löffler</span>. </span><span class="title">Strict upward planar grid drawings of binary trees with minimal area</span></li>
     <li><span class="authors"><span>Sören Domrös and Reinhard von Hanxleden</span>. </span><span class="title">Determining Sugiyama Topology with Model Order</span></li>
