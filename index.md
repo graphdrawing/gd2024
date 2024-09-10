@@ -64,6 +64,25 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ### Contributor
 
-<a href="https://www.vrvis.at/" target="_blank"><img src="../gd2024/assets/images/sponsor/vrvis.png" width="140" /></a><br />
-<a href="https://www.vrvis.at/" target="_blank"><strong>vrvis</strong></a>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="https://www.vrvis.at/" target="_blank"><img src="../gd2024/assets/images/sponsor/vrvis.png" width="140" /></a><br />
+      <a href="https://www.vrvis.at/" target="_blank"><strong>vrvis</strong></a>
+    </td>
+    <td style="border: none;"></td>
+    <td style="border: none;">
+      <a href="https://www.fwf.ac.at/en/" target="_blank"><img src="assets/images/sponsor/fwf.png" width="140" /></a><br />
+      <a href="https://www.fwf.ac.at/en/" target="_blank"><strong>Austrian Science Fund</strong></a>
+    </td>
+    <td style="border: none;"></td>
+    <td style="border: none;">
+      <a href="https://www.tuwien.at/" target="_blank"><img src="assets/images/sponsor/TU_Logo_transparent_300dpi_RGB.png" width="140" /></a><br />
+      <a href="https://www.tuwien.at/" target="_blank"><strong>TU Wien</strong></a>
+    </td>
+  </tr>
+</table>
+
+
+
 
