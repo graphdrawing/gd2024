@@ -22,7 +22,7 @@ Many restaurants have a small <em>Schanigarten</em> to eat outside if the weathe
 
 For a drink afterwards, the area around <em>Museumsquartier</em> or the <em>Donaukanal</em> and the <em>Bermudadreieck</em> next to <em>Schwedenplatz</em> are known for their variety of different bars.
 
-During PhD School, the booths at <em>Naschmarkt</em> are a good place to grab lunch within walking distance to the main venue.
+During <strong>PhD School</strong>, the booths at <em>Naschmarkt</em> are a good place to grab lunch within walking distance to the main venue.
 
 Below you can find a (non-exhaustive) list of restaurants, bars, and ice cream places (all of them are also marked in the map) that are near the conference location.
 A typical main dish in these restaurants costs usually between ten to fifteen euros (source: <a href="https://www.falter.at/lokalfuehrer" target="_blank">restaurant guide by Falter</a>).
@@ -36,7 +36,8 @@ All restaurants usually offer Vegeterian options and there are known for offerin
 - Italian: <a href="https://maps.app.goo.gl/Kme7hu4JrZpFnvjX7" target="_blank">Pizzeria RIVA</a>, <a href="https://maps.app.goo.gl/P3zG9NJ7vMAVD7N3A" target="_blank">Pinsatore</a>, <a href="https://maps.app.goo.gl/MwPSu5f5SmKgKsZV6" target="_blank">Disco Volante</a>
 - Ice cream places: <a href="https://maps.app.goo.gl/UFizywtqAoZPbn7FA" target="_blank">Schelato</a>, <a href="https://maps.app.goo.gl/GKhThxBjo9816jf36" target="_blank">Paolo Bortolotti</a>, <a href="https://maps.app.goo.gl/KA3wbB8FjhdRCoXQ6" target="_blank">Eissalon Zanoni & Zanoni</a>, <a href="https://maps.app.goo.gl/9iuu5XFGE9Zurcov9" target="_blank">Veganista (Vegan)</a>
 - Bars: <a href="https://maps.app.goo.gl/VvtQ4PhQxpXHt51T8" target="_blank">Knockbox (Coffeeshop next to the lunch place)</a>, <a href="https://maps.app.goo.gl/FKph7w8synv5ZtTY6" target="_blank">Radio The Bar</a>, <a href="https://maps.app.goo.gl/qmmbjdkQfaYXCUwUA" target="_blank">Schikaneder</a>, <a href="https://maps.app.goo.gl/7NH1m8gnSoXaSsNq5" target="_blank">Eulennest Vinothek & Weinbar</a>, <a href="https://maps.app.goo.gl/N5ueE9tenCdb99QAA" target="_blank">Addicted to Rock</a>, <a href="https://maps.app.goo.gl/oxeL3yJWq3EQtbS19" target="_blank">Monami</a>
-- Lunch options for PhD school: <a href="https://maps.app.goo.gl/BppY9Jrb7VhcsAA97" target="_blank">Leberkas-Pepi</a>, <a href="https://maps.app.goo.gl/bVVTSeLuhaGH9g9B9" target="_blank">fein ESSEN</a>, <a href="https://maps.app.goo.gl/2jRDHpSfusWpBb6r8" target="_blank">Nam Nam Dabba</a>, <a href="https://maps.app.goo.gl/gJtTPwaG7RZebMbHA" target="_blank">Mensa TU Wien</a>, <a href="https://maps.app.goo.gl/zPQQjm2dgW9BnzHR7" target="_blank">Muse - Mensa in der Akademie der bildenden Künste</a>
+- Take away lunch options for PhD school: <a href="https://maps.app.goo.gl/BppY9Jrb7VhcsAA97" target="_blank">Leberkas-Pepi</a>, <a href="https://maps.app.goo.gl/bVVTSeLuhaGH9g9B9" target="_blank">fein ESSEN</a>, <a href="https://maps.app.goo.gl/2jRDHpSfusWpBb6r8" target="_blank">Nam Nam Dabba</a>
+- Mensas near conference venue:  <a href="https://maps.app.goo.gl/gJtTPwaG7RZebMbHA" target="_blank">Mensa TU Wien</a>, <a href="https://maps.app.goo.gl/zPQQjm2dgW9BnzHR7" target="_blank">Muse - Mensa in der Akademie der bildenden Künste</a>
 
 
 
@@ -80,24 +81,3 @@ Alternatively, get an access voucher at our registration desk with credentials t
 
 
 
-
-<!-- 
-## Banks and currency Exchange
-The currency in Austria is the Euro. Nearly every store, restaurant or attraction accepts credit card by now, but a few of the smaller stores or fast food/take-away places do only take cash. The easiest option to retrieve cash is to withdraw it from one of the many ATMs (Bankomat in German) around the city.
-
-## Emergency phone numbers
-Police, fire, ambulance (+43) 112
-
-The main Hospital of Vienna is the AKH. Adress: Währinger Gürtel 18-20, 1090 Wien, Austria.
-
-## Voltage
-Electricity in Austria is 220V AC. Plugs are European standard with two round pins.
-
-## Drinking water
-Over 95% of tap water in Vienna originates in a mountain source in the Alps and is of highest quality. Water fountains across the city are labelled “Trinkwasser” (drinking water) to make it clear that you can use them too.
-
-## Shopping
-Be aware that on Sunday shops are closed, except for bakeries, souvenir shops and a few supermarkets at train stations.
-
-## Dining out in Vienna and tipping
-Most restaurants in Vienna are open from 11.30 until midnight. While service is included in the bill, some tipping is expected. A rough estimate is 5-10% rounded to a whole number. Typically the waiter tells you the amount of your bill (e.g. 11,90€) and you tell him/her what you want to pay (e.g. 13€). If you dine out in a group, you can ask the waiter that you want to split the bill. -->
