@@ -48,6 +48,14 @@ usemathjax: true
     background-color: #639bc5;
   }
 
+  tbody > tr.phd-school.header {
+    background-color: #5592c0;
+  }
+
+  tbody > tr.phd-school.header:hover {
+    background-color: #4789bb;
+  }
+
   tbody > tr a {
     color: black !important;
   }
@@ -151,21 +159,20 @@ Jump to <a href="#monday">Monday</a>, <a href="#tuesday">Tuesday</a>, <a href="#
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="registration"><td>08:30 - 09:00</td><td>Registration, <span class="room-info">Room GM3</span></td></tr>
-    <tr class="phd-school">
-    <td>09:00 - 12:00</td><td>
-    <p><a href="../school/#philipp-kindermann">Phd School:</a><br>
-    <span class="authors"><span>Philipp Kindermann</span>. </span><span class="title">Reducing Connectivity Requirements: SPQR-Trees and Block-Cut-Trees</span></p>
-    <p class="room-info">Room GM3</p>
-    </td>
-    </tr>
-    <tr><td>12:00 - 14:00</td><td>Free time for individual lunch break</td></tr>
-    <tr class="phd-school"><td>14:00 - 17:00</td><td>
-    <p>
-    <a href="../school/#tamara-mchedlidze">Phd School:</a><br>
-    <span class="authors"><span>Tamara Mchedlidze</span>. </span><span class="title">European Value Maps &mdash; From Theory to Application</span></p>
-    <p class="room-info">Room GM3</p>
+    <tr class="registration"><td>08:30 &mdash; 09:00</td><td>Registration, <span class="room-info">Room GM3</span></td></tr>
+    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td><td><strong><a href="../school/#philipp-kindermann">Phd School</a>, <span class="room-info">Room GM3</span></strong><br>
+    <span class="authors"><span>Philipp Kindermann</span>. </span><span class="title">Reducing Connectivity Requirements: SPQR-Trees and Block-Cut-Trees</span>
     </td></tr>
+    <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
+    <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
+    <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
+    <tr><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
+    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><strong><a href="../school/#tamara-mchedlidze">Phd School</a>, <span class="room-info">Room GM3</span></strong><br>
+    <span class="authors"><span>Tamara Mchedlidze</span>. </span><span class="title">European Value Maps &mdash; From Theory to Application</span>
+    </td></tr>
+    <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
+    <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
+    <tr class="phd-school"><td>16:00 &mdash; 17:00</td><td>Exercises & Discussion</td></tr>
   </tbody>
 </table>
 
@@ -181,21 +188,20 @@ Jump to <a href="#monday">Monday</a>, <a href="#tuesday">Tuesday</a>, <a href="#
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="phd-school">
-    <td>09:00 - 12:00</td><td>
-    <p><a href="../school/#thekla-hamm">Phd School:</a><br>
-    <span class="authors"><span>Thekla Hamm</span>. </span><span class="title">Parameterized Algorithms and Few Crossings</span></p>
-    <p class="room-info">Room GM3</p>
-    </td>
-    </tr>
-    <tr><td>12:00 - 14:00</td><td>Free time for individual lunch break</td></tr>
-    <tr class="phd-school"><td>14:00 - 17:00</td><td>
-    <p>
-    <a href="../school/#manfred-scheucher">Phd School:</a><br>
-    <span class="authors"><span>Manfred Scheucher</span>. </span><span class="title">Using SAT Solvers in Combinatorial Geometry and Graph Drawing</span></p>
-    <p class="room-info">Room GM3</p>
+    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td><td><strong><a href="../school/#thekla-hamm">Phd School</a>, <span class="room-info">Room GM3</span></strong><br>
+    <span class="authors"><span>Thekla Hamm</span>. </span><span class="title">Parameterized Algorithms and Few Crossings</span>
     </td></tr>
-    <tr class="reception"><td>19:00 - 21:00</td><td>Welcome Reception, <span class="room-info">TUtheSky</span></td></tr>
+    <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
+    <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
+    <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
+    <tr><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
+    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><strong><a href="../school/#manfred-scheucher">Phd School</a>, <span class="room-info">Room GM3</span></strong><br>
+    <span class="authors"><span>Manfred Scheucher</span>. </span><span class="title">Using SAT Solvers in Combinatorial Geometry and Graph Drawing</span>
+    </td></tr>
+    <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
+    <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
+    <tr class="phd-school"><td>16:00 &mdash; 17:00</td><td>Exercises & Discussion</td></tr>
+    <tr class="reception"><td>19:00 &mdash; 21:00</td><td>Welcome Reception, <span class="room-info">TUtheSky</span></td></tr>
   </tbody>
 </table>
 
