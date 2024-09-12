@@ -22,7 +22,7 @@ For each presented poster and exhibited software, there will be the possibility 
 
 The one-minute teaser can be accompanied by a teaser slide, which has to be a one-page PDF and should be sent to <a href="mailto:gd2024@easychair.org">gd2024@easychair.org</a> no later than September 10.
 
-Posters can be up to A0 (portrait) size.
+Posters can be up to A0 (portrait) size. Please bring your posters on Wednesday, 18.09. and hang them up in the poster exhibition space in the back of the TUtheSky room before 14:00.
 
 ### Poster Printing
 If you want to print your poster in Vienna, we recommend the express printing shop [Speedprint.wien](https://express-posterdruck.at) (Theobaldgasse 15, 1060 Vienna), which is just 500m from the venue. You can order online and jobs sent before 16:00 should be ready for pick-up the same day.
