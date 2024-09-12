@@ -77,6 +77,9 @@ You can call a taxi using the phone numbers below, find one waiting at a taxi st
 - +43 1 31300
 - +43 1 40100
 
+## Tourism
+Vienna offers a large variety of sights and attractions, from museums and cultural events to imperial buildings and beautiful parks, many of them located in the central district surrounding St. Stephen's Cathedral. A touristic map and suggested walking routes are found in your conference bag. For an online resource, we refer to the [webpage of the Vienna Tourism Board](https://www.wien.info/en).
+
 ## Bicycles
 After a free registration, you may rent a bike at various bicycle rental stations across the city. More information can be found [here](https://www.wien.info/en/lifestyle-scene/sports/cycling/bicycle-rentals-341248).
 
