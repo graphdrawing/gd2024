@@ -43,6 +43,7 @@ header:
 
 ## For Speakers
 <a href="https://owncloud.tuwien.ac.at/index.php/s/AakVK0qnLV1hPEr" target="_blank" class="link" >Upload your slides here</a>
+Please make sure your presentation file name starts with prefix **SessionX_FIRSTNAME_LASTNAME**, where **X** is the number of the session you are presenting in (refer to the [conference program](/pages/program), use **Session4** for the best paper session).
 
 ## Staying in Vienna
 <a href="https://weather.com/weather/today/l/243ca5c89c465ae544650e5ca367708ff3254e618d74f7e62fae8f7f3005bb93" target="_blank" class="link">Weather forecast</a>
