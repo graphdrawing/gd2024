@@ -8,10 +8,12 @@ main:
     url: /pages/venue
   - title: "PhD School"
     url: /pages/school
-  - title: "Travel & Stay"
-    url: /pages/travel_accomodation
   - title: "Practical Information"
     url: /pages/practical
+  - title: "Software Exhibition"
+    url: /pages/software_session
+  - title: "Travel & Stay"
+    url: /pages/travel_accomodation
   - title: "Registration"
     url: /pages/registration
   - title: "Call for Papers"
@@ -22,8 +24,6 @@ main:
   #  url: /pages/practical
   - title: "Contest"
     url: https://mozart.diei.unipg.it/gdcontest/2024/
-  - title: "Software Exhibition"
-    url: /pages/software_session
   - title: "Accepted Papers"
     url: /pages/accepted_papers
   - title: "News"
