@@ -62,7 +62,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 <a href="https://neo4j.com/" target="_blank"><img src="../gd2024/assets/images/sponsor/neo4j.png" width="170" /></a><br />
 <a href="https://neo4j.com/" target="_blank"><strong>neo4j</strong></a>
 
-### Contributor
+### Contributors
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
