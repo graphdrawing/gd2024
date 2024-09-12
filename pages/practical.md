@@ -60,10 +60,12 @@ Pharmacies operate a 24-hour emergency service outside regular opening hours. Vi
 Free FFP2 face masks are available at the registration desk.
 
 ## Public Transport
-The local transport operator <em>Wiener Linien</em> offers subway (U-Bahn), tram, and bus services. Regular operating hours are from 5am to approximately midnight; outside these hours there is a network of night buses. On Friday and Saturday nights, subways run every 15 minutes during the whole night. 
-Tickets need to be purchased in advance and must be validated before entering. The most convenient option for the whole GD week is the <em>7 Day Vienna</em> ticket. We recommend installing the <em>WienMobil</em> app on your phone, which allows you to do route planning and to buy electronic tickets. 
-
-For more information, see our page on <a href="../travel_accomodation/#getting-around-in-vienna">Getting around in Vienna</a>.
+The local transport operator <a href="https://www.wienerlinien.at/web/wl-en" target="_blank">"Wiener Linien"</a> offers subway (U-Bahn), tram (Straßenbahn), and bus services. Regular operating hours are from 5am to approximately midnight; outside these hours there is a network of night buses. On Friday and Saturday nights, subways run every 15 minutes during the whole night. 
+Tickets need to be purchased in advance and must be validated before entering. They can be bought in any subway station, inside the trams, with the bus driver, or online.
+Single tickets can be purchased at a price of EUR 2.40. A single ticket is valid for traveling one way in one zone. You may change to different lines in the course, but you may not interrupt your journey. The city of Vienna accounts for one full zone or core zone (Kernzone or "Zone 100").
+The most convenient option for the whole GD week is the <em>7 Day Vienna</em> ticket which costs EUR 19.70 (in the app) or EUR 22,60 (paper ticket). It is valid for seven days from the day of purchase.
+We recommend installing the <em>WienMobil</em> app on your phone ([iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US)), which allows you to do route planning and to buy electronic tickets. 
+Alternatively, Google maps has support for the Viennese transport system.
 
 
 ## Shopping
