@@ -38,11 +38,11 @@ header:
 </style>
 
 ## GD 2024
-<a href="#" target="_blank" class="link disabled">Online version of the booklet</a>
-<a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings" target="_blank" class="link">LIPIcs Pre-Proceedings</a>
+<a href="#" target="_blank" class="link disabled">Online version of the booklet (will be available soon)</a>
+<a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings" target="_blank" class="link disabled">LIPIcs Pre-Proceedings (will be available soon)</a>
 
 ## For Speakers
-<a href="#" target="_blank" class="link disabled" >Upload your slides here</a>
+<a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings" target="_blank" class="link" >Upload your slides here</a>
 
 ## Staying in Vienna
 <a href="https://weather.com/weather/today/l/243ca5c89c465ae544650e5ca367708ff3254e618d74f7e62fae8f7f3005bb93" target="_blank" class="link">Weather forecast</a>
