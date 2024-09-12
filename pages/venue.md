@@ -18,6 +18,7 @@ It is located in the 6th district of Vienna, near the <em>Secession</em> art ins
 The symposium takes place in the room
 
 <a href="https://tuw-maps.tuwien.ac.at/?q=BA11B09" target="_blank">TUtheSky</a> of TU Wien<br>
+Building BA<br>
 Getreidemarkt 9<br>
 1060 Vienna,
 
@@ -37,14 +38,14 @@ The building BA can easily be reached from <em>Karlsplatz</em>.
 Be aware that the metro line <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> currently does not stop at <em>Karlsplatz</em>.
 Furthermore, the tram lines <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">D</span>, <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span>, <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">2</span>, and <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">71</span> stop at the station <em>Oper, Karlsplatz</em>, which is connected to <em>Karlsplatz</em> via an underground passage. 
 
-Once at <em>Karlsplatz</em>, leave the station at the exit <em>Secession</em> and then head towards north-west. You reach the venue after five minutes.
+Once at <em>Karlsplatz</em>, leave the station at the exit <em>Secession</em> and then head towards north-west. You pass by the Secession art museum, cross a larger road at the traffic light and then take a right turn towards the tall TU Wien building. You reach the venue after five minutes.
 
 If your hotel is located near <em>Mariahilfer Street</em>, you can reach the venue by heading towards <em>Platz der Menschenrechte</em> and then following the street <em>Getreidemarkt</em> for about five minutes in a south-easterly direction.
 Alternatively, the bus line <span style="background-color: #1c60a7; color: white; font-weight: bold; padding: 0px 2px;">57A</span> stops next to the venue (exit at <em>Getreidemarkt</em>) and connects the 6th and 15th district of Vienna with the venue.
 
 If your hotel is located near <em>Westbahnhof</em>, you can reach the venue by first taking the <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> until the station <em>Volkstheater</em>.
 From there, it is a ten-minute walk in a south-easterly direction to the venue.
-Alternatively, you can take the <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> to <em>Stephansplatz</em> and change there to the <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> which will take you to <em>Karlsplatz</em>.
+<!--Alternatively, you can take the <span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span> to <em>Stephansplatz</em> and change there to the <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span> which will take you to <em>Karlsplatz</em>.-->
 
 
 
@@ -56,18 +57,20 @@ Alternatively, you can take the <span style="background-color: #db7609; color: w
 
 The welcome reception for the main conference will take place on Tuesday, September 17, from 19:00-21:00 in TUtheSky.
 
-Registration and coffee breaks for the main conference and for the PhD School will be in or right next to the respective lecture rooms.
+Registration and coffee breaks for the main conference and for the PhD School will be in or right next to the respective lecture rooms. The registration desk opens at 8:30.
 
 
 ## Lunch
 Lunch during the three conference days will be provided in the Mensa of TU Wien, which is located on the first floor of the <a href="https://tuw-maps.tuwien.ac.at?poi-id=12721&floor=1" target="_blank">"Freihaus" building</a> of TU Wien.
-The mensa is a five minute walk away from the main conference venue.
-We will guide you from the main conference venue to the "Freihaus" building.
+The mensa is a five minute walk away from the main conference venue, see the map on the inside of your nametag or in the conference booklet.
+We will also guide you from the main conference venue to the "Freihaus" building.
+
+The meal plan is provided in the back of your conference booklet or on the [Mensa webpage](https://menu.mensen.at/index/menu-pdf/locid/9?woy=38&year=2024). Please bring your lunch vouchers. 
 
 ## Social Dinner
 
 
-We will have the social dinner on Thursday at 19:00 in 
+We will have the social dinner on Thursday, starting at 19:00 in 
 
 <a href="https://www.dascampus.at/" target="_blank">Das Campus</a><br>
 Welthandelsplatz 1<br>

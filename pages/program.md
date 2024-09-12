@@ -151,7 +151,7 @@ usemathjax: true
 
 ## Detailed Schedule
 
-<p><em>Note for presenters: Please consider the <a href="../presentation_info">provided information</a> when preparing your presentation.</em></p>
+<p><em>Note for presenters: Please consider the <a href="../presentation_info">provided information</a> when preparing your presentation or poster.</em></p>
 
 
 
