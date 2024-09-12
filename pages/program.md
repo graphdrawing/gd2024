@@ -17,6 +17,10 @@ usemathjax: true
     display: table;
     table-layout: fixed;
   }
+  thead.day-header {
+    position: sticky;
+    top: 0px;
+  }
   th {
     text-align: center;
   }
@@ -152,6 +156,8 @@ usemathjax: true
 
 
 <p>Jump to <a href="#monday">Monday</a>, <a href="#tuesday">Tuesday</a>, <a href="#wednesday">Wednesday</a>, <a href="#thursday">Thursday</a>, or <a href="#friday">Friday</a>.</p>
+<p id="jump-current-session-link"></p>
+<p id="jump-next-session-link"></p>
 
 <p><em>[T1] Track 1 Paper</em>, <em>[T2] Track 2 Paper</em>, <em>[S] Short Paper</em></p>
 <table id="monday">
@@ -159,20 +165,20 @@ usemathjax: true
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead>
+  <thead class="day-header">
   <tr><th colspan=2>Monday, September 16</th></tr>
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr class="registration"><td>08:30 &mdash; 09:00</td><td>Registration, <span class="room-info">Lecture Hall GM3</span></td></tr>
-    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td><td><strong><a href="../school/#philipp-kindermann">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
+    <tr class="phd-school header schedule-link" schedule-link-start="2024-09-16T09:00" schedule-link-end="2024-09-16T12:00" schedule-link-text="PhD School, Lecturer: Philipp Kindermann" id="phd-school-philipp"><td>09:00 &mdash; 12:00</td><td><strong><a href="../school/#philipp-kindermann">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
     <span class="authors"><span>Philipp Kindermann</span>. </span><span class="title">Reducing Connectivity Requirements: SPQR-Trees and Block-Cut-Trees</span>
     </td></tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
     <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
     <tr><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
-    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><strong><a href="../school/#tamara-mchedlidze">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
+    <tr class="phd-school header schedule-link" schedule-link-start="2024-09-16T14:00" schedule-link-end="2024-09-16T17:00" schedule-link-text="PhD School, Lecturer: Tamara Mchedlidze" id="phd-school-tamara"><td>14:00 &mdash; 17:00</td><td><strong><a href="../school/#tamara-mchedlidze">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
     <span class="authors"><span>Tamara Mchedlidze</span>. </span><span class="title">European Value Maps &mdash; From Theory to Application</span>
     </td></tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
@@ -188,19 +194,19 @@ usemathjax: true
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead>
+  <thead class="day-header">
     <tr><th colspan=2>Tuesday, September 17</th></tr>
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td><td><strong><a href="../school/#thekla-hamm">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
+    <tr class="phd-school header schedule-link" schedule-link-start="2024-09-17T09:00" schedule-link-end="2024-09-17T12:00" schedule-link-text="PhD School, Lecturer: Thekla Hamm"  id="phd-school-thekla"><td>09:00 &mdash; 12:00</td><td><strong><a href="../school/#thekla-hamm">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
     <span class="authors"><span>Thekla Hamm</span>. </span><span class="title">Parameterized Algorithms and Few Crossings</span>
     </td></tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
     <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
     <tr><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
-    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><strong><a href="../school/#manfred-scheucher">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
+    <tr class="phd-school header schedule-link" schedule-link-start="2024-09-17T14:00" schedule-link-end="2024-09-17T17:00" schedule-link-text="PhD School, Lecturer: Manfred Scheucher" id="phd-school-manfred"><td>14:00 &mdash; 17:00</td><td><strong><a href="../school/#manfred-scheucher">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
     <span class="authors"><span>Manfred Scheucher</span>. </span><span class="title">Using SAT Solvers in Combinatorial Geometry and Graph Drawing</span>
     </td></tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
@@ -217,30 +223,30 @@ usemathjax: true
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead>
+  <thead class="day-header">
     <tr><th colspan=2>Wednesday, September 18</th></tr>
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr class="registration"><td>08:30 &mdash; 09:00</td><td>Registration, <span class="room-info">TUtheSky</span></td></tr>
     <tr class="poster"><td>09:00 &mdash; 09:15</td><td>Opening</td></tr>
-    <tr class="session header" id="session-1"><td><strong>Session 1</strong></td><td><strong>Chair: Torsten Ueckerdt, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-1" schedule-link-start="2024-09-18T09:00" schedule-link-end="2024-09-18T10:30" schedule-link-text="Session 1"><td><strong>Session 1</strong></td><td><strong>Chair: Torsten Ueckerdt, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>09:15 &mdash; 09:35</td><td><span class="authors"><span>Martin Balko, Petr Hliněný, Tomáš Masařík, Joachim Orthaber, <span class="speaker">Birgit Vogtenhuber</span>, and Mirko H. Wagner</span>. </span><span class="title">On the Uncrossed Number of Graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>09:35 &mdash; 09:55</td><td><span class="authors"><span>Aaron Büngener and <span class="speaker">Michael Kaufmann</span></span>. </span><span class="title">Improving the Crossing Lemma by Characterizing Dense 2-Planar and 3-Planar Graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>09:55 &mdash; 10:15</td><td><span class="authors"><span>Aaron Büngener and <span class="speaker">Maximilian Pfister</span></span>. </span><span class="title">On the edge density of bipartite 3-planar and bipartite gap-planar graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>10:15 &mdash; 10:30</td><td><span class="authors"><span><span class="speaker">Panna Gehér</span> and Géza Tóth</span>. </span><span class="title">1-planar unit distance graphs</span> <span class="track">[S]</span></td></tr>
     <tr class="coffee"><td><strong>10:30 &mdash; 11:00</strong></td><td><strong>Coffee Break, <span class="room-info">TUtheSky</span></strong></td></tr>
-    <tr class="session header" id="session-2"><td><strong>Session 2</strong></td><td><strong>Chair: Fabrizio Montecchiani, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-2" schedule-link-start="2024-09-11:00" schedule-link-end="2024-09-11:00" schedule-link-text="Session 2"><td><strong>Session 2</strong></td><td><strong>Chair: Fabrizio Montecchiani, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>11:00 &mdash; 11:20</td><td><span class="authors"><span>Daniel Archambault, Giuseppe Liotta, Martin Nöllenburg, Tommaso Piselli, Alessandra Tappini, and <span class="speaker">Markus Wallinger</span></span>. </span><span class="title">Bundling-Aware Graph Drawing</span> <span class="track">[T2]</span></td></tr>
     <tr class="session light"><td>11:20 &mdash; 11:40</td><td><span class="authors"><span>Amyra Meidiana, <span class="speaker">Seok-Hee Hong</span>, and Yongcheng Jing</span>. </span><span class="title">Connectivity-Faithful Graph Drawing</span> <span class="track">[T2]</span></td></tr>
     <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors"><span><span class="speaker">Gavin J. Mooney</span>, Helen C. Purchase, Michael Wybrow, Stephen G. Kobourov, and Jacob Miller</span>. </span><span class="title">The Perception of Stress in Graph Drawings</span> <span class="track">[T2]</span></td></tr>
     <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors"><span><span class="speaker">Alexander Dobler</span>, Michael Jünger, Paul J. Jünger, Julian Meffert, Petra Mutzel, and Martin Nöllenburg</span>. </span><span class="title">Revisiting ILP Models for Exact Crossing Minimization in Storyline Drawings</span> <span class="track">[T2]</span></td></tr>
     <tr class="lunch"><td><strong>12:20 &mdash; 14:00</strong></td><td><strong>Lunch, <span class="room-info">Mensa "Freihaus"</span></strong></td></tr>
-    <tr class="session header" id="session-3"><td><strong>Session 3</strong></td><td><strong>Chair: Alessandra Tappini, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-3" schedule-link-start="2024-09-18T14:00" schedule-link-end="2024-09-11:00" schedule-link-text="Session 3"><td><strong>Session 3</strong></td><td><strong>Chair: Alessandra Tappini, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>14:00 &mdash; 14:20</td><td><span class="authors"><span><span class="speaker">Thomas Depian</span>, Simon D. Fink, Robert Ganian, and Martin Nöllenburg</span>. </span><span class="title">The Parameterized Complexity of Extending Stack Layouts</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>14:20 &mdash; 14:40</td><td><span class="authors"><span><span class="speaker">Miriam Münch</span> and Ignaz Rutter</span>. </span><span class="title">Parameterized Algorithms for Beyond Planar Crossing Numbers</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>14:40 &mdash; 14:55</td><td><span class="authors"><span>Julia Katheder, <span class="speaker">Philipp Kindermann</span>, Fabian Klute, Irene Parada, and Ignaz Rutter</span>. </span><span class="title">On k-Plane Insertion into Plane Drawings</span> <span class="track">[S]</span></td></tr>
-    <tr class="poster header"><td><strong>14:55 &mdash; 15:15</strong></td><td><strong>Poster & Software Teasers, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="poster header schedule-link" id="poster-software" schedule-link-start="2024-09-18T14:55" schedule-link-end="2024-09-18T16:15" schedule-link-text="Poster Session & Software Exhibition"><td><strong>14:55 &mdash; 15:15</strong></td><td><strong>Poster & Software Teasers, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="poster"><td>15:15 &mdash; 16:15</td><td>
     <p>Poster Session & Software Exhibition, <span class="room-info">TUtheSky & Room BA 10A</span></p>
     <p><strong>Exhibited Posters:</strong>
@@ -268,11 +274,11 @@ usemathjax: true
     </p>
     </td></tr>
     <tr class="coffee"><td><strong>15:15 &mdash; 16:15</strong></td><td><strong>Coffee Break, <span class="room-info">TUtheSky</span></strong></td></tr> 
-    <tr class="session header" id="session-4"><td><strong>Session 4</strong></td><td><strong>Best Paper Session, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-4" schedule-link-start="2024-09-18T16:15" schedule-link-end="2024-09-11:00" schedule-link-text="Best Paper Session"><td><strong>Session 4</strong></td><td><strong>Best Paper Session, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>16:15 &mdash; 16:20</td><td>Introduction to best papers</td></tr>
     <tr class="session light"><td>16:20 &mdash; 16:40</td><td><span class="authors"><span>Michael Kaufmann, Boris Klemz, Kristin Knorr, Meghana M Reddy, <span class="speaker">Felix Schröder</span>, and Torsten Ueckerdt</span>. </span><span class="title">The Density Formula: One Lemma to Bound Them All</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>16:40 &mdash; 17:00</td><td><span class="authors"><span><span class="speaker">Henry Förster</span>, Felix Klesen, Tim Dwyer, Peter Eades, Seok-Hee Hong, Stephen G. Kobourov, Giuseppe Liotta, Kazuo Misue, Fabrizio Montecchiani, Alexander Pastukhov, and Falk Schreiber</span>. </span><span class="title">GraphTrials: Visual Proofs of Graph Properties</span> <span class="track">[T2]</span></td></tr>
-    <tr class="gdc"><td><strong>17:00 &mdash; 18:30</strong></td><td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2024/" target="_blank">GD Live Challenge</a> (<span class="room-info">Lecture Hall GM3</span>) & Continued Software Exhibition (<span class="room-info">Room BA 10A</span>)</strong></td></tr>
+    <tr class="gdc schedule-link" id="gdc" schedule-link-start="2024-09-18T17:00" schedule-link-end="2024-09-18T18:30" schedule-link-text="GD Live Challenge"><td><strong>17:00 &mdash; 18:30</strong></td><td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2024/" target="_blank">GD Live Challenge</a> (<span class="room-info">Lecture Hall GM3</span>) & Continued Software Exhibition (<span class="room-info">Room BA 10A</span>)</strong></td></tr>
   </tbody>
 </table>
 
@@ -283,29 +289,29 @@ usemathjax: true
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead>
+  <thead class="day-header">
     <tr><th colspan=2>Thursday, September 19</th></tr>
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="session header" id="session-5"><td><strong>Session 5</strong></td><td><strong>Chair: Boris Klemz, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-5" schedule-link-start="2024-09-19T09:00" schedule-link-end="2024-09-19T10:30" schedule-link-text="Session 5"><td><strong>Session 5</strong></td><td><strong>Chair: Boris Klemz, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>09:00 &mdash; 09:20</td><td><span class="authors"><span>Markus Chimani, Torben Donzelmann, Nick Kloster, Melissa Koch, Jan-Jakob Völlering, and <span class="speaker">Mirko H. Wagner</span></span>. </span><span class="title">Crossing Numbers of Beyond Planar Graphs Re-revisited: A Framework Approach</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>09:20 &mdash; 09:40</td><td><span class="authors"><span><span class="speaker">Tim Hegemann</span> and Alexander Wolff</span>. </span><span class="title">Storylines with a Protagonist</span> <span class="track">[T2]</span></td></tr>
     <tr class="session"><td>09:40 &mdash; 09:55</td><td><span class="authors"><span><span class="speaker">Susanna Caroppo</span>, Giordano Da Lozzo, and Giuseppe Di Battista</span>. </span><span class="title">Quantum Algorithms for One-Sided Crossing Minimization</span> <span class="track">[S]</span></td></tr>
     <tr class="session light"><td>09:55 &mdash; 10:15</td><td><span class="authors"><span>Annika Bonerath, Martin Nöllenburg, <span class="speaker">Soeren Terziadis</span>, Markus Wallinger, and Jules Wulms</span>. </span><span class="title">Boundary Labeling in a Circular Orbit</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>10:15 &mdash; 10:30</td><td><span class="authors"><span>Adrian Dumitrescu and János Pach (pres. by <span class="speaker">Géza Tóth</span>)</span>. </span><span class="title">Partitioning Complete Geometric Graphs on Dense Point Sets into Plane Subgraphs</span> <span class="track">[S]</span></td></tr>
     <tr class="coffee"><td><strong>10:30 &mdash; 11:00</strong></td><td><strong>Coffee Break, <span class="room-info">TUtheSky</span></strong></td></tr>
-    <tr class="session header" id="session-6"><td><strong>Session 6</strong></td><td><strong>Sponsored by <a href="https://yworks.com/?mtm_campaign=events&mtm_kwd=gd24" target="_blank">yWorks</a>, Chair: Markus Chimani, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-6" schedule-link-start="2024-09-19T11:00" schedule-link-end="2024-09-19T12:20" schedule-link-text="Session 6"><td><strong>Session 6</strong></td><td><strong>Sponsored by <a href="https://yworks.com/?mtm_campaign=events&mtm_kwd=gd24" target="_blank">yWorks</a>, Chair: Markus Chimani, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>11:00 &mdash; 11:20</td><td><span class="authors"><span>Laura Merker, Lena Scherzer, <span class="speaker">Samuel Schneider</span>, and Torsten Ueckerdt</span>. </span><span class="title">Intersection Graphs with and without Product Structure</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>11:20 &mdash; 11:40</td><td><span class="authors"><span><span class="speaker">Vida Dujmović</span> and Camille La Rose</span>. </span><span class="title">Rectilinear Crossing Number of Graphs Excluding Single-Crossing Graphs as Minors</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors"><span>Michael A. Bekos, Prosenjit Bose, Aaron Büngener, Vida Dujmović, Michael Hoffmann, Michael Kaufmann, Pat Morin, Saeed Odak, and <span class="speaker">Alexandra Weinberger</span></span>. </span><span class="title">On k-planar Graphs without Short Cycles</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors"><span>Oksana Firman, Grzegorz Gutowski, Myroslav Kryven, <span class="speaker">Yuto Okada</span>, and Alexander Wolff</span>. </span><span class="title">Bounding the Treewidth of Outer k-Planar Graphs via Triangulations</span> <span class="track">[T1]</span></td></tr>
     <tr class="lunch"><td><strong>12:20 &mdash; 14:00</strong></td><td><strong>Lunch, <span class="room-info">Mensa "Freihaus"</span></strong></td></tr>
-    <tr class="invited-talk"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#otfried-cheong">Invited Talk</a>, <span class="room-info">TUtheSky</span></strong><br>
+    <tr class="invited-talk schedule-link" id="invited-talk-otfried" schedule-link-start="2024-09-19T14:00" schedule-link-end="2024-09-19T15:00" schedule-link-text="Invited Talk by Otfried Cheong"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#otfried-cheong">Invited Talk</a>, <span class="room-info">TUtheSky</span></strong><br>
     <span class="authors"><span>Otfried Cheong</span>. </span><span class="title">How Can Biclique Covers Help in Matching Problems</span>
     </td></tr>
     <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">TUtheSky</span></strong></td></tr>
-    <tr class="session header" id="session-7"><td><strong>Session 7</strong></td><td><strong>Sponsored by <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong></a>, Chair: Géza Tóth, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-7" schedule-link-start="2024-09-19T15:30" schedule-link-end="2024-09-19T16:45" schedule-link-text="Session 7"><td><strong>Session 7</strong></td><td><strong>Sponsored by <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong></a>, Chair: Géza Tóth, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>15:30 &mdash; 15:50</td><td><span class="authors"><span>Jacob Fox, János Pach, and <span class="speaker">Andrew Suk</span></span>. </span><span class="title">Enumeration of intersection graphs of $$x$$-monotone curves</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>15:50 &mdash; 16:05</td><td><span class="authors"><span>Helena Bergold, <span class="speaker">Joachim Orthaber</span>, Manfred Scheucher, and Felix Schröder</span>. </span><span class="title">Holes in Convex and Simple Drawings</span> <span class="track">[S]</span></td></tr>
     <tr class="session"><td>16:05 &mdash; 16:25</td><td><span class="authors"><span>Rohan Acharya, <span class="speaker">Torsten Mütze</span>, and Francesco Verciani</span>. </span><span class="title">Flips in colorful triangulations</span> <span class="track">[T1]</span></td></tr>
@@ -324,28 +330,28 @@ usemathjax: true
     <col width="25%" />
     <col width="75%" />
   </colgroup>
-  <thead>
+  <thead class="day-header">
     <tr><th colspan=2>Friday, September 20</th></tr>
   </thead>
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="session header" id="session-8"><td><strong>Session 8</strong></td><td><strong>Chair: Vida Dujmović, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-8" schedule-link-start="2024-09-20T09:00" schedule-link-end="2024-09-20T10:30" schedule-link-text="Session 8"><td><strong>Session 8</strong></td><td><strong>Chair: Vida Dujmović, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>09:00 &mdash; 09:20</td><td><span class="authors"><span>Therese Biedl, Sabine Cornelsen, <span class="speaker">Jan Kratochvíl</span>, and Ignaz Rutter</span>. </span><span class="title">Constrained Outer-String Representations</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>09:20 &mdash; 09:35</td><td><span class="authors"><span>Daniel J. Chang and <span class="speaker">Timothy Sun</span></span>. </span><span class="title">Harborth's conjecture for 4-regular planar graphs</span> <span class="track">[S]</span></td></tr>
     <tr class="session"><td>09:35 &mdash; 09:50</td><td><span class="authors"><span>Petr Hliněný and <span class="speaker">Lili Ködmön</span></span>. </span><span class="title">Note on Min-k-Planar Drawings of Graphs</span> <span class="track">[S]</span></td></tr>
     <tr class="session light"><td>09:50 &mdash; 10:10</td><td><span class="authors"><span>David Eppstein, Michael T. Goodrich, and <span class="speaker">Abraham M. Illickan</span></span>. </span><span class="title">Drawing Planar Graphs and 1-Planar Graphs Using Cubic Bézier Curves with Bounded Curvature</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>10:10 &mdash; 10:30</td><td><span class="authors"><span>Greg Aloupis, Ahmad Biniaz, Prosenjit Bose, Jean-Lou De Carufel, David Eppstein, Anil Maheshwari, Saeed Odak, Michiel Smid, Csaba D. Tóth, and <span class="speaker">Pavel Valtr</span></span>. </span><span class="title">Noncrossing Longest Paths and Cycles</span> <span class="track">[T1]</span></td></tr>
     <tr class="coffee"><td><strong>10:30 &mdash; 11:00</strong></td><td><strong>Coffee Break, <span class="room-info">TUtheSky</span></strong></td></tr>
-    <tr class="session header" id="session-9"><td><strong>Session 9</strong></td><td><strong>Chair: Maarten Löffler, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-9" schedule-link-start="2024-09-20T11:00" schedule-link-end="2024-09-20T12:20" schedule-link-text="Session 9"><td><strong>Session 9</strong></td><td><strong>Chair: Maarten Löffler, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>11:00 &mdash; 11:20</td><td><span class="authors"><span>Steven Chaplick, <span class="speaker">Henry Förster</span>, Michael Hoffmann, and Michael Kaufmann</span>. </span><span class="title">Monotone Arc Diagrams with few Biarcs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>11:20 &mdash; 11:40</td><td><span class="authors"><span>Oswin Aichholzer, <span class="speaker">Joachim Orthaber</span>, and Birgit Vogtenhuber</span>. </span><span class="title">Separable Drawings: Extendability and Crossing-Free Hamiltonian Cycles</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors"><span>Therese Biedl, Anna Lubiw, and <span class="speaker">Jack Spalding-Jamieson</span></span>. </span><span class="title">Morphing Planar Graph Drawings via Orthogonal Box Drawings</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors"><span>Michael A. Bekos, Giuseppe Di Battista, Emilio Di Giacomo, <span class="speaker">Walter Didimo</span>, Michael Kaufmann, and Fabrizio Montecchiani</span>. </span><span class="title">On the Complexity of Recognizing $$k^+$$-Real Face Graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="lunch"><td><strong>12:20 &mdash; 14:00</strong></td><td><strong>Lunch, <span class="room-info">Mensa "Freihaus"</span></strong></td></tr>
-    <tr class="invited-talk"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#monika-henzinger">Invited Talk</a>, <span class="room-info">TUtheSky</span></strong><br>
+    <tr class="invited-talk schedule-link" id="invited-talk-monika" schedule-link-start="2024-09-20T14:00" schedule-link-end="2024-09-20T15:00" schedule-link-text="Invited Talk by Monika Henzinger"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#monika-henzinger">Invited Talk</a>, <span class="room-info">TUtheSky</span></strong><br>
     <span class="authors"><span>Monika Henzinger</span>. </span><span class="title">How Can Algorithms Help in Protecting our Privacy</span></td></tr>
     <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">TUtheSky</span></strong></td></tr>
-    <tr class="session header" id="session-10"><td><strong>Session 10</strong></td><td><strong>Chair: Andreas Kerren, <span class="room-info">TUtheSky</span></strong></td></tr>
+    <tr class="session header schedule-link" id="session-10" schedule-link-start="2024-09-20T15:30" schedule-link-end="2024-09-20T16:30" schedule-link-text="Session 10"><td><strong>Session 10</strong></td><td><strong>Chair: Andreas Kerren, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>15:30 &mdash; 15:50</td><td><span class="authors"><span><span class="speaker">Patrizio Angelini</span>, Therese Biedl, Markus Chimani, Sabine Cornelsen, Giordano Da Lozzo, Seok-Hee Hong, Giuseppe Liotta, Maurizio Patrignani, Sergey Pupyrev, Ignaz Rutter, and Alexander Wolff.</span></span> <span class="title">The Price of Upwardness</span> <span class="track">[T1]</span></td></tr>
     <tr class="session light"><td>15:50 &mdash; 16:10</td><td><span class="authors"><span>Carlos Alegría, Susanna Caroppo, Giordano Da Lozzo, Marco D'Elia, Giuseppe Di Battista, Fabrizio Frati, <span class="speaker">Fabrizio Grosso</span>, and Maurizio Patrignani</span>. </span><span class="title">Upward Pointset Embeddings of Planar st-Graphs</span> <span class="track">[T1]</span></td></tr>
     <tr class="session"><td>16:10 &mdash; 16:30</td><td><span class="authors"><span>Michael A. Bekos, Giordano Da Lozzo, Fabrizio Frati, Siddharth Gupta, <span class="speaker">Philipp Kindermann</span>, Giuseppe Liotta, Ignaz Rutter, and Ioannis G. Tollis</span>. </span><span class="title">Weakly Leveled Planarity with Bounded Span</span> <span class="track">[T1]</span></td></tr>
@@ -353,31 +359,67 @@ usemathjax: true
   </tbody>
 </table>
 
+<script>
+function fillDynamicSessionLinks(matchedCell, prefixText, parentId, showStartDate) {
+  const linkContainer = document.getElementById(parentId);
+  linkContainer.innerHTML = '';
 
+  const text = document.createTextNode(prefixText);
+  linkContainer.appendChild(text);
+  
+  const jumpLink = document.createElement('a');
+  jumpLink.href = `#${matchedCell.getAttribute('id')}`;
 
+  if(showStartDate) {
+    const startDate = new Date(matchedCell.getAttribute('schedule-link-start'))
+    const dateDay = startDate.getDate().toString().padStart(2, '0');
+    const dateMonth = (startDate.getMonth() + 1).toString().padStart(2, '0');
+    const dateHour = startDate.getHours().toString().padStart(2, '0');
+    const dateMinutes = startDate.getMinutes().toString().padStart(2, '0');
+    jumpLink.textContent = `${matchedCell.getAttribute('schedule-link-text')} (Start: ${dateDay}.${dateMonth}, ${dateHour}:${dateMinutes})`;
+  } else {
+    jumpLink.textContent = `${matchedCell.getAttribute('schedule-link-text')}`;
+  }
 
-	
+  
+  
+  linkContainer.appendChild(jumpLink);
+}
 
-	
+  
+function computeDynamicSessionLinks() {
+  const now = new Date();
+  
+  const scheduleCells = document.querySelectorAll('.schedule-link');
+  let lastMatchedCell = null;
+  let nextMatchedCell = null;
 
-	
+  if (scheduleCells.length > 0) {
+    nextMatchedCell = scheduleCells[0]
+  }
 
-	
+  scheduleCells.forEach((cell, index) => {
+    const scheduleTimeStart = new Date(cell.getAttribute('schedule-link-start'));         
+    const scheduleTimeEnd = new Date(cell.getAttribute('schedule-link-end'));         
+      
+    if (scheduleTimeStart <= now) {
+      if (now <= scheduleTimeEnd) {
+        lastMatchedCell = cell;
+      }      
+      if (index < scheduleCells.length - 1) {
+        nextMatchedCell = scheduleCells[index + 1];
+      }
+    }
+  });
 
-	
+  if(lastMatchedCell) {
+    fillDynamicSessionLinks(lastMatchedCell, 'Current Session: ', 'jump-current-session-link', false);
+  }
 
-	
+  if(nextMatchedCell) {
+    fillDynamicSessionLinks(nextMatchedCell, 'Next Session: ', 'jump-next-session-link', true);
+  }
+}
 
-	
-
-	
-
- 
-
-	
-
-	
-
-	
-
-	
+computeDynamicSessionLinks();
+</script>
