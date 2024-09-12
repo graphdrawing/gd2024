@@ -98,6 +98,7 @@ geometry. </p>
   <img src="../../assets/images/speaker/Monika_Henzinger.jpg">
   <!-- <footer style="font-size: 12px"></footer> -->
   <!-- <figcaption>Caption goes here</figcaption> -->
+  <footer style="font-size: 12px">Copyright Lilli Strauss</footer>
 </figure>
 <h2><a href="https://ist.ac.at/en/research/henzinger_monika-group/">Monika Henzinger</a></h2>
 <p> <strong><a href="https://ist.ac.at">Institute of Science and Technology</a>, Austria</strong> </p>
