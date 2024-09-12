@@ -10,6 +10,49 @@ toc: true
 
 {% assign data = site.data.publicity %}
 
+## Getting around in Vienna
+
+**Public transport ‘‘Wiener Linien’’**
+
+Vienna has great public transport. You may ride via
+
+- Tram, in German called Straßenbahn,
+- Subway, in German called U-Bahn,
+- Train,
+- Bus,
+- Bicycle.
+
+The ["Wiener Linien"](https://www.wienerlinien.at/web/wl-en) tickets include the tram (Straßenbahn), subway (U-Bahn), regional trains (S-Bahn) and buses inside the core zone (which you will only leave if you travel beyond the subway system).
+
+**Plan with an App**
+
+For planning your trips we recommend the [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US) app *Wien Mobil*. Alternatively, Google maps has support for the Viennese transport system.
+
+**Tickets**
+
+Tickets can be bought in any subway station, inside the trams or with the bus driver. You can also buy tickets using the Wiener Linien app on [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US).
+
+Note: some tickets need to be validated when entering the subway station, bus or tram.
+
+Single tickets can be purchased at a price of EUR 2.40. A single ticket is valid for traveling one way in one zone. You may change to different lines in the course, but you may not interrupt your journey. The city of Vienna accounts for one full zone or core zone (Kernzone or "Zone 100").
+
+**Recommendations**
+
+We recommend to get a 7-day ticket for EUR 19.70 (in the app) or EUR 22,60 (paper ticket). It is valid for seven days from the day of purchase. 
+
+Another option is the 72 hour ticket which costs EUR 17.10 and is valid from the time of purchase until 72 hours later. There are 48 hours (EUR 14.10) and 24 hours (EUR 8.00) tickets, too. For comparison a single, one-way trip costs EUR 2.40.
+
+**Bicycles**
+
+After a free registration, you may rent a bike at various bicycle rental stations across the city. More information can be found [here](https://www.wien.info/en/lifestyle-scene/sports/cycling/bicycle-rentals-341248).
+
+**Taxi/Uber**
+
+If you need a ride you can either call a taxi or go to one of the many taxi stands all over Vienna. Uber is also operating in Vienna.
+
+- +43 1 31300
+- +43 1 40100
+
 ## Travelling to Vienna and back
 
 Vienna is easy to reach by train, by plane, or by bus. An overview over the different options is also given [here](https://www.wien.info/en/travel-info/arrival-departure).
@@ -126,46 +169,3 @@ Some cheaper options can be found in the form of hostels. The website [hostelwor
 As an option close to the conference venue we recommend the [Wombats's city hostel](https://www.wombats-hostels.com/vienna).
 
 Near Wien Westbahnhof (<span style="background-color: #db7609; color: white; font-weight: bold; padding: 0px 2px;">U3</span>) there is the Ho(s)tel [JO&JOE](https://all.accor.com/hotel/B677/index.en.shtml) with a nice rooftop terrace.
-
-## Getting around in Vienna
-
-**Public transport ‘‘Wiener Linien’’**
-
-Vienna has great public transport. You may ride via
-
-- Tram, in German called Straßenbahn,
-- Subway, in German called U-Bahn,
-- Train,
-- Bus,
-- Bicycle.
-
-The ["Wiener Linien"](https://www.wienerlinien.at/web/wl-en) tickets include the tram (Straßenbahn), subway (U-Bahn), regional trains (S-Bahn) and buses inside the core zone (which you will only leave if you travel beyond the subway system).
-
-**Plan with an App**
-
-For planning your trips we recommend the [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US) app *Wien Mobil*. Alternatively, Google maps has support for the Viennese transport system.
-
-**Tickets**
-
-Tickets can be bought in any subway station, inside the trams or with the bus driver. You can also buy tickets using the Wiener Linien app on [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US).
-
-Note: some tickets need to be validated when entering the subway station, bus or tram.
-
-Single tickets can be purchased at a price of EUR 2.40. A single ticket is valid for traveling one way in one zone. You may change to different lines in the course, but you may not interrupt your journey. The city of Vienna accounts for one full zone or core zone (Kernzone or "Zone 100").
-
-**Recommendations**
-
-We recommend to get a 7-day ticket for EUR 19.70 (in the app) or EUR 22,60 (paper ticket). It is valid for seven days from the day of purchase. 
-
-Another option is the 72 hour ticket which costs EUR 17.10 and is valid from the time of purchase until 72 hours later. There are 48 hours (EUR 14.10) and 24 hours (EUR 8.00) tickets, too. For comparison a single, one-way trip costs EUR 2.40.
-
-**Bicycles**
-
-After a free registration, you may rent a bike at various bicycle rental stations across the city. More information can be found [here](https://www.wien.info/en/lifestyle-scene/sports/cycling/bicycle-rentals-341248).
-
-**Taxi/Uber**
-
-If you need a ride you can either call a taxi or go to one of the many taxi stands all over Vienna. Uber is also operating in Vienna.
-
-- +43 1 31300
-- +43 1 40100

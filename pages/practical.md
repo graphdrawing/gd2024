@@ -9,6 +9,9 @@ header:
 toc: true
 ---
 
+## WiFi
+On campus you can connect to <em>eduroam</em> using your home institution's eduroam credentials. 
+Alternatively, get an access voucher at our registration desk with credentials that let you connect to SSIDs <em>tunet</em> or <em>tunetguest</em>.
 
 ## Dining Out and Tipping
 Vienna offers an abundance of restaurants of all price ranges and both Austrian and international cuisines. In almost all places you can pay by card, but be aware that some smaller, traditional restaurants or snack stands might only accept cash. 
@@ -45,8 +48,6 @@ All restaurants usually offer several vegeterian/vegan options and there are som
 <p style="display: flex; justify-content: space-between;"><a href="//umap.openstreetmap.de/en/map/gd-2024_60350?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=a1863787-8ca2-442a-8516-dfbffb087ce4%2Ca3070f54-34cd-43b9-985c-a798972492b6%2Cc971f031-41c0-4077-be42-23e48d33ad66%2C75922f34-c366-4e26-93bd-0c0d9df2eb73%2C15383878-48e0-4e57-9ec5-fe384206c651%2Cd06dc05b-29fc-4a63-aaa7-0f49e26a68f5%2Cfbc27064-9ae2-40e2-9948-b81be340233d%2Cf7d4eaee-f28c-42f9-9a2c-69e4febd87bc%2Ce18b71d8-56d9-4f42-9571-15035d7eeabc%2Cfabe5705-7ee6-42ae-afa7-08f4df817469#15/48.1985/16.356&captionControl=null&editinosmControl=false&starControl=false" target="_blank">Open map in new tab</a>
 <a href="https://www.google.com/maps/d/viewer?mid=1kjcvBD7QXbCGXXQTKEoB3_48dFYmCp0" target="_blank">Open in Google Maps</a></p>
 
-
-
 ## Drinking Water
 Tap water in Vienna is of very high quality and is transported to the city via aqueducts from alpine mountain springs more than 100km away. There is no need to buy bottled water, just use the  water bottle provided in your goodie bag and re-fill it in your hotel room, the conference venue, or one of the many public fountains (labeled <em>Trinkwasser</em>) found throughout the city.
 
@@ -65,7 +66,7 @@ Tickets need to be purchased in advance and must be validated before entering. T
 Single tickets can be purchased at a price of EUR 2.40. A single ticket is valid for traveling one way in one zone. You may change to different lines in the course, but you may not interrupt your journey. The city of Vienna accounts for one full zone or core zone (Kernzone or "Zone 100").
 The most convenient option for the whole GD week is the <em>7 Day Vienna</em> ticket which costs EUR 19.70 (in the app) or EUR 22,60 (paper ticket). It is valid for seven days from the day of purchase.
 We recommend installing the <em>WienMobil</em> app on your phone ([iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US)), which allows you to do route planning and to buy electronic tickets. 
-Alternatively, Google maps has support for the Viennese transport system.
+Alternatively, Google maps has support for the Viennese transport system. Note that to get to the airport, you need an extra ticket which can be bought at <a href="https://shop.oebbtickets.at/en/ticket" target="_blank" class="external-link-new-window">ÖBB</a>.
 
 
 ## Shopping
@@ -76,10 +77,8 @@ You can call a taxi using the phone numbers below, find one waiting at a taxi st
 - +43 1 31300
 - +43 1 40100
 
-
-## WiFi
-On campus you can connect to <em>eduroam</em> using your home institution's eduroam credentials. 
-Alternatively, get an access voucher at our registration desk with credentials that let you connect to SSIDs <em>tunet</em> or <em>tunetguest</em>.
+## Bicycles
+After a free registration, you may rent a bike at various bicycle rental stations across the city. More information can be found [here](https://www.wien.info/en/lifestyle-scene/sports/cycling/bicycle-rentals-341248).
 
 
 
