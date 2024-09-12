@@ -80,6 +80,8 @@ From there, it is a ten-minute walk to the restaurant.
 If you do not want to join the tram ride, you can reach the social dinner either by taking the <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> to <em>Krieau</em> or tram line <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span> to <em>Prater, Hauptallee</em>.
 In both cases, it is only a ten-minute walk to the social dinner.
 
+To get back to the city center after dinner, line <span style="background-color: #935e98; color: white; font-weight: bold; padding: 0px 2px;">U2</span> will run every 5&mdash;10 minutes until midnight and tram <span style="background-color: #d3312c; color: white; font-weight: bold; padding: 0px 2px;">1</span> will run every 10&mdash;15 minutes until midnight.
+
 <figure style="width:100%">
   <img src="https://static.wixstatic.com/media/151771_56cc03047cdb47dba840b41b99d57125~mv2_d_3000_2000_s_2.jpg/v1/fill/w_1536,h_1024,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/151771_56cc03047cdb47dba840b41b99d57125~mv2_d_3000_2000_s_2.jpg">
   <footer style="font-size: 12px">Copyright <a href="https://www.dascampus.at/" target="_blank">Das Campus</a></footer>

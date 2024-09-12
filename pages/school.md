@@ -48,6 +48,76 @@ toc: true
     display: flex;
     justify-content: space-between;
   }
+
+  table {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+  }
+  th {
+    text-align: center;
+  }
+  tbody > tr:hover {
+    background-color: #dadada;
+  }
+
+  span.title {
+    font-weight: 500;
+  }
+
+  td > p {
+    font-size: 1em !important;
+  }
+
+  td > p:last-of-type {
+    margin-bottom: 0 !important;
+  }
+
+  .MathJax_Display {
+    display: inherit !important;
+  }
+
+  tbody > tr.phd-school {
+    background-color: #73a5cb;
+  }
+
+  tbody > tr.phd-school:hover {
+    background-color: #639bc5;
+  }
+
+  tbody > tr.phd-school.header {
+    background-color: #5592c0;
+  }
+
+  tbody > tr.phd-school.header:hover {
+    background-color: #4789bb;
+  }
+
+  tbody > tr a {
+    color: black !important;
+  }
+
+  .room-info {
+    font-style: italic;
+  }
+
+  tbody > tr.registration, tbody > tr.reception, tbody > tr.coffee, tbody > tr.lunch, span.coffee {
+    background-color: #f7c473;
+  }
+
+  tbody > tr.registration:hover, tbody > tr.reception:hover, tbody > tr.coffee:hover, tbody > tr.lunch:hover {
+    background-color: #f6ba5b;
+  }
+
+  tbody > tr.lunch.header {
+    background-color: #f4aa35;
+  }
+
+  tbody > tr.lunch.header:hover {
+    background-color: #f3a221;
+  }
+
+
 </style>
 
 Registration for the PhD school is now open and available on the [Registration](https://graphdrawing.github.io/gd2024/pages/registration/) page.
@@ -66,14 +136,57 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 
 ## Program
 
-| Event                         | Speaker                                              |
-|-------------------------------|------------------------------------------------------|
-| Sep. 16, 09:00 - 12:00        | <a href="#philipp-kindermann">Philipp Kindermann</a> |
-| Sep. 16, 14:00 - 17:00	      | <a href="#tamara-mchedlidze">Tamara Mchedlidze</a>   |
-| Sep. 17, 09:00 - 12:00	      | <a href="#thekla-hamm">Thekla Hamm</a>               |              
-| Sep. 17, 14:00 - 17:00	      | <a href="#manfred-scheucher">Manfred Scheucher</a>   |
-|-------------------------------|------------------------------------------------------|
-| Each session contains two parts and a coffee break
+<table id="monday">
+  <colgroup>
+    <col width="25%" />
+    <col width="75%" />
+  </colgroup>
+  <thead>
+  <tr><th colspan=2>Monday, September 16</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
+    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td>
+    <td><a href="#philipp-kindermann"><span class="authors"><span>Philipp Kindermann</span>. </span><span class="title">Reducing Connectivity Requirements: SPQR-Trees and Block-Cut-Trees</span></a>
+    </td></tr>
+    <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
+    <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
+    <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
+    <tr class="lunch"><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
+    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><a href="#tamara-mchedlidze"><span class="authors"><span>Tamara Mchedlidze</span>. </span><span class="title">European Value Maps &mdash; From Theory to Application</span></a>
+    </td></tr>
+    <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
+    <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
+    <tr class="phd-school"><td>16:00 &mdash; 17:00</td><td>Exercises & Discussion</td></tr>
+  </tbody>
+</table>
+
+<hr>
+
+<table id="tuesday">
+  <colgroup>
+    <col width="25%" />
+    <col width="75%" />
+  </colgroup>
+  <thead>
+    <tr><th colspan=2>Tuesday, September 17</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
+    <tr class="phd-school header"><td>09:00 &mdash; 12:00</td><td><a href="#thekla-hamm"><span class="authors"><span>Thekla Hamm</span>. </span><span class="title">Parameterized Algorithms and Few Crossings</span></a>
+    </td></tr>
+    <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
+    <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
+    <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
+    <tr class="lunch"><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
+    <tr class="phd-school header"><td>14:00 &mdash; 17:00</td><td><a href="#manfred-scheucher"><span class="authors"><span>Manfred Scheucher</span>. </span><span class="title">Using SAT Solvers in Combinatorial Geometry and Graph Drawing</span></a>
+    </td></tr>
+    <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
+    <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
+    <tr class="phd-school"><td>16:00 &mdash; 17:00</td><td>Exercises & Discussion</td></tr>
+    <tr class="reception"><td>19:00 &mdash; 21:00</td><td>Welcome Reception, <span class="room-info">TUtheSky</span></td></tr>
+  </tbody>
+</table>
 
  
 ## Lecturers
@@ -86,7 +199,7 @@ The location is accessible by wheelchair and the registration and coffee breaks 
 <p> Reducing Connectivity Requirements: SPQR-Trees and Block-Cut-Trees </p>
 <p> <strong> Abstract: </strong> </p>
 <p> When trying to solve an open problem for planar graphs, one often starts with considering only triangulated or 3-connected graphs. But at some point, everybody will hear the dreaded question: "Can we extend this to biconnected graphs with SPQR-trees?"</p>
-<p>SPQR-trees are by their very nature intimidating. Without experience one can quickly become lost while trying to following arguments of more senior researchers that are used to them. In this lecture, we want to overcome the fear of SPQR-trees. We will investigate the following questions:</p>
+<p>SPQR-trees are by their very nature intimidating. Without experience one can quickly become lost while trying to follow arguments of more senior researchers that are used to them. In this lecture, we want to overcome the fear of SPQR-trees. We will investigate the following questions:</p>
 <ol>
 <li> What are SPQR-trees?</li>
 <li> How do they work?</li>

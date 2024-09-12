@@ -1,7 +1,7 @@
 ---
 # permalink: /about/
 layout: single
-title: "Software Exhibition"
+#title: "Software Exhibition"
 header:
   image: /assets/images/teaser/gloriette_cropped.jpg
   caption: "Image credit: [**Ctrl-alt-skhidt-e**](https://pixabay.com/de/photos/architektur-wien-schloss-sch%C3%B6nbrunn-3652253/)"
@@ -16,6 +16,7 @@ toc: true
 
 </style>
 
+# Software Exhibition
 
 We will host a software exhibition at GD2024!
 It will take place in the room <a href="https://tuw-maps.tuwien.ac.at/?q=BA10G02" target="_blank">BA 10A</a> on the 10th floor of the same building as the main conference location.
