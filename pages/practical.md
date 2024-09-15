@@ -23,7 +23,7 @@ If you are looking for a place to have dinner, <em>Spittelberg</em> is a good lo
 It is a small part of Vienna next to <em>Museumsquartier</em> and close to the conference venue that is known for its small winding alleys, which houses many bars and restaurants.
 Many restaurants have a small <em>Schanigarten</em> to eat outside if the weather permits.
 
-For a drink afterwards, the area around <em>Museumsquartier</em> or the <em>Donaukanal</em> and the <em>Bermudadreieck</em> next to <em>Schwedenplatz</em> are known for their variety of different bars.
+For a drink afterwards, the area around <em>Museumsquartier</em> or the <em>Bermudadreieck</em> next to <em>Schwedenplatz</em> are known for their variety of different bars.
 
 During <strong>PhD School</strong>, the booths at <em>Naschmarkt</em> and (mostly Asian) restaurants along the parallel road <em>Wienzeile</em> are a good place to grab lunch within walking distance to the main venue. Alternatively, there are the nearby mensas of TU Wien and the Academy of Fine Arts.
 
