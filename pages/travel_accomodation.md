@@ -15,7 +15,7 @@ toc: true
 ## Travelling to Vienna and back
 
 
-**_Train travel to Vienna is currently interrupted. There are no interruptions for reaching Vienna by Plane, Bus, and Car. See below for more details._**
+_Train travel to Vienna is currently interrupted. Reaching Vienna by Plane, Bus, and Car is **not** restricted. See below for more details._
 
 
 Vienna is ~~easy~~ to reach by train, by plane, or by bus. An overview over the different options is also given [here](https://www.wien.info/en/travel-info/arrival-departure).
