@@ -14,6 +14,10 @@ toc: true
 
 **Public transport ‘‘Wiener Linien’’**
 
+**_<span style="color: red;">Service interruptions due to weather</span>_**
+
+_ _Certain parts of subway lines U2, U3, U4, U6 are currently not in service due to flooding. They are supposed to open again on Wednesday. Check the [information by Wiener Linien](https://www.wienerlinien.at/news/hochwasserschutz-weiter-eingeschraenkter-betrieb-auf-u6-u4-u3-und-u2) for more details and use the WienMobil App ([iOS](https://apps.apple.com/at/app/wienmobil/id1107918142), [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US)) for planning your local trips using replacement buses and trams._ _
+
 Vienna has great public transport. You may ride via
 
 - Tram, in German called Straßenbahn,
