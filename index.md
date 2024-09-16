@@ -26,7 +26,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ## Travel Conditions
 
-See the [travel page](/pages/travel_accomodation) for updated infos on traveling to Vienna.
+See the [travel page]([/pages/travel_accomodation](https://graphdrawing.github.io/gd2024/pages/travel_accomodation)) for updated infos on traveling to Vienna.
 
 ## Weather Forecast
 <div id="ww_10295f0007f3b" v='1.3' loc='id' a='{"t":"responsive","lang":"en","sl_lpl":1,"ids":["wl7855"],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722","cl_odd":"#FFFFFF17"}'><a href="https://weatherwidget.org/" id="ww_10295f0007f3b_u" target="_blank">Weather widget</a></div><script async src="https://app3.weatherwidget.org/js/?id=ww_10295f0007f3b"></script>
