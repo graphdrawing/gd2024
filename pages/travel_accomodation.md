@@ -10,58 +10,22 @@ toc: true
 
 {% assign data = site.data.publicity %}
 
-## Getting around in Vienna
 
-**Public transport ‘‘Wiener Linien’’**
-
-**_<span style="color: red;">Service interruptions due to weather</span>_**
-
-_ _Certain parts of subway lines U2, U3, U4, U6 are currently not in service due to flooding. They are supposed to open again on Wednesday. Check the [information by Wiener Linien](https://www.wienerlinien.at/news/hochwasserschutz-weiter-eingeschraenkter-betrieb-auf-u6-u4-u3-und-u2) for more details and use the WienMobil App ([iOS](https://apps.apple.com/at/app/wienmobil/id1107918142), [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US)) for planning your local trips using replacement buses and trams._ _
-
-Vienna has great public transport. You may ride via
-
-- Tram, in German called Straßenbahn,
-- Subway, in German called U-Bahn,
-- Train,
-- Bus,
-- Bicycle.
-
-The ["Wiener Linien"](https://www.wienerlinien.at/web/wl-en) tickets include the tram (Straßenbahn), subway (U-Bahn), regional trains (S-Bahn) and buses inside the core zone (which you will only leave if you travel beyond the subway system).
-
-**Plan with an App**
-
-For planning your trips we recommend the [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US) app *Wien Mobil*. Alternatively, Google maps has support for the Viennese transport system.
-
-**Tickets**
-
-Tickets can be bought in any subway station, inside the trams or with the bus driver. You can also buy tickets using the Wiener Linien app on [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US).
-
-Note: some tickets need to be validated when entering the subway station, bus or tram.
-
-Single tickets can be purchased at a price of EUR 2.40. A single ticket is valid for traveling one way in one zone. You may change to different lines in the course, but you may not interrupt your journey. The city of Vienna accounts for one full zone or core zone (Kernzone or "Zone 100").
-
-**Recommendations**
-
-We recommend to get a 7-day ticket for EUR 19.70 (in the app) or EUR 22,60 (paper ticket). It is valid for seven days from the day of purchase. 
-
-Another option is the 72 hour ticket which costs EUR 17.10 and is valid from the time of purchase until 72 hours later. There are 48 hours (EUR 14.10) and 24 hours (EUR 8.00) tickets, too. For comparison a single, one-way trip costs EUR 2.40.
-
-**Bicycles**
-
-After a free registration, you may rent a bike at various bicycle rental stations across the city. More information can be found [here](https://www.wien.info/en/lifestyle-scene/sports/cycling/bicycle-rentals-341248).
-
-**Taxi/Uber**
-
-If you need a ride you can either call a taxi or go to one of the many taxi stands all over Vienna. Uber is also operating in Vienna.
-
-- +43 1 31300
-- +43 1 40100
 
 ## Travelling to Vienna and back
 
-Vienna is easy to reach by train, by plane, or by bus. An overview over the different options is also given [here](https://www.wien.info/en/travel-info/arrival-departure).
+
+**_Train travel to Vienna is currently interrupted. There are no interruptions for reaching Vienna by Plane, Bus, and Car. See below for more details._**
+
+
+Vienna is ~~easy~~ to reach by train, by plane, or by bus. An overview over the different options is also given [here](https://www.wien.info/en/travel-info/arrival-departure).
 
 ### by Train
+
+**_<span style="color: red;">Service interruptions due to weather</span>_**
+
+_Due to the flooding in the state of Lower Austria surrounding Vienna, the main rail lines from Linz, Graz, and Budapest/Bratislava are out of service until the end of Tuesday, September 17. Austrian railways (OEBB) try to operate emergency buses from/to Linz and Mürzzuschlag every three hours between 6:00 and 21:00, but with limited capacities and no guarantees. Trains should resume more regular operations from Wednesday. All tickets remain valid until September 22. Check [OEBB Scotty](https://fahrplan.oebb.at/webapp/?P=HimSearch&start=1) for up-to-date information._
+
 
 <p>There are numerous direct connections between Vienna and other cities in Europe, including many night train connections. Most trains stop at Vienna main station ("<span style="font-style: italic; ">Wien Hauptbahnhof</span>"), which is located south of the city center. From there, you can reach the conference venue and hotels nearby easily and quickly via underground line <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span>.</p>
 
@@ -101,6 +65,54 @@ You will reach the booking platform via [this link](https://www.lufthansa.com/de
 ### by Car
 
 Vienna has a rather bad parking situation in the center. In case you are traveling by car we highly recommend to leave it in one of the “park+ride” P+R garages (an overview can be found [here](https://www.parken.at/page/7/park-&-ride-eine-idee-setzt-sich-durch) and [here](https://www.wien.info/en/travel-info/arrival-departure/park-ride-354906)). From there you can get into the local transportation system of the "Wiener Linien" (to subway (U-Bahn), tram (Straßenbahn), local bus (Bus)).
+
+
+## Getting around in Vienna
+
+**Public transport ‘‘Wiener Linien’’**
+
+**_<span style="color: red;">Service interruptions due to weather</span>_**
+
+_Certain parts of subway lines U2, U3, U4, U6 are currently not in service due to flooding. They are supposed to open again on Wednesday. Line U1, leading to the conference venue, is not affected. Check the [information by Wiener Linien](https://www.wienerlinien.at/news/hochwasserschutz-weiter-eingeschraenkter-betrieb-auf-u6-u4-u3-und-u2) for more details and use the WienMobil App ([iOS](https://apps.apple.com/at/app/wienmobil/id1107918142), [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US)) for planning your local trips using replacement buses and trams._
+
+Vienna has great public transport. You may ride via
+
+- Tram, in German called Straßenbahn,
+- Subway, in German called U-Bahn,
+- Train,
+- Bus,
+- Bicycle.
+
+The ["Wiener Linien"](https://www.wienerlinien.at/web/wl-en) tickets include the tram (Straßenbahn), subway (U-Bahn), regional trains (S-Bahn) and buses inside the core zone (which you will only leave if you travel beyond the subway system).
+
+**Plan with an App**
+
+For planning your trips we recommend the [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US) app *Wien Mobil*. Alternatively, Google maps has support for the Viennese transport system.
+
+**Tickets**
+
+Tickets can be bought in any subway station, inside the trams or with the bus driver. You can also buy tickets using the Wiener Linien app on [iOS](https://apps.apple.com/at/app/wienmobil/id1107918142) and [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US).
+
+Note: some tickets need to be validated when entering the subway station, bus or tram.
+
+Single tickets can be purchased at a price of EUR 2.40. A single ticket is valid for traveling one way in one zone. You may change to different lines in the course, but you may not interrupt your journey. The city of Vienna accounts for one full zone or core zone (Kernzone or "Zone 100").
+
+**Recommendations**
+
+We recommend to get a 7-day ticket for EUR 19.70 (in the app) or EUR 22,60 (paper ticket). It is valid for seven days from the day of purchase. 
+
+Another option is the 72 hour ticket which costs EUR 17.10 and is valid from the time of purchase until 72 hours later. There are 48 hours (EUR 14.10) and 24 hours (EUR 8.00) tickets, too. For comparison a single, one-way trip costs EUR 2.40.
+
+**Bicycles**
+
+After a free registration, you may rent a bike at various bicycle rental stations across the city. More information can be found [here](https://www.wien.info/en/lifestyle-scene/sports/cycling/bicycle-rentals-341248).
+
+**Taxi/Uber**
+
+If you need a ride you can either call a taxi or go to one of the many taxi stands all over Vienna. Uber is also operating in Vienna.
+
+- +43 1 31300
+- +43 1 40100
 
 ## Accommodation
 
