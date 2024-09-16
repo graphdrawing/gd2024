@@ -24,7 +24,9 @@ Vienna is ~~easy~~ to reach by train, by plane, or by bus. An overview over the 
 
 **_<span style="color: red;">Service interruptions due to weather</span>_**
 
-_Due to the flooding in the state of Lower Austria surrounding Vienna, the main rail lines from Linz, Graz, and Budapest/Bratislava are out of service until the end of Tuesday, September 17. Austrian railways (OEBB) try to operate emergency buses from/to Linz and Mürzzuschlag every three hours between 6:00 and 21:00, but with limited capacities and no guarantees. Trains should resume more regular operations from Wednesday. All tickets remain valid until September 22. Check [OEBB Scotty](https://fahrplan.oebb.at/webapp/?P=HimSearch&start=1) for up-to-date information._
+_[16/09 18:30] OEBB announced to resume train service from/to the south towards Graz/Leoben from September 17, 4:00am_
+
+_[16/09 13:00] Due to the flooding in the state of Lower Austria surrounding Vienna, the main rail lines from Linz, Graz, and Budapest/Bratislava are out of service until the end of Tuesday, September 17. Austrian railways (OEBB) try to operate emergency buses from/to Linz and Mürzzuschlag every three hours between 6:00 and 21:00, but with limited capacities and no guarantees. Trains should resume more regular operations from Wednesday. All tickets remain valid until September 22. Check [OEBB Scotty](https://fahrplan.oebb.at/webapp/?P=HimSearch&start=1) for up-to-date information._
 
 
 <p>There are numerous direct connections between Vienna and other cities in Europe, including many night train connections. Most trains stop at Vienna main station ("<span style="font-style: italic; ">Wien Hauptbahnhof</span>"), which is located south of the city center. From there, you can reach the conference venue and hotels nearby easily and quickly via underground line <span style="background-color: #e20210; color: white; font-weight: bold; padding: 0px 2px;">U1</span>.</p>
