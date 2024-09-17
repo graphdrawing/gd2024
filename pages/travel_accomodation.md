@@ -15,7 +15,7 @@ toc: true
 ## Travelling to Vienna and back
 
 
-_Train travel to Vienna is currently interrupted. Reaching Vienna by Plane, Bus, and Car is **not** restricted. See below for more details._
+_Train travel to Vienna is still partially impaired. Reaching Vienna by Plane, Bus, and Car is **not** restricted. See below for more details._
 
 
 Vienna is ~~easy~~ to reach by train, by plane, or by bus. An overview over the different options is also given [here](https://www.wien.info/en/travel-info/arrival-departure).
@@ -23,6 +23,8 @@ Vienna is ~~easy~~ to reach by train, by plane, or by bus. An overview over the 
 ### by Train
 
 **_<span style="color: red;">Service interruptions due to weather</span>_**
+
+_[17/09 23:30] OEBB and WESTbahn announced that from September 18 two trains per hour can travel from Salzburg via Linz to Vienna and back_
 
 _[16/09 18:30] OEBB announced to resume train service from/to the south towards Graz/Leoben from September 17, 4:00am_
 
@@ -75,7 +77,7 @@ Vienna has a rather bad parking situation in the center. In case you are traveli
 
 **_<span style="color: red;">Service interruptions due to weather</span>_**
 
-_Certain parts of subway lines U2, U3, U4, U6 are currently not in service due to flooding. They are supposed to open again on Wednesday. Line U1, leading to the conference venue, is not affected. Check the [information by Wiener Linien](https://www.wienerlinien.at/news/hochwasserschutz-weiter-eingeschraenkter-betrieb-auf-u6-u4-u3-und-u2) for more details and use the WienMobil App ([iOS](https://apps.apple.com/at/app/wienmobil/id1107918142), [Android](https://play.google.com/store/apps/details?id=at.wienerlinien.wienmobillab&hl=de_AT&gl=US)) for planning your local trips using replacement buses and trams._
+_Subway lines U1, U2, U3, U4 resume normal operation from Wednesday, September 18. Line U6 is still partially interrupted._
 
 Vienna has great public transport. You may ride via
 
