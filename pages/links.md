@@ -38,6 +38,7 @@ header:
 </style>
 
 ## GD 2024
+<a href="https://discord.gg/zWwcMkAf" target="_blank" class="link">GD'24 Discord Server</a>
 <a href="#" target="_blank" class="link disabled">Online version of the booklet (will be available soon)</a>
 <a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings" target="_blank" class="link disabled">LIPIcs Pre-Proceedings (will be available soon)</a>
 
