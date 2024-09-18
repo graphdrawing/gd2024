@@ -39,6 +39,7 @@ header:
 
 ## GD 2024
 <a href="https://discord.gg/zWwcMkAf" target="_blank" class="link">GD'24 Discord Server</a>
+<a href="https://live.video.tuwien.ac.at/room/ba11b07/player.html" target="_blank" class="link">GD'24 Live Stream</a>
 <a href="../../assets/pdfs/booklet.pdf" target="_blank" class="link">Online version of the booklet</a>
 <a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings" target="_blank" class="link">LIPIcs Pre-Proceedings</a>
 
