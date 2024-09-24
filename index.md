@@ -11,7 +11,24 @@ header:
 # last_modified_at: 2023-08-09
 ---
 
+<style type="text/css">
+  .thank-you {
+    font-size: 1.2em !important;
+    font-weight: bold;
+  }
+
+  .pictures {
+    font-weight: bolder;
+    color: black !important;
+  }
+</style>
+
 ## September 18-20, 2024 · Vienna, Austria
+
+<p class="thank-you">Thank you all for participating in GD 2024!</p>
+<img src="assets/images/group-pictures/conference.jpg" width="100%" />
+<p><a class="pictures" href="https://owncloud.tuwien.ac.at/index.php/s/2AuhiUQhL5XjzoC" target="_blank">All pictures of GD 2024</a></p>
+
 
 ## About Graph Drawing 2024
 
@@ -30,16 +47,16 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ## Important Dates
 
-| Events                           | Dates                                   |
-|----------------------------------|-----------------------------------------|
-| Abstract submission	deadline     | ~~Friday, May 31, 2024~~                |
-| Paper submission deadline    		 | ~~Friday, June 7, 2024~~                |
-| Notification of paper acceptance | ~~Saturday, July 20, 2024~~             |
-| Poster submission deadline		   | ~~Friday, August 16, 2024~~             |
-| Early registration deadline		   | ~~Tuesday, August 20, 2024~~            |
-| Notification of poster acceptance| ~~Saturday, August 31, 2024~~           |
-| Final versions due		           | ~~Friday, September 6, 2024~~           |
-| Symposium		                     | Wednesday-Friday, September 18-20, 2024 |
+| Events                           | Dates                                       |
+|----------------------------------|---------------------------------------------|
+| Abstract submission	deadline     | ~~Friday, May 31, 2024~~                    |
+| Paper submission deadline    		 | ~~Friday, June 7, 2024~~                    |
+| Notification of paper acceptance | ~~Saturday, July 20, 2024~~                 |
+| Poster submission deadline		   | ~~Friday, August 16, 2024~~                 |
+| Early registration deadline		   | ~~Tuesday, August 20, 2024~~                |
+| Notification of poster acceptance| ~~Saturday, August 31, 2024~~               |
+| Final versions due		           | ~~Friday, September 6, 2024~~               |
+| Symposium		                     | ~~Wednesday-Friday, September 18-20, 2024~~ |
 
 
 ## Sponsors

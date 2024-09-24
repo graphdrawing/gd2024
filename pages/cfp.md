@@ -11,16 +11,16 @@ toc: true
 
 ## Important Dates
 
-| Events                           | Dates                                    |
-|----------------------------------|------------------------------------------|
-| Abstract submission	deadline     | ~~Friday, May 31, 2024~~                 |
-| Paper submission deadline		     | ~~Friday, June 7, 2024~~                 |
-| Notification of paper acceptance | ~~Saturday, July 20, 2024~~              |
-| Poster submission deadline		   | ~~Friday, August 16, 2024~~              |
-| Early registration deadline		   | ~~Tuesday, August 20, 2024~~             |
-| Notification of poster acceptance| ~~Saturday, August 31, 2024~~            |
-| Final versions due		           | ~~Friday, September 6, 2024~~            |
-| Symposium		                     | Wednesday-Friday, September 18-20, 2024  |
+| Events                           | Dates                                        |
+|----------------------------------|----------------------------------------------|
+| Abstract submission	deadline     | ~~Friday, May 31, 2024~~                     |
+| Paper submission deadline		     | ~~Friday, June 7, 2024~~                     |
+| Notification of paper acceptance | ~~Saturday, July 20, 2024~~                  |
+| Poster submission deadline		   | ~~Friday, August 16, 2024~~                  |
+| Early registration deadline		   | ~~Tuesday, August 20, 2024~~                 |
+| Notification of poster acceptance| ~~Saturday, August 31, 2024~~                |
+| Final versions due		           | ~~Friday, September 6, 2024~~                |
+| Symposium		                     | ~~Wednesday-Friday, September 18-20, 2024~~  |
 
 
 ## Call for Papers

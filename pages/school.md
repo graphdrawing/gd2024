@@ -130,7 +130,9 @@ toc: true
 
 </style>
 
-Registration for the PhD school is now open and available on the [Registration](https://graphdrawing.github.io/gd2024/pages/registration/) page.
+<!-- Registration for the PhD school is now open and available on the [Registration](https://graphdrawing.github.io/gd2024/pages/registration/) page. -->
+
+<img src="../../assets/images/group-pictures/phd-school.jpg" width="100%" />
 
 ## Location
 The PhD school takes place in the room
