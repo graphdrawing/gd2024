@@ -422,5 +422,5 @@ function computeDynamicSessionLinks() {
   }
 }
 
-computeDynamicSessionLinks();
+// computeDynamicSessionLinks();
 </script>
