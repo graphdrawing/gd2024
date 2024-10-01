@@ -45,7 +45,7 @@ Furthermore, the GD participants can also vote for the best poster and the best 
 
 <div class="awardee">
 <p><strong>Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter, and Peter Stumpf</strong></p>
-<p>for their paper</p>
+<p>for their poster</p>
 <p><strong>Level Planarity Is More Difficult Than We Thought</strong>.</p>
 </div>
 
