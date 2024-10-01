@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Awards"
+    url: /pages/awards
   - title: "Program"
     url: /pages/program
   - title: "Invited Speakers"
