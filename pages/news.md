@@ -9,6 +9,8 @@ header:
 # toc: true
 ---
 
+[04.11.2024] The <a href="https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-320" target="_blank">official LIPIcs proceedings</a> are now available.
+
 [17.09.2024] The <a href="https://submission.dagstuhl.de/collections/GD-2024" target="_blank">LIPIcs pre-proceedings</a> and the <a href="../../assets/pdfs/booklet.pdf" target="_blank">booklet</a> are now available online.
 
 [10.09.2024] The webpage has been extended by a <a href="../program">detailed program</a>, <a href="../presentation_info">information for speakers</a>, <a href="../software_session">list of exhibited software</a>, and <a href="../practical">practical information for your stay in Vienna</a> (including a <a href="../../#weather-forecast">weather forecast</a>).
