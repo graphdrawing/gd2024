@@ -173,14 +173,14 @@ usemathjax: true
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr class="registration"><td>08:30 &mdash; 09:00</td><td>Registration, <span class="room-info">Lecture Hall GM3</span></td></tr>
     <tr class="phd-school header schedule-link" schedule-link-start="2024-09-16T09:00" schedule-link-end="2024-09-16T12:00" schedule-link-text="PhD School, Lecturer: Philipp Kindermann" id="phd-school-philipp"><td>09:00 &mdash; 12:00</td><td><strong><a href="../school/#philipp-kindermann">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
-    <span class="authors"><span>Philipp Kindermann</span>. </span><span class="title">Reducing Connectivity Requirements: SPQR-Trees and Block-Cut-Trees</span>
+    <span class="authors"><span>Philipp Kindermann</span>. </span><span class="title">Reducing Connectivity Requirements: SPQR-Trees and Block-Cut-Trees</span> <span class="video-link">[<a href="https://youtu.be/VTuc7GV17eM" target="_blank">Video (on YouTube)</a>]</span>
     </td></tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
     <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
     <tr><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
     <tr class="phd-school header schedule-link" schedule-link-start="2024-09-16T14:00" schedule-link-end="2024-09-16T17:00" schedule-link-text="PhD School, Lecturer: Tamara Mchedlidze" id="phd-school-tamara"><td>14:00 &mdash; 17:00</td><td><strong><a href="../school/#tamara-mchedlidze">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
-    <span class="authors"><span>Tamara Mchedlidze</span>. </span><span class="title">European Value Maps &mdash; From Theory to Application</span>
+    <span class="authors"><span>Tamara Mchedlidze</span>. </span><span class="title">European Value Maps &mdash; From Theory to Application</span> <span class="video-link">[<a href="https://youtu.be/pyK_rW_XhMw" target="_blank">Video (on YouTube)</a>]</span>
     </td></tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
@@ -201,14 +201,14 @@ usemathjax: true
   <tbody>
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr class="phd-school header schedule-link" schedule-link-start="2024-09-17T09:00" schedule-link-end="2024-09-17T12:00" schedule-link-text="PhD School, Lecturer: Thekla Hamm"  id="phd-school-thekla"><td>09:00 &mdash; 12:00</td><td><strong><a href="../school/#thekla-hamm">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
-    <span class="authors"><span>Thekla Hamm</span>. </span><span class="title">Parameterized Algorithms and Few Crossings</span>
+    <span class="authors"><span>Thekla Hamm</span>. </span><span class="title">Parameterized Algorithms and Few Crossings</span> <span class="video-link">[<a href="https://youtu.be/MGKfXEh_9wQ" target="_blank">Video (on YouTube)</a>]</span>
     </td></tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
     <tr class="phd-school"><td>11:00 &mdash; 12:00</td><td>Exercises & Discussion</td></tr>
     <tr><td>12:00 &mdash; 14:00</td><td>Individual Lunch Break</td></tr>
     <tr class="phd-school header schedule-link" schedule-link-start="2024-09-17T14:00" schedule-link-end="2024-09-17T17:00" schedule-link-text="PhD School, Lecturer: Manfred Scheucher" id="phd-school-manfred"><td>14:00 &mdash; 17:00</td><td><strong><a href="../school/#manfred-scheucher">Phd School</a>, <span class="room-info">Lecture Hall GM3</span></strong><br>
-    <span class="authors"><span>Manfred Scheucher</span>. </span><span class="title">Using SAT Solvers in Combinatorial Geometry and Graph Drawing</span>
+    <span class="authors"><span>Manfred Scheucher</span>. </span><span class="title">Using SAT Solvers in Combinatorial Geometry and Graph Drawing</span> <span class="video-link">[<a href="https://youtu.be/_c9bVMkFqYw" target="_blank">Video (on YouTube)</a>]</span>
     </td></tr>
     <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture</td></tr>
     <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
@@ -309,7 +309,7 @@ usemathjax: true
     <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors"><span>Oksana Firman, Grzegorz Gutowski, Myroslav Kryven, <span class="speaker">Yuto Okada</span>, and Alexander Wolff</span>. </span><span class="title"><a href="https://doi.org/10.4230/LIPIcs.GD.2024.14" target="_blank">Bounding the Treewidth of Outer k-Planar Graphs via Triangulations</a></span> <span class="slides-link">[<a href="https://owncloud.tuwien.ac.at/index.php/s/jetamDucLVKC5W9" target="_blank">Slides</a>]</span> <span class="track">[T1]</span></td></tr>
     <tr class="lunch"><td><strong>12:20 &mdash; 14:00</strong></td><td><strong>Lunch, <span class="room-info">Mensa "Freihaus"</span></strong></td></tr>
     <tr class="invited-talk schedule-link" id="invited-talk-otfried" schedule-link-start="2024-09-19T14:00" schedule-link-end="2024-09-19T15:00" schedule-link-text="Invited Talk by Otfried Cheong"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#otfried-cheong">Invited Talk</a>, <span class="room-info">TUtheSky</span></strong><br>
-    <span class="authors"><span>Otfried Cheong</span>. </span><span class="title"><a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings/b5cjX5iLqp9c8mF953ee" target="_blank">How Can Biclique Covers Help in Matching Problems</a></span>
+    <span class="authors"><span>Otfried Cheong</span>. </span><span class="title"><a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings/b5cjX5iLqp9c8mF953ee" target="_blank">How Can Biclique Covers Help in Matching Problems</a></span> <span class="video-link">[<a href="https://youtu.be/kG61pwRwoLA" target="_blank">Video (on YouTube)</a>]</span>
     </td></tr>
     <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session header schedule-link" id="session-7" schedule-link-start="2024-09-19T15:30" schedule-link-end="2024-09-19T16:45" schedule-link-text="Session 7"><td><strong>Session 7</strong></td><td><strong>Sponsored by <a href="https://www.tomsawyer.com" target="_blank"><strong>Tom Sawyer Software</strong></a>, Chair: Géza Tóth, <span class="room-info">TUtheSky</span></strong></td></tr>
@@ -350,7 +350,7 @@ usemathjax: true
     <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors"><span>Michael A. Bekos, Giuseppe Di Battista, Emilio Di Giacomo, <span class="speaker">Walter Didimo</span>, Michael Kaufmann, and Fabrizio Montecchiani</span>. </span><span class="title"><a href="https://doi.org/10.4230/LIPIcs.GD.2024.32" target="_blank">On the Complexity of Recognizing $$k^+$$-Real Face Graphs</a></span> <span class="slides-link">[<a href="https://owncloud.tuwien.ac.at/index.php/s/hB4mAaNx4N602CG" target="_blank">Slides</a>]</span> <span class="track">[T1]</span></td></tr>
     <tr class="lunch"><td><strong>12:20 &mdash; 14:00</strong></td><td><strong>Lunch, <span class="room-info">Mensa "Freihaus"</span></strong></td></tr>
     <tr class="invited-talk schedule-link" id="invited-talk-monika" schedule-link-start="2024-09-20T14:00" schedule-link-end="2024-09-20T15:00" schedule-link-text="Invited Talk by Monika Henzinger"><td>14:00 &mdash; 15:00</td><td><strong><a href="../speaker/#monika-henzinger">Invited Talk</a>, <span class="room-info">TUtheSky</span></strong><br>
-    <span class="authors"><span>Monika Henzinger</span>. </span><span class="title"><a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings/ZuSLudLZFqdfpUA653ef" target="_blank">How Can Algorithms Help in Protecting our Privacy</a></span></td></tr>
+    <span class="authors"><span>Monika Henzinger</span>. </span><span class="title"><a href="https://submission.dagstuhl.de/collections/GD-2024/preliminary-proceedings/ZuSLudLZFqdfpUA653ef" target="_blank">How Can Algorithms Help in Protecting our Privacy</a></span> <span class="video-link">[<a href="https://youtu.be/gSVR02as3UI" target="_blank">Video (on YouTube)</a>]</span></td></tr>
     <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session header schedule-link" id="session-10" schedule-link-start="2024-09-20T15:30" schedule-link-end="2024-09-20T16:30" schedule-link-text="Session 10"><td><strong>Session 10</strong></td><td><strong>Chair: Andreas Kerren, <span class="room-info">TUtheSky</span></strong></td></tr>
     <tr class="session"><td>15:30 &mdash; 15:50</td><td><span class="authors"><span><span class="speaker">Patrizio Angelini</span>, Therese Biedl, Markus Chimani, Sabine Cornelsen, Giordano Da Lozzo, Seok-Hee Hong, Giuseppe Liotta, Maurizio Patrignani, Sergey Pupyrev, Ignaz Rutter, and Alexander Wolff.</span></span> <span class="title"><a href="https://doi.org/10.4230/LIPIcs.GD.2024.13" target="_blank">The Price of Upwardness</a></span> <span class="slides-link">[<a href="https://owncloud.tuwien.ac.at/index.php/s/glWPpkdtVBVl1Ca" target="_blank">Slides</a>]</span> <span class="track">[T1]</span></td></tr>
