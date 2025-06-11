@@ -9,9 +9,9 @@ header:
 toc: true
 ---
 
-**Registration is now open.**
+**Registration is closed.**
 
-Early registration ends on August 20, 23:59 CEST. 
+Early registration has ended on August 20, 23:59 CEST. 
 
 ## Registration Fees
 Registration fees for the symposium include the welcome reception (on Tuesday, September 17), coffee breaks, lunches, and the social dinner (on Thursday, September 19).
@@ -36,6 +36,6 @@ The fees for the PhD School only cover the participation at the lectures and the
 The Student status is reserved for students without a completed PhD or an equivalent degree.
 
 ## Registration Instructions
-Registration for the symposium as well as the PhD School is available at [https://www.conftool.org/gd2024/](https://www.conftool.org/gd2024/). 
+Registration for the symposium as well as the PhD School is no longer available.
 
 To register, you will first need to create an account in the system. We support standard credit and debit card payments for the registration fees (VISA / MasterCard / Diners Club / Maestro).
