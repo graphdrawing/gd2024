@@ -27,7 +27,7 @@ header:
 
 <p class="thank-you">Thank you all for participating in GD 2024!</p>
 <img src="assets/images/group-pictures/conference.jpg" width="100%" />
-<p><a class="pictures" href="https://owncloud.tuwien.ac.at/index.php/s/2AuhiUQhL5XjzoC" target="_blank">All pictures of GD 2024</a></p>
+<p><a class="pictures" href="https://ac.tuwien.ac.at/gd2024/pictures/" target="_blank">All pictures of GD 2024</a></p>
 
 
 ## About Graph Drawing 2024
